@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Armas A grade -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<!-- Espada 1h -->
+	<item><production id="80"   count="1"/><ingredient id="57" count="3000000"/></item>
+	<!-- Espada 1h magica -->
+	<item><production id="151"  count="1"/><ingredient id="57" count="3000000"/></item>
+	<!-- Espada 2h -->
+	<item><production id="81"   count="1"/><ingredient id="57" count="3000000"/></item>
+	<!-- Blunt 1h -->
+	<item><production id="164"  count="1"/><ingredient id="57" count="3000000"/></item>
+	<!-- Staff 2h -->
+	<item><production id="212"  count="1"/><ingredient id="57" count="3000000"/></item>
+	<!-- Dagger -->
+	<item><production id="235"  count="1"/><ingredient id="57" count="3000000"/></item>
+	<!-- Bow -->
+	<item><production id="288"  count="1"/><ingredient id="57" count="3000000"/></item>
+	<!-- Pole -->
+	<item><production id="305"  count="1"/><ingredient id="57" count="3000000"/></item>
+	<!-- Dual -->
+	<item><production id="5233" count="1"/><ingredient id="57" count="3500000"/></item>
+	<!-- Dual Fist -->
+	<item><production id="269"  count="1"/><ingredient id="57" count="3500000"/></item>
+</list>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Joias C Grade -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<!-- Earrings -->
+	<item><production id="852" count="1"/><ingredient id="57" count="160000"/></item>
+	<item><production id="853" count="1"/><ingredient id="57" count="160000"/></item>
+	<item><production id="854" count="1"/><ingredient id="57" count="160000"/></item>
+	<item><production id="855" count="1"/><ingredient id="57" count="170000"/></item>
+	<!-- Rings -->
+	<item><production id="882" count="1"/><ingredient id="57" count="150000"/></item>
+	<item><production id="883" count="1"/><ingredient id="57" count="155000"/></item>
+	<!-- Necklaces -->
+	<item><production id="915" count="1"/><ingredient id="57" count="200000"/></item>
+</list>

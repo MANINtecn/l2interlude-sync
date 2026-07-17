@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Armaduras B Grade -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<!-- === HEAVY: Avadon === -->
+	<item><production id="2376" count="1"/><ingredient id="57" count="480000"/></item>
+	<item><production id="2379" count="1"/><ingredient id="57" count="330000"/></item>
+	<item><production id="2415" count="1"/><ingredient id="57" count="240000"/></item>
+	<item><production id="2464" count="1"/><ingredient id="57" count="180000"/></item>
+	<!-- === HEAVY: Blue Wolf === -->
+	<item><production id="358" count="1"/><ingredient id="57" count="540000"/></item>
+	<item><production id="2380" count="1"/><ingredient id="57" count="360000"/></item>
+	<item><production id="2416" count="1"/><ingredient id="57" count="270000"/></item>
+	<item><production id="2439" count="1"/><ingredient id="57" count="210000"/></item>
+	<item><production id="2487" count="1"/><ingredient id="57" count="210000"/></item>
+	<!-- === HEAVY: Doom === -->
+	<item><production id="2381" count="1"/><ingredient id="57" count="720000"/></item>
+	<item><production id="2417" count="1"/><ingredient id="57" count="300000"/></item>
+	<item><production id="601" count="1"/><ingredient id="57" count="228000"/></item>
+	<item><production id="2475" count="1"/><ingredient id="57" count="228000"/></item>
+	<!-- === LIGHT === -->
+	<item><production id="2391" count="1"/><ingredient id="57" count="510000"/></item>
+	<item><production id="2392" count="1"/><ingredient id="57" count="570000"/></item>
+	<!-- === ROBE === -->
+	<item><production id="2398" count="1"/><ingredient id="57" count="492000"/></item>
+	<item><production id="2399" count="1"/><ingredient id="57" count="540000"/></item>
+	<item><production id="2403" count="1"/><ingredient id="57" count="336000"/></item>
+	<item><production id="2404" count="1"/><ingredient id="57" count="372000"/></item>
+	<!-- === SHIELD B === -->
+	<item><production id="104" count="1"/><ingredient id="57" count="420000"/></item>
+</list>

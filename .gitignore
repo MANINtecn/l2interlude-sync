@@ -1,0 +1,7 @@
+# Interlude sync — SO dados (XML/HTML/SQL/config). JAR e geodata sao MANUAIS (GS fechado).
+*.jar
+geodata/
+**/geodata/
+log/
+*.log
+build/classes/

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Joias S grade (Sealed) - 50 Glittering Medal + adena -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<!-- Sealed Tateossian Earring x2 / Ring x2 / Necklace -->
+	<item><production id="6724" count="2"/><ingredient id="57" count="3000000"/><ingredient id="6393" count="50"/></item>
+	<item><production id="6725" count="2"/><ingredient id="57" count="3000000"/><ingredient id="6393" count="50"/></item>
+	<item><production id="6726" count="1"/><ingredient id="57" count="2000000"/><ingredient id="6393" count="50"/></item>
+	<!-- Sealed Majestic Earring x2 / Ring x2 / Necklace -->
+	<item><production id="6327" count="2"/><ingredient id="57" count="3000000"/><ingredient id="6393" count="50"/></item>
+	<item><production id="6328" count="2"/><ingredient id="57" count="3000000"/><ingredient id="6393" count="50"/></item>
+	<item><production id="6326" count="1"/><ingredient id="57" count="2000000"/><ingredient id="6393" count="50"/></item>
+</list>

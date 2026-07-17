@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Arrows -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<item><production id="17" count="100"/><ingredient id="57" count="5000"/></item>
+	<item><production id="1341" count="100"/><ingredient id="57" count="5000"/></item>
+	<item><production id="1342" count="100"/><ingredient id="57" count="5000"/></item>
+	<item><production id="1343" count="100"/><ingredient id="57" count="5000"/></item>
+	<item><production id="1344" count="100"/><ingredient id="57" count="5000"/></item>
+	<item><production id="1345" count="100"/><ingredient id="57" count="5000"/></item>
+</list>

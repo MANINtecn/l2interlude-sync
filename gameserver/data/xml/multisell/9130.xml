@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Pocoes -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<item><production id="1060" count="10"/><ingredient id="57" count="5000"/></item>
+	<item><production id="1061" count="10"/><ingredient id="57" count="12000"/></item>
+	<item><production id="1539" count="10"/><ingredient id="57" count="25000"/></item>
+	<item><production id="728"  count="10"/><ingredient id="57" count="12000"/></item>
+	<item><production id="736"  count="5"/><ingredient id="57" count="2000"/></item>
+	<item><production id="1538" count="5"/><ingredient id="57" count="10000"/></item>
+	<item><production id="737"  count="5"/><ingredient id="57" count="10000"/></item>
+	<item><production id="3936" count="5"/><ingredient id="57" count="50000"/></item>
+	<item><production id="8627" count="5"/><ingredient id="57" count="30000"/></item>
+	<item><production id="8633" count="5"/><ingredient id="57" count="30000"/></item>
+	<item><production id="8639" count="5"/><ingredient id="57" count="30000"/></item>
+	<item><production id="3031" count="100"/><ingredient id="57" count="15000"/></item>
+	<item><production id="5589" count="10"/><ingredient id="57" count="1000"/></item>
+</list>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Tatuagens Greater +4 (100 Glittering Medal + adena) -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<!-- STR +4 -->
+	<item><production id="4613" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+	<item><production id="4614" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+	<!-- CON +4 -->
+	<item><production id="4615" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+	<item><production id="4616" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+	<!-- DEX +4 -->
+	<item><production id="4617" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+	<item><production id="4618" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+	<!-- INT +4 -->
+	<item><production id="4619" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+	<item><production id="4620" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+	<!-- MEN +4 -->
+	<item><production id="4621" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+	<item><production id="4622" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+	<!-- WIT +4 -->
+	<item><production id="4623" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+	<item><production id="4624" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="100"/></item>
+</list>

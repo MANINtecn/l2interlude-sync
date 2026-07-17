@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Passiva individual do CHEST de cada set Dynasty (retail: DEX/STR/CON/WIT/INT/MEN +-, PDef%/MAtk%, HP/MP/Peso, resist). -->
+	<skill id="9416" levels="1" name="Dynasty Breastplate Heavy">
+		<set name="magicLvl" val="1"/>
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<sub stat="DEX" val="2"/>
+			<add stat="STR" val="2"/>
+			<mul stat="pDef" val="1.10"/>
+			<add stat="maxHp" val="645"/>
+			<addMul stat="sleepVuln" val="70"/>
+			<addMul stat="rootVuln" val="70"/>
+		</for>
+	</skill>
+	<skill id="9417" levels="1" name="Dynasty Leather Armor">
+		<set name="magicLvl" val="1"/>
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<add stat="DEX" val="1"/>
+			<add stat="STR" val="1"/>
+			<sub stat="CON" val="2"/>
+			<mul stat="pAtkSpd" val="1.06"/>
+			<mul stat="pAtk" val="1.06"/>
+			<add stat="maxMp" val="489"/>
+			<add stat="weightLimit" val="7759"/>
+		</for>
+	</skill>
+	<skill id="9418" levels="1" name="Dynasty Tunic Robe">
+		<set name="magicLvl" val="1"/>
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<add stat="WIT" val="1"/>
+			<add stat="INT" val="1"/>
+			<sub stat="MEN" val="2"/>
+			<mul stat="mAtk" val="1.19"/>
+			<add stat="runSpd" val="11"/>
+			<addMul stat="cancelVuln" val="50"/>
+			<addMul stat="stunVuln" val="50"/>
+			<add stat="weightLimit" val="7759"/>
+		</for>
+	</skill>
+
+	<!-- Bonus de SET COMPLETO (5/5 pecas). O ArmorSetListener sempre usa level 1, entao
+	     cada set (Heavy/Light/Robe) precisa da SUA PROPRIA skill ID (nao levels da mesma). -->
+	<skill id="9420" levels="1" name="Dynasty Heavy Set">
+		<set name="magicLvl" val="1"/>
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<add stat="pDef" val="145"/>
+		</for>
+	</skill>
+	<skill id="9421" levels="1" name="Dynasty Light Set">
+		<set name="magicLvl" val="1"/>
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<add stat="pAtkSpd" val="55"/>
+		</for>
+	</skill>
+	<skill id="9422" levels="1" name="Dynasty Robe Set">
+		<set name="magicLvl" val="1"/>
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<add stat="mAtkSpd" val="95"/>
+		</for>
+	</skill>
+
+	<!-- Bonus de +6 enchant no set completo (enchant6Skill no armorSets.xml) - 1 skill por tipo
+	     (mesmo motivo acima: sempre level 1). -->
+	<skill id="9423" levels="1" name="Dynasty Heavy Set Enchant 6">
+		<set name="magicLvl" val="1"/>
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<mul stat="pDef" val="1.05"/>
+			<mul stat="regMp" val="1.10"/>
+		</for>
+	</skill>
+	<skill id="9424" levels="1" name="Dynasty Light Set Enchant 6">
+		<set name="magicLvl" val="1"/>
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<mul stat="mDef" val="1.05"/>
+			<add stat="rEvas" val="3"/>
+		</for>
+	</skill>
+	<skill id="9425" levels="1" name="Dynasty Robe Set Enchant 6">
+		<set name="magicLvl" val="1"/>
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<mul stat="pDef" val="1.05"/>
+			<add stat="weightLimit" val="3000"/>
+		</for>
+	</skill>
+</list>

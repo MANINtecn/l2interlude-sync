@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Armas Icarus (pack williamfs) - craft 60% no Kraug; recipe items 9541-9550 -->
+<list>
+	<item id="9501" type="Weapon" name="Icarus Heavy Arms">
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1740" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="442" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9505" type="Weapon" name="Icarus Spitter">
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="9" />
+		<for>
+			<set stat="pAtk" val="689" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="12" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9509" type="Weapon" name="Icarus Hammer">
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1740" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="353" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9513" type="Weapon" name="Icarus Disperser">
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="318" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="12" />
+			<set stat="pAtkSpd" val="433" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9517" type="Weapon" name="Icarus Hand">
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1550" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="442" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9521" type="Weapon" name="Icarus Sawsword">
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="353" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9525" type="Weapon" name="Icarus Spirit">
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="290" />
+			<set stat="mAtk" val="217" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9529" type="Weapon" name="Icarus Trident">
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="2010" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="363" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9533" type="Weapon" name="Icarus Hall">
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1080" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="290" />
+			<set stat="mAtk" val="217" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9537" type="Weapon" name="Icarus Dual Sword">
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1550" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="399" />
+			<set stat="mAtk" val="147" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9541" type="EtcItem" name="Recipe: Icarus Heavy Arms (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9542" type="EtcItem" name="Recipe: Icarus Spitter (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9543" type="EtcItem" name="Recipe: Icarus Hammer (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9544" type="EtcItem" name="Recipe: Icarus Disperser (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9545" type="EtcItem" name="Recipe: Icarus Hand (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9546" type="EtcItem" name="Recipe: Icarus Sawsword (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9547" type="EtcItem" name="Recipe: Icarus Spirit (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9548" type="EtcItem" name="Recipe: Icarus Trident (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9549" type="EtcItem" name="Recipe: Icarus Hall (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9550" type="EtcItem" name="Recipe: Icarus Dual Sword (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9560" type="EtcItem" name="Collector Hound Collar">
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="CollectorPets" />
+	</item>
+	<item id="9561" type="EtcItem" name="Collector Dino Collar">
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="CollectorPets" />
+	</item>
+	<item id="9502" type="Weapon" name="Icarus Heavy Arms - Haste">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3564-1" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1740" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="442" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9503" type="Weapon" name="Icarus Heavy Arms - Health">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3013-3" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1740" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="442" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9504" type="Weapon" name="Icarus Heavy Arms - Focus">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3566-1" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1740" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="442" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9506" type="Weapon" name="Icarus Spitter - Cheap Shot">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3552-1" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="9" />
+		<for>
+			<set stat="pAtk" val="689" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="12" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9507" type="Weapon" name="Icarus Spitter - Focus">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3566-1" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="9" />
+		<for>
+			<set stat="pAtk" val="689" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="12" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9508" type="Weapon" name="Icarus Spitter - Critical Slow">
+		<set name="default_action" val="equip" />
+		<set name="oncrit_chance" val="16" />
+		<set name="oncrit_skill" val="3574-1" />
+		<set name="item_skill" val="3552-1" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="9" />
+		<for>
+			<set stat="pAtk" val="689" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="12" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9510" type="Weapon" name="Icarus Hammer - HP Drain">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3568-1" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1740" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="353" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9511" type="Weapon" name="Icarus Hammer - Health">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3013-3" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1740" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="353" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9512" type="Weapon" name="Icarus Hammer - HP Regeneration">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3569-1" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1740" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="353" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9514" type="Weapon" name="Icarus Disperser - Crt. Damage">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3572-1" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="318" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="12" />
+			<set stat="pAtkSpd" val="433" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9515" type="Weapon" name="Icarus Disperser - HP Drain">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3568-1" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="318" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="12" />
+			<set stat="pAtkSpd" val="433" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9516" type="Weapon" name="Icarus Disperser - Haste">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3564-1" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="318" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="12" />
+			<set stat="pAtkSpd" val="433" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9518" type="Weapon" name="Icarus Hand - Focus">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3566-1" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1550" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="442" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9519" type="Weapon" name="Icarus Hand - Health">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3013-3" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1550" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="442" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9520" type="Weapon" name="Icarus Hand - Crt. Stun">
+		<set name="default_action" val="equip" />
+		<set name="oncrit_chance" val="27" />
+		<set name="oncrit_skill" val="3571-1" />
+		<set name="item_skill" val="3552-1" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1550" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="442" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9522" type="Weapon" name="Icarus Sawsword - Haste">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3564-1" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="353" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9523" type="Weapon" name="Icarus Sawsword - Health">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3013-3" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="353" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9524" type="Weapon" name="Icarus Sawsword - Focus">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3566-1" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="353" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9526" type="Weapon" name="Icarus Spirit - Acumen">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3047-2" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="290" />
+			<set stat="mAtk" val="217" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9527" type="Weapon" name="Icarus Spirit - MP Regeneration">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3576-1" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="290" />
+			<set stat="mAtk" val="217" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9528" type="Weapon" name="Icarus Spirit - Mana Up">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3014-2" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1520" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="290" />
+			<set stat="mAtk" val="217" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9530" type="Weapon" name="Icarus Trident - Health">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3013-3" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="2010" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="363" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9531" type="Weapon" name="Icarus Trident - Guidance">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3602-9" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="2010" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="363" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9532" type="Weapon" name="Icarus Trident - Haste">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3564-1" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="2010" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="363" />
+			<set stat="mAtk" val="163" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9534" type="Weapon" name="Icarus Hall - Empower">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3575-1" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1080" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="290" />
+			<set stat="mAtk" val="217" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9535" type="Weapon" name="Icarus Hall - MP Regeneration">
+		<set name="default_action" val="equip" />
+		<set name="item_skill" val="3576-1" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1080" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="290" />
+			<set stat="mAtk" val="217" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="9536" type="Weapon" name="Icarus Hall - Magic Hold">
+		<set name="default_action" val="equip" />
+		<set name="oncast_chance" val="20" />
+		<set name="oncast_skill" val="3577-1" />
+		<set name="item_skill" val="3552-1" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="3000" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1080" />
+		<set name="price" val="60000000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<for>
+			<set stat="pAtk" val="290" />
+			<set stat="mAtk" val="217" />
+			<set stat="rCrit" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<!-- Livros dos shields custom TOP S (itens 30705/30706/30712/30719-30724) - craft 60% no Kraug -->
+	<item id="9551" type="EtcItem" name="Recipe: Rosalia Shield (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9552" type="EtcItem" name="Recipe: TMB Shield (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9553" type="EtcItem" name="Recipe: Bear Shield (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9554" type="EtcItem" name="Recipe: Leaf Shield (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9555" type="EtcItem" name="Recipe: Wind Dragon Shield (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9556" type="EtcItem" name="Recipe: Fire Dragon Shield (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9557" type="EtcItem" name="Recipe: Helios Shield (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9558" type="EtcItem" name="Recipe: Paladin Shield (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9559" type="EtcItem" name="Recipe: Marshal Shield (60%)">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+</list>

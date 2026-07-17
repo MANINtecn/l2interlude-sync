@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Joias A grade - 25 Event Medal + adena -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<!-- Majestic -->
+	<item><production id="862" count="2"/><ingredient id="57" count="800000"/><ingredient id="6392" count="25"/></item>
+	<item><production id="893" count="2"/><ingredient id="57" count="800000"/><ingredient id="6392" count="25"/></item>
+	<item><production id="924" count="1"/><ingredient id="57" count="600000"/><ingredient id="6392" count="25"/></item>
+	<!-- Phantom -->
+	<item><production id="868" count="2"/><ingredient id="57" count="700000"/><ingredient id="6392" count="25"/></item>
+	<item><production id="899" count="2"/><ingredient id="57" count="700000"/><ingredient id="6392" count="25"/></item>
+	<item><production id="930" count="1"/><ingredient id="57" count="500000"/><ingredient id="6392" count="25"/></item>
+	<!-- Phoenix -->
+	<item><production id="871" count="2"/><ingredient id="57" count="700000"/><ingredient id="6392" count="25"/></item>
+	<item><production id="902" count="2"/><ingredient id="57" count="700000"/><ingredient id="6392" count="25"/></item>
+	<item><production id="933" count="1"/><ingredient id="57" count="500000"/><ingredient id="6392" count="25"/></item>
+	<!-- Cerberus -->
+	<item><production id="872" count="2"/><ingredient id="57" count="700000"/><ingredient id="6392" count="25"/></item>
+	<item><production id="903" count="2"/><ingredient id="57" count="700000"/><ingredient id="6392" count="25"/></item>
+	<item><production id="934" count="1"/><ingredient id="57" count="500000"/><ingredient id="6392" count="25"/></item>
+	<!-- Especiais -->
+	<item><production id="6661" count="2"/><ingredient id="57" count="900000"/><ingredient id="6392" count="25"/></item>
+	<item><production id="6662" count="2"/><ingredient id="57" count="900000"/><ingredient id="6392" count="25"/></item>
+	<item><production id="8191" count="1"/><ingredient id="57" count="1000000"/><ingredient id="6392" count="25"/></item>
+</list>

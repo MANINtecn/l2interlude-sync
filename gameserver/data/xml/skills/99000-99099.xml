@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Skill visual flutuante - icone logo_npc acima do NPC Candice -->
+	<skill id="99001" levels="1" name="Candice">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<set name="hitTime" val="0"/>
+		<set name="reuseDelay" val="0"/>
+		<set name="mpConsume" val="0"/>
+		<for>
+			<effect name="Buff" time="-1" val="0" stackType="candice_icon" stackOrder="1"/>
+		</for>
+	</skill>
+</list>

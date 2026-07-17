@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Shields custom TOP S (packs BucksGame/byNevesOma + super-game) - craft 60% no Kraug.
+     IDs mantidos dos packs (30705/30706/30712/30719-30724) para as linhas de weapongrp
+     do cliente valerem sem edicao. Stats: Imperial Crusader Shield (sDef 290) +7% = 310,
+     coerente com o set Dynasty ser acima do retail. Livros: 9551-9559, receitas 9611-9619. -->
+<list>
+	<item id="30705" type="Armor" name="Helios Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="0" />
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="310" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30706" type="Armor" name="Paladin Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="0" />
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="310" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30712" type="Armor" name="Marshal Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="0" />
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="310" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30719" type="Armor" name="Rosalia Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="0" />
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="310" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30720" type="Armor" name="TMB Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="0" />
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="310" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30721" type="Armor" name="Bear Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="0" />
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="310" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30722" type="Armor" name="Leaf Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="0" />
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="310" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30723" type="Armor" name="Wind Dragon Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="0" />
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="310" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30724" type="Armor" name="Fire Dragon Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="0" />
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="310" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+</list>

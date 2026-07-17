@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<item id="9400" type="Armor" name="Dynasty BreastPlate">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="chest" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="7620" />
+		<set name="price" val="0" />
+		<set name="item_skill" val="9416-1" />
+		<for>
+			<baseadd stat="pDef" val="310" />
+			<add stat="pAtk" val="450" />
+			<add stat="pAtkSpd" val="300" />
+			<add stat="maxHp" val="2000" />
+			<add stat="maxMp" val="1000" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9401" type="Armor" name="Dynasty Gaiter">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="legs" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="3260" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="250" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9402" type="Armor" name="Dynasty Helmet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="1400" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="200" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9403" type="Armor" name="Dynasty Gauntlet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="540" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="140" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9404" type="Armor" name="Dynasty Boots">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1110" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="140" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+
+	<item id="9405" type="Armor" name="Dynasty Leather Armor">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="chest" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="6620" />
+		<set name="price" val="0" />
+		<set name="item_skill" val="9417-1" />
+		<for>
+			<baseadd stat="pDef" val="300" />
+			<add stat="pAtk" val="550" />
+			<add stat="pAtkSpd" val="320" />
+			<add stat="maxHp" val="2500" />
+			<add stat="maxMp" val="1000" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9406" type="Armor" name="Dynasty Leather Leggings">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="legs" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="2860" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="220" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9407" type="Armor" name="Dynasty Leather Helmet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1200" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="180" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9408" type="Armor" name="Dynasty Leather Gloves">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="480" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9409" type="Armor" name="Dynasty Leather Boots">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="980" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+
+	<item id="9410" type="Armor" name="Dynasty Tunic">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="chest" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="4150" />
+		<set name="price" val="0" />
+		<set name="item_skill" val="9418-1" />
+		<for>
+			<baseadd stat="pDef" val="210" />
+			<add stat="mAtk" val="500" />
+			<add stat="mAtkSpd" val="340" />
+			<add stat="maxHp" val="2000" />
+			<add stat="maxMp" val="2000" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9411" type="Armor" name="Dynasty Stockings">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="legs" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1860" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="150" />
+			<add stat="maxMp" val="266" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9412" type="Armor" name="Dynasty Circlet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="900" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="170" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9413" type="Armor" name="Dynasty Gloves">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="350" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9414" type="Armor" name="Dynasty Shoes">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="700" />
+		<set name="price" val="0" />
+		<for>
+			<baseadd stat="pDef" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+
+	<!-- Livros de receita (RecipeBook) do craft Dynasty. Handler Recipes = ao usar, ensina a receita. -->
+	<item id="9426" type="EtcItem" name="Recipe: Dynasty BreastPlate">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9427" type="EtcItem" name="Recipe: Dynasty Gaiter">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9428" type="EtcItem" name="Recipe: Dynasty Helmet">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9429" type="EtcItem" name="Recipe: Dynasty Gauntlet">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9430" type="EtcItem" name="Recipe: Dynasty Boots">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9431" type="EtcItem" name="Recipe: Dynasty Leather Armor">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9432" type="EtcItem" name="Recipe: Dynasty Leather Leggings">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9433" type="EtcItem" name="Recipe: Dynasty Leather Helmet">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9434" type="EtcItem" name="Recipe: Dynasty Leather Gloves">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9435" type="EtcItem" name="Recipe: Dynasty Leather Boots">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9436" type="EtcItem" name="Recipe: Dynasty Tunic">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9437" type="EtcItem" name="Recipe: Dynasty Stockings">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9438" type="EtcItem" name="Recipe: Dynasty Circlet">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9439" type="EtcItem" name="Recipe: Dynasty Gloves">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9440" type="EtcItem" name="Recipe: Dynasty Shoes">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+
+	<!-- Livros de receita RAROS (100% de sucesso garantido). Drop futuro: raid/epic boss. -->
+	<item id="9441" type="EtcItem" name="Ancient Recipe: Dynasty BreastPlate">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9442" type="EtcItem" name="Ancient Recipe: Dynasty Gaiter">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9443" type="EtcItem" name="Ancient Recipe: Dynasty Helmet">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9444" type="EtcItem" name="Ancient Recipe: Dynasty Gauntlet">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9445" type="EtcItem" name="Ancient Recipe: Dynasty Boots">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9446" type="EtcItem" name="Ancient Recipe: Dynasty Leather Armor">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9447" type="EtcItem" name="Ancient Recipe: Dynasty Leather Leggings">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9448" type="EtcItem" name="Ancient Recipe: Dynasty Leather Helmet">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9449" type="EtcItem" name="Ancient Recipe: Dynasty Leather Gloves">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9450" type="EtcItem" name="Ancient Recipe: Dynasty Leather Boots">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9451" type="EtcItem" name="Ancient Recipe: Dynasty Tunic">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9452" type="EtcItem" name="Ancient Recipe: Dynasty Stockings">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9453" type="EtcItem" name="Ancient Recipe: Dynasty Circlet">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9454" type="EtcItem" name="Ancient Recipe: Dynasty Gloves">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9455" type="EtcItem" name="Ancient Recipe: Dynasty Shoes">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="RECIPE" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+
+	<!-- Moeda custom do servidor. Dropada em mapas novos (ex: Mystic Taberna) e usada como
+	     material extra no craft Dynasty. Sem handler (nao e consumivel/equipavel; so material). -->
+	<item id="9456" type="EtcItem" name="CTcoin">
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="0" />
+		<set name="is_stackable" val="true" />
+	</item>
+</list>

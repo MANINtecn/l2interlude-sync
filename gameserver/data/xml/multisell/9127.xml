@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Encants -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<!-- Scroll Enchant Weapon D/C/B/A - so adena -->
+	<item><production id="955"  count="1"/><ingredient id="57" count="50000"/></item>
+	<item><production id="951"  count="1"/><ingredient id="57" count="80000"/></item>
+	<item><production id="947"  count="1"/><ingredient id="57" count="120000"/></item>
+	<item><production id="729"  count="1"/><ingredient id="57" count="180000"/></item>
+	<!-- Blessed Scroll Enchant Weapon C/D - so adena -->
+	<item><production id="6575" count="1"/><ingredient id="57" count="100000"/></item>
+	<item><production id="6573" count="1"/><ingredient id="57" count="150000"/></item>
+	<!-- Blessed Scroll Enchant Weapon B - 25 prata + adena -->
+	<item><production id="6571" count="1"/><ingredient id="57" count="220000"/><ingredient id="6392" count="25"/></item>
+	<!-- Blessed Scroll Enchant Weapon A - 5 ouro + 25 prata + adena -->
+	<item><production id="6569" count="1"/><ingredient id="57" count="350000"/><ingredient id="6393" count="5"/><ingredient id="6392" count="25"/></item>
+	<!-- Blessed Scroll Enchant Weapon S - 10 ouro + 50 prata + adena -->
+	<item><production id="6577" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="10"/><ingredient id="6392" count="50"/></item>
+	<!-- Scroll Enchant Armor D/C/B/A - so adena -->
+	<item><production id="956"  count="1"/><ingredient id="57" count="40000"/></item>
+	<item><production id="952"  count="1"/><ingredient id="57" count="65000"/></item>
+	<item><production id="948"  count="1"/><ingredient id="57" count="100000"/></item>
+	<item><production id="730"  count="1"/><ingredient id="57" count="150000"/></item>
+	<!-- Blessed Scroll Enchant Armor C/D - so adena -->
+	<item><production id="6576" count="1"/><ingredient id="57" count="80000"/></item>
+	<item><production id="6574" count="1"/><ingredient id="57" count="120000"/></item>
+	<!-- Blessed Scroll Enchant Armor B - 25 prata + adena -->
+	<item><production id="6572" count="1"/><ingredient id="57" count="180000"/><ingredient id="6392" count="25"/></item>
+	<!-- Blessed Scroll Enchant Armor A - 5 ouro + 25 prata + adena -->
+	<item><production id="6570" count="1"/><ingredient id="57" count="280000"/><ingredient id="6393" count="5"/><ingredient id="6392" count="25"/></item>
+	<!-- Blessed Scroll Enchant Armor S - 10 ouro + 50 prata + adena -->
+	<item><production id="6578" count="1"/><ingredient id="57" count="400000"/><ingredient id="6393" count="10"/><ingredient id="6392" count="50"/></item>
+</list>

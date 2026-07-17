@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Armaduras C Grade -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<!-- === HEAVY === -->
+	<!-- Mithril/Composite -->
+	<item><production id="58" count="1"/><ingredient id="57" count="180000"/></item>
+	<item><production id="59" count="1"/><ingredient id="57" count="120000"/></item>
+	<item><production id="499" count="1"/><ingredient id="57" count="90000"/></item>
+	<item><production id="61" count="1"/><ingredient id="57" count="70000"/></item>
+	<item><production id="62" count="1"/><ingredient id="57" count="70000"/></item>
+	<item><production id="60" count="1"/><ingredient id="57" count="200000"/></item>
+	<item><production id="64" count="1"/><ingredient id="57" count="75000"/></item>
+	<!-- === LIGHT === -->
+	<item><production id="2390" count="1"/><ingredient id="57" count="190000"/></item>
+	<!-- === ROBE === -->
+	<item><production id="2396" count="1"/><ingredient id="57" count="195000"/></item>
+	<!-- === SHIELD C === -->
+	<item><production id="103" count="1"/><ingredient id="57" count="150000"/></item>
+</list>

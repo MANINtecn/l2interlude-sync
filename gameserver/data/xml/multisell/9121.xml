@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Armas C Grade -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<!-- Sword -->
+	<item><production id="72" count="1"/><ingredient id="57" count="200000"/></item>
+	<item><production id="73" count="1"/><ingredient id="57" count="180000"/></item>
+	<item><production id="135" count="1"/><ingredient id="57" count="210000"/></item>
+	<!-- Two-handed Sword -->
+	<item><production id="71" count="1"/><ingredient id="57" count="250000"/></item>
+	<!-- Blunt -->
+	<item><production id="191" count="1"/><ingredient id="57" count="220000"/></item>
+	<!-- Dagger -->
+	<item><production id="226" count="1"/><ingredient id="57" count="170000"/></item>
+	<item><production id="227" count="1"/><ingredient id="57" count="175000"/></item>
+	<item><production id="228" count="1"/><ingredient id="57" count="190000"/></item>
+	<item><production id="233" count="1"/><ingredient id="57" count="185000"/></item>
+	<!-- Bow -->
+	<item><production id="285" count="1"/><ingredient id="57" count="260000"/></item>
+	<item><production id="286" count="1"/><ingredient id="57" count="270000"/></item>
+	<!-- Polearm -->
+	<item><production id="299" count="1"/><ingredient id="57" count="240000"/></item>
+</list>

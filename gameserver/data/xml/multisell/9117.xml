@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM Shop Candice - Armaduras A grade -->
+<list>
+	<npcs><npc>31305</npc></npcs>
+	<!-- Heavy A -->
+	<item><production id="365"  count="1"/><ingredient id="57" count="2000000"/></item>
+	<item><production id="374"  count="1"/><ingredient id="57" count="2000000"/></item>
+	<item><production id="2382" count="1"/><ingredient id="57" count="2000000"/></item>
+	<item><production id="2383" count="1"/><ingredient id="57" count="2000000"/></item>
+	<!-- Light A -->
+	<item><production id="2385" count="1"/><ingredient id="57" count="2000000"/></item>
+	<item><production id="2393" count="1"/><ingredient id="57" count="2000000"/></item>
+	<item><production id="2394" count="1"/><ingredient id="57" count="2000000"/></item>
+	<item><production id="2395" count="1"/><ingredient id="57" count="2000000"/></item>
+	<!-- Robe A -->
+	<item><production id="2400" count="1"/><ingredient id="57" count="2000000"/></item>
+	<item><production id="2407" count="1"/><ingredient id="57" count="2000000"/></item>
+	<item><production id="2408" count="1"/><ingredient id="57" count="2000000"/></item>
+	<item><production id="2409" count="1"/><ingredient id="57" count="2000000"/></item>
+	<!-- Pecas avulsas Majestic -->
+	<item><production id="2419" count="1"/><ingredient id="57" count="800000"/></item>
+	<item><production id="2482" count="1"/><ingredient id="57" count="800000"/></item>
+	<item><production id="583"  count="1"/><ingredient id="57" count="800000"/></item>
+	<!-- Pecas avulsas Nightmare -->
+	<item><production id="2418" count="1"/><ingredient id="57" count="800000"/></item>
+	<item><production id="2479" count="1"/><ingredient id="57" count="800000"/></item>
+	<item><production id="2440" count="1"/><ingredient id="57" count="800000"/></item>
+	<!-- Escudos A -->
+	<item><production id="2498" count="1"/><ingredient id="57" count="1000000"/></item>
+	<item><production id="5292" count="1"/><ingredient id="57" count="1000000"/></item>
+</list>
