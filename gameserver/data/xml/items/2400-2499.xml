@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
 	<item id="2400" type="Armor" name="Tallum Tunic">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="chest" />
@@ -46,6 +47,7 @@
 		</for>
 	</item>
 	<item id="2403" type="Armor" name="Blue Wolf Stockings">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="legs" />
@@ -61,6 +63,7 @@
 		</for>
 	</item>
 	<item id="2404" type="Armor" name="Stockings of Doom">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="legs" />
@@ -91,6 +94,7 @@
 		</for>
 	</item>
 	<item id="2406" type="Armor" name="Avadon Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="fullarmor" />
@@ -106,6 +110,7 @@
 		</for>
 	</item>
 	<item id="2407" type="Armor" name="Dark Crystal Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="fullarmor" />
@@ -121,6 +126,7 @@
 		</for>
 	</item>
 	<item id="2408" type="Armor" name="Nightmare Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="fullarmor" />
@@ -136,6 +142,7 @@
 		</for>
 	</item>
 	<item id="2409" type="Armor" name="Majestic Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="fullarmor" />
@@ -165,6 +172,7 @@
 		</for>
 	</item>
 	<item id="2411" type="Armor" name="Brigandine Helmet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="D" />
@@ -217,6 +225,7 @@
 		</for>
 	</item>
 	<item id="2415" type="Armor" name="Avadon Circlet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="B" />
@@ -230,6 +239,7 @@
 		</for>
 	</item>
 	<item id="2416" type="Armor" name="Blue Wolf Helmet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="B" />
@@ -243,6 +253,7 @@
 		</for>
 	</item>
 	<item id="2417" type="Armor" name="Doom Helmet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="B" />
@@ -256,6 +267,7 @@
 		</for>
 	</item>
 	<item id="2418" type="Armor" name="Helm of Nightmare">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="A" />
@@ -269,6 +281,7 @@
 		</for>
 	</item>
 	<item id="2419" type="Armor" name="Majestic Circlet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="A" />
@@ -347,6 +360,7 @@
 		</for>
 	</item>
 	<item id="2425" type="Armor" name="Brigandine Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="D" />
@@ -529,6 +543,7 @@
 		</for>
 	</item>
 	<item id="2439" type="Armor" name="Blue Wolf Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="B" />
@@ -542,6 +557,7 @@
 		</for>
 	</item>
 	<item id="2440" type="Armor" name="Boots of Nightmare">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -659,6 +675,7 @@
 		</for>
 	</item>
 	<item id="2449" type="Armor" name="Brigandine Gauntlets">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="D" />
@@ -854,6 +871,7 @@
 		</for>
 	</item>
 	<item id="2464" type="Armor" name="Avadon Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -997,6 +1015,7 @@
 		</for>
 	</item>
 	<item id="2475" type="Armor" name="Doom Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -1049,6 +1068,7 @@
 		</for>
 	</item>
 	<item id="2479" type="Armor" name="Gauntlets of Nightmare">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -1088,6 +1108,7 @@
 		</for>
 	</item>
 	<item id="2482" type="Armor" name="Majestic Gauntlets">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -1153,6 +1174,7 @@
 		</for>
 	</item>
 	<item id="2487" type="Armor" name="Blue Wolf Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -1300,6 +1322,7 @@
 		</for>
 	</item>
 	<item id="2498" type="Armor" name="Shield of Nightmare">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="A" />

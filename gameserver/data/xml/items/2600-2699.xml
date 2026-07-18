@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
 	<item id="2600" type="Weapon" name="Raid Sword*Caliburs">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUAL" />
 		<set name="bodypart" val="lrhand" />
@@ -25,6 +26,7 @@
 		</for>
 	</item>
 	<item id="2601" type="Weapon" name="Raid Sword*Sword of Limit">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUAL" />
 		<set name="bodypart" val="lrhand" />
@@ -121,6 +123,7 @@
 		</for>
 	</item>
 	<item id="2605" type="Weapon" name="Raid Sword*Samurai Long Sword">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUAL" />
 		<set name="bodypart" val="lrhand" />
@@ -145,6 +148,7 @@
 		</for>
 	</item>
 	<item id="2606" type="Weapon" name="Caliburs*Caliburs">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUAL" />
 		<set name="bodypart" val="lrhand" />

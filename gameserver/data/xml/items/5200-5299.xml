@@ -276,6 +276,7 @@
 		<set name="etcitem_type" val="QUEST" />
 	</item>
 	<item id="5233" type="Weapon" name="Keshanberk*Keshanberk">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUAL" />
 		<set name="bodypart" val="lrhand" />
@@ -923,6 +924,7 @@
 		</for>
 	</item>
 	<item id="5292" type="Armor" name="Sealed Dark Crystal Shield">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="A" />

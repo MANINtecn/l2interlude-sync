@@ -336,6 +336,7 @@
 		</for>
 	</item>
 	<item id="123" type="Weapon" name="Saber">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -359,6 +360,7 @@
 		</for>
 	</item>
 	<item id="124" type="Weapon" name="Two-Handed Sword">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -382,6 +384,7 @@
 		</for>
 	</item>
 	<item id="125" type="Weapon" name="Spinebone Sword">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -612,6 +615,7 @@
 		</for>
 	</item>
 	<item id="135" type="Weapon" name="Samurai Longsword">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -719,6 +723,7 @@
 		</for>
 	</item>
 	<item id="140" type="Weapon" name="Eminence Sword">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -761,6 +766,7 @@
 		</for>
 	</item>
 	<item id="142" type="Weapon" name="Keshanberk">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -976,6 +982,7 @@
 		</for>
 	</item>
 	<item id="151" type="Weapon" name="Sword of Miracles">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
@@ -1152,6 +1159,7 @@
 		</for>
 	</item>
 	<item id="159" type="Weapon" name="Bonebreaker">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -1270,6 +1278,7 @@
 		</for>
 	</item>
 	<item id="164" type="Weapon" name="Elysian">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -1533,6 +1542,7 @@
 		</for>
 	</item>
 	<item id="175" type="Weapon" name="Art of Battle Axe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -1699,6 +1709,7 @@
 		</for>
 	</item>
 	<item id="182" type="Weapon" name="Doom Hammer">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1724,6 +1735,7 @@
 		</for>
 	</item>
 	<item id="183" type="Weapon" name="Mystic Staff">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -1924,6 +1936,7 @@
 		</for>
 	</item>
 	<item id="191" type="Weapon" name="Heavy Doom Hammer">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />

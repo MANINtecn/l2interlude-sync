@@ -226,6 +226,7 @@
 		</for>
 	</item>
 	<item id="209" type="Weapon" name="Divine Staff">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -301,6 +302,7 @@
 		</for>
 	</item>
 	<item id="212" type="Weapon" name="Dasparion's Staff">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -596,6 +598,7 @@
 		</for>
 	</item>
 	<item id="225" type="Weapon" name="Mithril Dagger">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -620,6 +623,7 @@
 		</for>
 	</item>
 	<item id="226" type="Weapon" name="Cursed Dagger">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -644,6 +648,7 @@
 		</for>
 	</item>
 	<item id="227" type="Weapon" name="Stiletto">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -668,6 +673,7 @@
 		</for>
 	</item>
 	<item id="228" type="Weapon" name="Crystal Dagger">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -692,6 +698,7 @@
 		</for>
 	</item>
 	<item id="229" type="Weapon" name="Kris">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -788,6 +795,7 @@
 		</for>
 	</item>
 	<item id="233" type="Weapon" name="Dark Screamer">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -836,6 +844,7 @@
 		</for>
 	</item>
 	<item id="235" type="Weapon" name="Bloody Orchid">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1508,6 +1517,7 @@
 		</for>
 	</item>
 	<item id="267" type="Weapon" name="Arthro Nail">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -1532,6 +1542,7 @@
 		</for>
 	</item>
 	<item id="268" type="Weapon" name="Bellion Cestus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -1556,6 +1567,7 @@
 		</for>
 	</item>
 	<item id="269" type="Weapon" name="Blood Tornado">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -1696,6 +1708,7 @@
 		</for>
 	</item>
 	<item id="275" type="Weapon" name="Long Bow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -1930,6 +1943,7 @@
 		</for>
 	</item>
 	<item id="284" type="Weapon" name="Dark Elven Long Bow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -1956,6 +1970,7 @@
 		</for>
 	</item>
 	<item id="285" type="Weapon" name="Noble Elven Bow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -1982,6 +1997,7 @@
 		</for>
 	</item>
 	<item id="286" type="Weapon" name="Eminence Bow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -2008,6 +2024,7 @@
 		</for>
 	</item>
 	<item id="287" type="Weapon" name="Bow of Peril">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -2034,6 +2051,7 @@
 		</for>
 	</item>
 	<item id="288" type="Weapon" name="Carnage Bow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -2112,6 +2130,7 @@
 		</for>
 	</item>
 	<item id="291" type="Weapon" name="Trident">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -2137,6 +2156,7 @@
 		</for>
 	</item>
 	<item id="292" type="Weapon" name="Pike">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -2312,6 +2332,7 @@
 		</for>
 	</item>
 	<item id="299" type="Weapon" name="Orcish Poleaxe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />

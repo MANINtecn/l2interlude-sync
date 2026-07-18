@@ -126,6 +126,7 @@
 		</for>
 	</item>
 	<item id="305" type="Weapon" name="Tallum Glaive">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -1192,6 +1193,7 @@
 		</for>
 	</item>
 	<item id="352" type="Armor" name="Brigandine Tunic">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="chest" />
@@ -1276,6 +1278,7 @@
 		</for>
 	</item>
 	<item id="358" type="Armor" name="Blue Wolf Breastplate">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="chest" />
@@ -1374,6 +1377,7 @@
 		</for>
 	</item>
 	<item id="365" type="Armor" name="Dark Crystal Breastplate">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="chest" />
@@ -1500,6 +1504,7 @@
 		</for>
 	</item>
 	<item id="374" type="Armor" name="Armor of Nightmare">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="fullarmor" />
@@ -1769,6 +1774,7 @@
 		</for>
 	</item>
 	<item id="393" type="Armor" name="Mithril Banded Mail">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="chest" />

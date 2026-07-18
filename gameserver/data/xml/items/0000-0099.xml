@@ -770,6 +770,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="58" type="Armor" name="Mithril Breastplate">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="chest" />
@@ -784,6 +785,7 @@
 		</for>
 	</item>
 	<item id="59" type="Armor" name="Mithril Gaiters">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="legs" />
@@ -798,6 +800,7 @@
 		</for>
 	</item>
 	<item id="60" type="Armor" name="Composite Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="fullarmor" />
@@ -812,6 +815,7 @@
 		</for>
 	</item>
 	<item id="61" type="Armor" name="Mithril Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="D" />
@@ -825,6 +829,7 @@
 		</for>
 	</item>
 	<item id="62" type="Armor" name="Mithril Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="C" />
@@ -851,6 +856,7 @@
 		</for>
 	</item>
 	<item id="64" type="Armor" name="Composite Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="C" />
@@ -954,6 +960,7 @@
 		</for>
 	</item>
 	<item id="70" type="Weapon" name="Claymore">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -977,6 +984,7 @@
 		</for>
 	</item>
 	<item id="71" type="Weapon" name="Flamberge">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -1000,6 +1008,7 @@
 		</for>
 	</item>
 	<item id="72" type="Weapon" name="Stormbringer">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -1023,6 +1032,7 @@
 		</for>
 	</item>
 	<item id="73" type="Weapon" name="Shamshir">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -1138,6 +1148,7 @@
 		</for>
 	</item>
 	<item id="78" type="Weapon" name="Great Sword">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -1161,6 +1172,7 @@
 		</for>
 	</item>
 	<item id="79" type="Weapon" name="Sword of Damascus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -1184,6 +1196,7 @@
 		</for>
 	</item>
 	<item id="80" type="Weapon" name="Tallum Blade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -1207,6 +1220,7 @@
 		</for>
 	</item>
 	<item id="81" type="Weapon" name="Dragon Slayer">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />

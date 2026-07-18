@@ -772,6 +772,7 @@
 		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
 	</item>
 	<item id="2376" type="Armor" name="Avadon Breastplate">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="chest" />
@@ -800,6 +801,7 @@
 		</for>
 	</item>
 	<item id="2378" type="Armor" name="Brigandine Gaiters">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="legs" />
@@ -814,6 +816,7 @@
 		</for>
 	</item>
 	<item id="2379" type="Armor" name="Avadon Gaiters">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="legs" />
@@ -828,6 +831,7 @@
 		</for>
 	</item>
 	<item id="2380" type="Armor" name="Blue Wolf Gaiters">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="legs" />
@@ -842,6 +846,7 @@
 		</for>
 	</item>
 	<item id="2381" type="Armor" name="Doom Plate Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="fullarmor" />
@@ -856,6 +861,7 @@
 		</for>
 	</item>
 	<item id="2382" type="Armor" name="Tallum Plate Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="fullarmor" />
@@ -870,6 +876,7 @@
 		</for>
 	</item>
 	<item id="2383" type="Armor" name="Majestic Plate Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="fullarmor" />
@@ -898,6 +905,7 @@
 		</for>
 	</item>
 	<item id="2385" type="Armor" name="Dark Crystal Leather Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="chest" />
@@ -965,6 +973,7 @@
 		</for>
 	</item>
 	<item id="2390" type="Armor" name="Avadon Leather Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="fullarmor" />
@@ -979,6 +988,7 @@
 		</for>
 	</item>
 	<item id="2391" type="Armor" name="Blue Wolf Leather Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="fullarmor" />
@@ -993,6 +1003,7 @@
 		</for>
 	</item>
 	<item id="2392" type="Armor" name="Leather Armor of Doom">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="fullarmor" />
@@ -1007,6 +1018,7 @@
 		</for>
 	</item>
 	<item id="2393" type="Armor" name="Tallum Leather Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="fullarmor" />
@@ -1021,6 +1033,7 @@
 		</for>
 	</item>
 	<item id="2394" type="Armor" name="Nightmarish Leather Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="fullarmor" />
@@ -1035,6 +1048,7 @@
 		</for>
 	</item>
 	<item id="2395" type="Armor" name="Majestic Leather Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="fullarmor" />
@@ -1049,6 +1063,7 @@
 		</for>
 	</item>
 	<item id="2396" type="Armor" name="Elven Mithril Tunic">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="chest" />
@@ -1079,6 +1094,7 @@
 		</for>
 	</item>
 	<item id="2398" type="Armor" name="Blue Wolf Tunic">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="chest" />
@@ -1094,6 +1110,7 @@
 		</for>
 	</item>
 	<item id="2399" type="Armor" name="Tunic of Doom">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="chest" />
