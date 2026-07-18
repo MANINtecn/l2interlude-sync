@@ -317,6 +317,7 @@
 		<set name="item_skill" val="2045-1" />
 	</item>
 	<item id="1835" type="EtcItem" name="Soulshot: No Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="soulshot" />
 		<set name="material" val="PAPER" />
 		<set name="weight" val="4" />

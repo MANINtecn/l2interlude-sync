@@ -82,11 +82,13 @@
 		<set name="etcitem_type" val="QUEST" />
 	</item>
 	<item id="7609" type="EtcItem" name="Proof of Catching a Fish">
+		<set name="is_sellable" val="false" />
 		<set name="material" val="PAPER" />
 		<set name="price" val="500" />
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="7610" type="EtcItem" name="Wind Fishing Lure">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -95,6 +97,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="7611" type="EtcItem" name="Icy Air Fishing Lure">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -103,6 +106,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="7612" type="EtcItem" name="Earth Fishing Lure">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -111,6 +115,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="7613" type="EtcItem" name="Flaming Fishing Lure">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />

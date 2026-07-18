@@ -542,6 +542,7 @@
 		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying}}}" />
 	</item>
 	<item id="3936" type="EtcItem" name="Blessed Scroll of Resurrection">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCROLL" />
 		<set name="material" val="PAPER" />
@@ -675,6 +676,7 @@
 		<set name="item_skill" val="2061-1" />
 	</item>
 	<item id="3948" type="EtcItem" name="Blessed Spiritshot: D-Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="spiritshot" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="PAPER" />
@@ -686,6 +688,7 @@
 		<set name="item_skill" val="2160-1" />
 	</item>
 	<item id="3949" type="EtcItem" name="Blessed Spiritshot: C-Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="spiritshot" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="PAPER" />
@@ -697,6 +700,7 @@
 		<set name="item_skill" val="2161-1" />
 	</item>
 	<item id="3950" type="EtcItem" name="Blessed Spiritshot: B-Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="spiritshot" />
 		<set name="crystal_type" val="B" />
 		<set name="material" val="PAPER" />
@@ -708,6 +712,7 @@
 		<set name="item_skill" val="2162-1" />
 	</item>
 	<item id="3951" type="EtcItem" name="Blessed Spiritshot: A-Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="spiritshot" />
 		<set name="crystal_type" val="A" />
 		<set name="material" val="PAPER" />
@@ -719,6 +724,7 @@
 		<set name="item_skill" val="2163-1" />
 	</item>
 	<item id="3952" type="EtcItem" name="Blessed Spiritshot: S Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="spiritshot" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="PAPER" />

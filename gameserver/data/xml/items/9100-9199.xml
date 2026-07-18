@@ -581,12 +581,14 @@
 		<set name="item_skill" val="2321-1" />
 	</item>
 	<item id="9158" type="Armor" name="Golden Circlet of Redemption">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hairall" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="10" />
 	</item>
 	<item id="9159" type="Armor" name="Silver Circlet of Salvation">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hairall" />
 		<set name="material" val="STEEL" />

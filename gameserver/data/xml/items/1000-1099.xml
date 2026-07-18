@@ -490,6 +490,7 @@
 		<set name="price" val="500" />
 	</item>
 	<item id="1060" type="EtcItem" name="Lesser Healing Potion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="POTION" />
 		<set name="material" val="LIQUID" />
@@ -504,6 +505,7 @@
 		<set name="shared_reuse_group" val="8" />
 	</item>
 	<item id="1061" type="EtcItem" name="Healing Potion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="POTION" />
 		<set name="material" val="LIQUID" />

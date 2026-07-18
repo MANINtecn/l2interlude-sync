@@ -178,6 +178,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="2509" type="EtcItem" name="Spiritshot: No Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="spiritshot" />
 		<set name="material" val="PAPER" />
 		<set name="weight" val="5" />
@@ -187,6 +188,7 @@
 		<set name="item_skill" val="2047-1" />
 	</item>
 	<item id="2510" type="EtcItem" name="Spiritshot: D-grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="spiritshot" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="PAPER" />
@@ -197,6 +199,7 @@
 		<set name="item_skill" val="2155-1" />
 	</item>
 	<item id="2511" type="EtcItem" name="Spiritshot: C-grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="spiritshot" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="PAPER" />
@@ -207,6 +210,7 @@
 		<set name="item_skill" val="2156-1" />
 	</item>
 	<item id="2512" type="EtcItem" name="Spiritshot: B-grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="spiritshot" />
 		<set name="crystal_type" val="B" />
 		<set name="material" val="PAPER" />
@@ -217,6 +221,7 @@
 		<set name="item_skill" val="2157-1" />
 	</item>
 	<item id="2513" type="EtcItem" name="Spiritshot: A-grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="spiritshot" />
 		<set name="crystal_type" val="A" />
 		<set name="material" val="PAPER" />
@@ -227,6 +232,7 @@
 		<set name="item_skill" val="2158-1" />
 	</item>
 	<item id="2514" type="EtcItem" name="Spiritshot: S-grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="spiritshot" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="PAPER" />

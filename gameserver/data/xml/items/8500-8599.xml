@@ -565,6 +565,7 @@
 		<set name="weight" val="10" />
 	</item>
 	<item id="8559" type="Armor" name="Diadem">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hairall" />
 		<set name="material" val="WOOD" />
@@ -574,36 +575,42 @@
 		</cond>
 	</item>
 	<item id="8560" type="Armor" name="Teddy Bear Hat">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hairall" />
 		<set name="material" val="WOOD" />
 		<set name="weight" val="10" />
 	</item>
 	<item id="8561" type="Armor" name="Piggy Hat">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hairall" />
 		<set name="material" val="WOOD" />
 		<set name="weight" val="10" />
 	</item>
 	<item id="8562" type="Armor" name="Jester Hat">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hairall" />
 		<set name="material" val="WOOD" />
 		<set name="weight" val="10" />
 	</item>
 	<item id="8563" type="Armor" name="Wizard Hat">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hairall" />
 		<set name="material" val="WOOD" />
 		<set name="weight" val="10" />
 	</item>
 	<item id="8564" type="Armor" name="Dapper Cap">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hairall" />
 		<set name="material" val="WOOD" />
 		<set name="weight" val="10" />
 	</item>
 	<item id="8565" type="Armor" name="Romantic Chapeau">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hairall" />
 		<set name="material" val="WOOD" />
@@ -619,18 +626,21 @@
 		<set name="is_sellable" val="false" />
 	</item>
 	<item id="8567" type="Armor" name="Valakas Slayer Circlet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="face" />
 		<set name="material" val="WOOD" />
 		<set name="weight" val="10" />
 	</item>
 	<item id="8568" type="Armor" name="Antharas Slayer Circlet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="face" />
 		<set name="material" val="WOOD" />
 		<set name="weight" val="10" />
 	</item>
 	<item id="8569" type="Armor" name="Half Face Mask">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="face" />
 		<set name="material" val="WOOD" />

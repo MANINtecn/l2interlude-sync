@@ -190,6 +190,7 @@
 		<set name="item_skill" val="2207-3" />
 	</item>
 	<item id="6519" type="EtcItem" name="Green Colored Lure - Low Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -200,6 +201,7 @@
 		<set name="is_oly_restricted" val="true" />
 	</item>
 	<item id="6520" type="EtcItem" name="Green Colored Lure">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -210,6 +212,7 @@
 		<set name="is_oly_restricted" val="true" />
 	</item>
 	<item id="6521" type="EtcItem" name="Green Colored Lure - High Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -220,6 +223,7 @@
 		<set name="is_oly_restricted" val="true" />
 	</item>
 	<item id="6522" type="EtcItem" name="Purple Colored Lure - Low Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -230,6 +234,7 @@
 		<set name="is_oly_restricted" val="true" />
 	</item>
 	<item id="6523" type="EtcItem" name="Purple Colored Lure">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -240,6 +245,7 @@
 		<set name="is_oly_restricted" val="true" />
 	</item>
 	<item id="6524" type="EtcItem" name="Purple Colored Lure - High Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -250,6 +256,7 @@
 		<set name="is_oly_restricted" val="true" />
 	</item>
 	<item id="6525" type="EtcItem" name="Yellow Colored Lure - Low Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -260,6 +267,7 @@
 		<set name="is_oly_restricted" val="true" />
 	</item>
 	<item id="6526" type="EtcItem" name="Yellow Colored Lure">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -270,6 +278,7 @@
 		<set name="is_oly_restricted" val="true" />
 	</item>
 	<item id="6527" type="EtcItem" name="Yellow Colored Lure - High Grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -280,6 +289,7 @@
 		<set name="is_oly_restricted" val="true" />
 	</item>
 	<item id="6528" type="EtcItem" name="Event bait">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -647,6 +657,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6569" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade A)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="BLESS_SCRL_ENCHANT_WP" />
 		<set name="material" val="PAPER" />
@@ -657,6 +668,7 @@
 		<set name="item_skill" val="2027-1" />
 	</item>
 	<item id="6570" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade A)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="BLESS_SCRL_ENCHANT_AM" />
 		<set name="material" val="PAPER" />
@@ -667,6 +679,7 @@
 		<set name="item_skill" val="2209-1" />
 	</item>
 	<item id="6571" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade B)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="BLESS_SCRL_ENCHANT_WP" />
 		<set name="material" val="PAPER" />
@@ -677,6 +690,7 @@
 		<set name="item_skill" val="2028-1" />
 	</item>
 	<item id="6572" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade B)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="BLESS_SCRL_ENCHANT_AM" />
 		<set name="material" val="PAPER" />
@@ -687,6 +701,7 @@
 		<set name="item_skill" val="2210-1" />
 	</item>
 	<item id="6573" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade C)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="BLESS_SCRL_ENCHANT_WP" />
 		<set name="material" val="PAPER" />
@@ -697,6 +712,7 @@
 		<set name="item_skill" val="2029-1" />
 	</item>
 	<item id="6574" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade C)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="BLESS_SCRL_ENCHANT_AM" />
 		<set name="material" val="PAPER" />
@@ -707,6 +723,7 @@
 		<set name="item_skill" val="2211-1" />
 	</item>
 	<item id="6575" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade D)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="BLESS_SCRL_ENCHANT_WP" />
 		<set name="material" val="PAPER" />
@@ -717,6 +734,7 @@
 		<set name="item_skill" val="2030-1" />
 	</item>
 	<item id="6576" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade D)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="BLESS_SCRL_ENCHANT_AM" />
 		<set name="material" val="PAPER" />
@@ -727,6 +745,7 @@
 		<set name="item_skill" val="2212-1" />
 	</item>
 	<item id="6577" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade S)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="BLESS_SCRL_ENCHANT_WP" />
 		<set name="material" val="PAPER" />
@@ -737,6 +756,7 @@
 		<set name="item_skill" val="2026-1" />
 	</item>
 	<item id="6578" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade S)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="BLESS_SCRL_ENCHANT_AM" />
 		<set name="material" val="PAPER" />
@@ -796,6 +816,7 @@
 		</for>
 	</item>
 	<item id="6581" type="Weapon" name="Forgotten Blade - Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -820,6 +841,7 @@
 		</for>
 	</item>
 	<item id="6582" type="Weapon" name="Forgotten Blade - Health">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -844,6 +866,7 @@
 		</for>
 	</item>
 	<item id="6583" type="Weapon" name="Forgotten Blade - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -868,6 +891,7 @@
 		</for>
 	</item>
 	<item id="6584" type="Weapon" name="Basalt Battlehammer - HP Drain">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -893,6 +917,7 @@
 		</for>
 	</item>
 	<item id="6585" type="Weapon" name="Basalt Battlehammer - Health">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -918,6 +943,7 @@
 		</for>
 	</item>
 	<item id="6586" type="Weapon" name="Basalt Battlehammer - HP Regeneration">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -943,6 +969,7 @@
 		</for>
 	</item>
 	<item id="6587" type="Weapon" name="Imperial Staff - Empower">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -969,6 +996,7 @@
 		</for>
 	</item>
 	<item id="6588" type="Weapon" name="Imperial Staff - MP Regeneration">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -995,6 +1023,7 @@
 		</for>
 	</item>
 	<item id="6589" type="Weapon" name="Imperial Staff - Magic Hold">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -1023,6 +1052,7 @@
 		</for>
 	</item>
 	<item id="6590" type="Weapon" name="Angel Slayer - Crt. Damage">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1048,6 +1078,7 @@
 		</for>
 	</item>
 	<item id="6591" type="Weapon" name="Angel Slayer - HP Drain">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1073,6 +1104,7 @@
 		</for>
 	</item>
 	<item id="6592" type="Weapon" name="Angel Slayer - Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1098,6 +1130,7 @@
 		</for>
 	</item>
 	<item id="6593" type="Weapon" name="Shining Bow - Cheap Shot">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -1126,6 +1159,7 @@
 		</for>
 	</item>
 	<item id="6594" type="Weapon" name="Shining Bow - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -1153,6 +1187,7 @@
 		</for>
 	</item>
 	<item id="6595" type="Weapon" name="Shining Bow - Crt. Slow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -1182,6 +1217,7 @@
 		</for>
 	</item>
 	<item id="6596" type="Weapon" name="Dragon Hunter Axe - HP Regeneration">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
 		<set name="bodypart" val="lrhand" />
@@ -1207,6 +1243,7 @@
 		</for>
 	</item>
 	<item id="6597" type="Weapon" name="Dragon Hunter Axe - Health">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
 		<set name="bodypart" val="lrhand" />
@@ -1232,6 +1269,7 @@
 		</for>
 	</item>
 	<item id="6598" type="Weapon" name="Dragon Hunter Axe - HP Drain">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
 		<set name="bodypart" val="lrhand" />
@@ -1257,6 +1295,7 @@
 		</for>
 	</item>
 	<item id="6599" type="Weapon" name="Saint Spear - Health">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />

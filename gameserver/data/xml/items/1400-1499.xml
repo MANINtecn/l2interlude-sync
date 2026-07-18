@@ -445,36 +445,42 @@
 		<set name="etcitem_type" val="QUEST" />
 	</item>
 	<item id="1458" type="EtcItem" name="Crystal: D-Grade">
+		<set name="is_sellable" val="false" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="PAPER" />
 		<set name="price" val="650" />
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="1459" type="EtcItem" name="Crystal: C-Grade">
+		<set name="is_sellable" val="false" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="PAPER" />
 		<set name="price" val="3000" />
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="1460" type="EtcItem" name="Crystal: B-Grade">
+		<set name="is_sellable" val="false" />
 		<set name="crystal_type" val="B" />
 		<set name="material" val="PAPER" />
 		<set name="price" val="9000" />
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="1461" type="EtcItem" name="Crystal: A-Grade">
+		<set name="is_sellable" val="false" />
 		<set name="crystal_type" val="A" />
 		<set name="material" val="PAPER" />
 		<set name="price" val="15000" />
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="1462" type="EtcItem" name="Crystal: S Grade">
+		<set name="is_sellable" val="false" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="PAPER" />
 		<set name="price" val="25000" />
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="1463" type="EtcItem" name="Soulshot: D-grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="soulshot" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="PAPER" />
@@ -485,6 +491,7 @@
 		<set name="item_skill" val="2150-1" />
 	</item>
 	<item id="1464" type="EtcItem" name="Soulshot: C-grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="soulshot" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="PAPER" />
@@ -495,6 +502,7 @@
 		<set name="item_skill" val="2151-1" />
 	</item>
 	<item id="1465" type="EtcItem" name="Soulshot: B-grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="soulshot" />
 		<set name="crystal_type" val="B" />
 		<set name="material" val="PAPER" />
@@ -505,6 +513,7 @@
 		<set name="item_skill" val="2152-1" />
 	</item>
 	<item id="1466" type="EtcItem" name="Soulshot: A-grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="soulshot" />
 		<set name="crystal_type" val="A" />
 		<set name="material" val="PAPER" />
@@ -515,6 +524,7 @@
 		<set name="item_skill" val="2153-1" />
 	</item>
 	<item id="1467" type="EtcItem" name="Soulshot: S-grade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="soulshot" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="PAPER" />

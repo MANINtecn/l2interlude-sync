@@ -322,6 +322,7 @@
 		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying}}}" />
 	</item>
 	<item id="728" type="EtcItem" name="Mana Potion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="POTION" />
 		<set name="material" val="LIQUID" />
@@ -334,6 +335,7 @@
 		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying}}}" />
 	</item>
 	<item id="729" type="EtcItem" name="Scroll: Enchant Weapon (Grade A)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCRL_ENCHANT_WP" />
 		<set name="material" val="PAPER" />
@@ -344,6 +346,7 @@
 		<set name="item_skill" val="2006-1" />
 	</item>
 	<item id="730" type="EtcItem" name="Scroll: Enchant Armor (Grade A)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCRL_ENCHANT_AM" />
 		<set name="material" val="PAPER" />
@@ -409,6 +412,7 @@
 		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying}}}" />
 	</item>
 	<item id="736" type="EtcItem" name="Scroll of Escape">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCROLL" />
 		<set name="material" val="PAPER" />
@@ -420,6 +424,7 @@
 		<set name="item_skill" val="2013-1" />
 	</item>
 	<item id="737" type="EtcItem" name="Scroll of Resurrection">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCROLL" />
 		<set name="material" val="PAPER" />

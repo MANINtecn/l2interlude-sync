@@ -341,6 +341,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="3031" type="EtcItem" name="Spirit Ore">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="5" />

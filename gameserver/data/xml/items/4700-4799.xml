@@ -193,6 +193,7 @@
 		</for>
 	</item>
 	<item id="4708" type="Weapon" name="Samurai Longsword - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -217,6 +218,7 @@
 		</for>
 	</item>
 	<item id="4709" type="Weapon" name="Samurai Longsword - Critical Damage">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -241,6 +243,7 @@
 		</for>
 	</item>
 	<item id="4710" type="Weapon" name="Samurai Longsword - Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -265,6 +268,7 @@
 		</for>
 	</item>
 	<item id="4711" type="Weapon" name="Flamberge - Critical Damage">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -289,6 +293,7 @@
 		</for>
 	</item>
 	<item id="4712" type="Weapon" name="Flamberge - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -313,6 +318,7 @@
 		</for>
 	</item>
 	<item id="4713" type="Weapon" name="Flamberge - Light">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -337,6 +343,7 @@
 		</for>
 	</item>
 	<item id="4714" type="Weapon" name="Keshanberk - Guidance">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -361,6 +368,7 @@
 		</for>
 	</item>
 	<item id="4715" type="Weapon" name="Keshanberk - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -385,6 +393,7 @@
 		</for>
 	</item>
 	<item id="4716" type="Weapon" name="Keshanberk - Back Blow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -409,6 +418,7 @@
 		</for>
 	</item>
 	<item id="4717" type="Weapon" name="Sword of Damascus - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -433,6 +443,7 @@
 		</for>
 	</item>
 	<item id="4718" type="Weapon" name="Sword of Damascus - Critical Damage">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -457,6 +468,7 @@
 		</for>
 	</item>
 	<item id="4719" type="Weapon" name="Sword of Damascus - Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -481,6 +493,7 @@
 		</for>
 	</item>
 	<item id="4720" type="Weapon" name="Tallum Blade - Health">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -505,6 +518,7 @@
 		</for>
 	</item>
 	<item id="4721" type="Weapon" name="Tallum Blade - Rsk. Evasion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -529,6 +543,7 @@
 		</for>
 	</item>
 	<item id="4722" type="Weapon" name="Tallum Blade - Rsk. Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -553,6 +568,7 @@
 		</for>
 	</item>
 	<item id="4723" type="Weapon" name="Great Sword - Health">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -577,6 +593,7 @@
 		</for>
 	</item>
 	<item id="4724" type="Weapon" name="Great Sword - Critical Damage">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -601,6 +618,7 @@
 		</for>
 	</item>
 	<item id="4725" type="Weapon" name="Great Sword - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -1300,6 +1318,7 @@
 		</for>
 	</item>
 	<item id="4753" type="Weapon" name="Art of Battle Axe - Health">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -1325,6 +1344,7 @@
 		</for>
 	</item>
 	<item id="4754" type="Weapon" name="Art of Battle Axe - Rsk. Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -1350,6 +1370,7 @@
 		</for>
 	</item>
 	<item id="4755" type="Weapon" name="Art of Battle Axe - Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -1450,6 +1471,7 @@
 		</for>
 	</item>
 	<item id="4759" type="Weapon" name="Cursed Dagger - Critical Bleed">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1476,6 +1498,7 @@
 		</for>
 	</item>
 	<item id="4760" type="Weapon" name="Cursed Dagger - Critical Poison">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1502,6 +1525,7 @@
 		</for>
 	</item>
 	<item id="4761" type="Weapon" name="Cursed Dagger - Rsk. Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1602,6 +1626,7 @@
 		</for>
 	</item>
 	<item id="4765" type="Weapon" name="Stiletto - Critical Bleed">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1628,6 +1653,7 @@
 		</for>
 	</item>
 	<item id="4766" type="Weapon" name="Stiletto - Critical Poison">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1654,6 +1680,7 @@
 		</for>
 	</item>
 	<item id="4767" type="Weapon" name="Stiletto - Mortal Strike">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1754,6 +1781,7 @@
 		</for>
 	</item>
 	<item id="4771" type="Weapon" name="Dark Screamer - Evasion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1779,6 +1807,7 @@
 		</for>
 	</item>
 	<item id="4772" type="Weapon" name="Dark Screamer - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1804,6 +1833,7 @@
 		</for>
 	</item>
 	<item id="4773" type="Weapon" name="Dark Screamer - Critical Bleed">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1830,6 +1860,7 @@
 		</for>
 	</item>
 	<item id="4774" type="Weapon" name="Crystal Dagger - Critical Bleed">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1856,6 +1887,7 @@
 		</for>
 	</item>
 	<item id="4775" type="Weapon" name="Crystal Dagger - Critical Poison">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1882,6 +1914,7 @@
 		</for>
 	</item>
 	<item id="4776" type="Weapon" name="Crystal Dagger - Mortal Strike">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1907,6 +1940,7 @@
 		</for>
 	</item>
 	<item id="4777" type="Weapon" name="Kris - Evasion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1932,6 +1966,7 @@
 		</for>
 	</item>
 	<item id="4778" type="Weapon" name="Kris - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -1957,6 +1992,7 @@
 		</for>
 	</item>
 	<item id="4779" type="Weapon" name="Kris - Back Blow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -2059,6 +2095,7 @@
 		</for>
 	</item>
 	<item id="4783" type="Weapon" name="Bloody Orchid - Evasion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -2084,6 +2121,7 @@
 		</for>
 	</item>
 	<item id="4784" type="Weapon" name="Bloody Orchid - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -2109,6 +2147,7 @@
 		</for>
 	</item>
 	<item id="4785" type="Weapon" name="Bloody Orchid - Back Blow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />

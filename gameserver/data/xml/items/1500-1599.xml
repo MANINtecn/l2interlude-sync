@@ -246,6 +246,7 @@
 		<set name="price" val="800" />
 	</item>
 	<item id="1538" type="EtcItem" name="Blessed Scroll of Escape">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCROLL" />
 		<set name="material" val="PAPER" />
@@ -257,6 +258,7 @@
 		<set name="item_skill" val="2036-1" />
 	</item>
 	<item id="1539" type="EtcItem" name="Greater Healing Potion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="POTION" />
 		<set name="material" val="LIQUID" />

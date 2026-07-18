@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
 	<item id="6600" type="Weapon" name="Saint Spear - Guidance">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -26,6 +27,7 @@
 		</for>
 	</item>
 	<item id="6601" type="Weapon" name="Saint Spear - Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -51,6 +53,7 @@
 		</for>
 	</item>
 	<item id="6602" type="Weapon" name="Demon Splinter - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -76,6 +79,7 @@
 		</for>
 	</item>
 	<item id="6603" type="Weapon" name="Demon Splinter - Health">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -101,6 +105,7 @@
 		</for>
 	</item>
 	<item id="6604" type="Weapon" name="Demon Splinter - Crt. Stun">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -200,6 +205,7 @@
 		</for>
 	</item>
 	<item id="6608" type="Weapon" name="Arcana Mace - Acumen">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
@@ -226,6 +232,7 @@
 		</for>
 	</item>
 	<item id="6609" type="Weapon" name="Arcana Mace - MP Regeneration">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
@@ -252,6 +259,7 @@
 		</for>
 	</item>
 	<item id="6610" type="Weapon" name="Arcana Mace - Mana Up">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />

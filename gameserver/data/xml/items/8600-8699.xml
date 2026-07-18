@@ -230,6 +230,7 @@
 		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying}}}" />
 	</item>
 	<item id="8627" type="EtcItem" name="Elixir of Life (S-Grade)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="ELIXIR" />
 		<set name="crystal_type" val="S" />
@@ -319,6 +320,7 @@
 		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying}}}" />
 	</item>
 	<item id="8633" type="EtcItem" name="Elixir of Mental Strength (S-Grade)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="ELIXIR" />
 		<set name="crystal_type" val="S" />
@@ -403,6 +405,7 @@
 		<set name="item_skill" val="2289-5" />
 	</item>
 	<item id="8639" type="EtcItem" name="Elixir of CP (S-Grade)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="ELIXIR" />
 		<set name="crystal_type" val="S" />

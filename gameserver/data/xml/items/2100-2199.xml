@@ -211,6 +211,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="2130" type="EtcItem" name="Gemstone D">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="2" />
@@ -218,6 +219,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="2131" type="EtcItem" name="Gemstone C">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="2" />
@@ -225,6 +227,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="2132" type="EtcItem" name="Gemstone B">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="2" />
@@ -232,6 +235,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="2133" type="EtcItem" name="Gemstone A">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="2" />

@@ -72,6 +72,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6908" type="EtcItem" name="Fish Oil">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="30" />
@@ -79,6 +80,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6909" type="EtcItem" name="Greater Fish Oil">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="30" />
@@ -86,6 +88,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6910" type="EtcItem" name="Premium Fish Oil">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="30" />
@@ -93,6 +96,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6911" type="EtcItem" name="Fish Scale">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="30" />
@@ -100,6 +104,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6912" type="EtcItem" name="Shiny Fish Scale">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="30" />
@@ -107,6 +112,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6913" type="EtcItem" name="Fish Gem">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="30" />
@@ -114,6 +120,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6914" type="EtcItem" name="Shiny Fish Gem">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="30" />
@@ -121,6 +128,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6915" type="EtcItem" name="Thin Fish Bone">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="30" />
@@ -128,6 +136,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6916" type="EtcItem" name="Thick Fish Bone">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="30" />

@@ -53,6 +53,7 @@
 		</for>
 	</item>
 	<item id="5602" type="Weapon" name="Elysian - Health">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -78,6 +79,7 @@
 		</for>
 	</item>
 	<item id="5603" type="Weapon" name="Elysian - Anger">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -103,6 +105,7 @@
 		</for>
 	</item>
 	<item id="5604" type="Weapon" name="Elysian - Critical Drain">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -210,6 +213,7 @@
 		</for>
 	</item>
 	<item id="5608" type="Weapon" name="Carnage Bow - Light">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -237,6 +241,7 @@
 		</for>
 	</item>
 	<item id="5609" type="Weapon" name="Carnage Bow - Critical Bleed">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -266,6 +271,7 @@
 		</for>
 	</item>
 	<item id="5610" type="Weapon" name="Carnage Bow - Mana Up">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -377,6 +383,7 @@
 		</for>
 	</item>
 	<item id="5614" type="Weapon" name="Bloody Orchid - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -402,6 +409,7 @@
 		</for>
 	</item>
 	<item id="5615" type="Weapon" name="Bloody Orchid - Back Blow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -427,6 +435,7 @@
 		</for>
 	</item>
 	<item id="5616" type="Weapon" name="Bloody Orchid - Critical Bleed">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -529,6 +538,7 @@
 		</for>
 	</item>
 	<item id="5620" type="Weapon" name="Blood Tornado - Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -554,6 +564,7 @@
 		</for>
 	</item>
 	<item id="5621" type="Weapon" name="Blood Tornado - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -579,6 +590,7 @@
 		</for>
 	</item>
 	<item id="5622" type="Weapon" name="Blood Tornado - Anger">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -832,6 +844,7 @@
 		</for>
 	</item>
 	<item id="5632" type="Weapon" name="Tallum Glaive - Guidance">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -857,6 +870,7 @@
 		</for>
 	</item>
 	<item id="5633" type="Weapon" name="Tallum Glaive - Health">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -882,6 +896,7 @@
 		</for>
 	</item>
 	<item id="5634" type="Weapon" name="Tallum Glaive - Wide Blow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -908,6 +923,7 @@
 		</for>
 	</item>
 	<item id="5635" type="Weapon" name="Tallum Blade - Critical Poison">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -934,6 +950,7 @@
 		</for>
 	</item>
 	<item id="5636" type="Weapon" name="Tallum Blade - Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -958,6 +975,7 @@
 		</for>
 	</item>
 	<item id="5637" type="Weapon" name="Tallum Blade - Anger">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -1059,6 +1077,7 @@
 		</for>
 	</item>
 	<item id="5641" type="Weapon" name="Sword of Miracles - Magic Power">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
@@ -1084,6 +1103,7 @@
 		</for>
 	</item>
 	<item id="5642" type="Weapon" name="Sword of Miracles - Magic Silence">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
@@ -1111,6 +1131,7 @@
 		</for>
 	</item>
 	<item id="5643" type="Weapon" name="Sword of Miracles - Acumen">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
@@ -1136,6 +1157,7 @@
 		</for>
 	</item>
 	<item id="5644" type="Weapon" name="Dragon Slayer - Health">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -1160,6 +1182,7 @@
 		</for>
 	</item>
 	<item id="5645" type="Weapon" name="Dragon Slayer - Critical Bleed">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -1186,6 +1209,7 @@
 		</for>
 	</item>
 	<item id="5646" type="Weapon" name="Dragon Slayer - Critical Drain">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />

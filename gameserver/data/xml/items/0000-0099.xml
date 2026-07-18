@@ -334,6 +334,7 @@
 		</for>
 	</item>
 	<item id="17" type="EtcItem" name="Wooden Arrow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="ARROW" />
 		<set name="bodypart" val="lhand" />

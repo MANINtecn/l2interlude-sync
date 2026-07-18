@@ -27,6 +27,7 @@
 		</for>
 	</item>
 	<item id="902" type="Armor" name="Phoenix Ring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="crystal_type" val="A" />
@@ -41,6 +42,7 @@
 		</for>
 	</item>
 	<item id="903" type="Armor" name="Cerberus Ring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="crystal_type" val="A" />
@@ -185,6 +187,7 @@
 		</for>
 	</item>
 	<item id="915" type="Armor" name="Aquastone Necklace">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="neck" />
 		<set name="crystal_type" val="C" />
@@ -224,6 +227,7 @@
 		</for>
 	</item>
 	<item id="918" type="Armor" name="Adamantite Necklace">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="neck" />
 		<set name="crystal_type" val="B" />
@@ -237,6 +241,7 @@
 		</for>
 	</item>
 	<item id="919" type="Armor" name="Blessed Necklace">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="neck" />
 		<set name="crystal_type" val="C" />
@@ -277,6 +282,7 @@
 		</for>
 	</item>
 	<item id="922" type="Armor" name="Sage's Necklace">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="neck" />
 		<set name="crystal_type" val="B" />
@@ -290,6 +296,7 @@
 		</for>
 	</item>
 	<item id="923" type="Armor" name="Paradia Necklace">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="neck" />
 		<set name="crystal_type" val="B" />
@@ -303,6 +310,7 @@
 		</for>
 	</item>
 	<item id="924" type="Armor" name="Majestic Necklace">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="neck" />
 		<set name="crystal_type" val="A" />
@@ -382,6 +390,7 @@
 		</for>
 	</item>
 	<item id="930" type="Armor" name="Necklace of Phantom">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="neck" />
 		<set name="crystal_type" val="A" />
@@ -421,6 +430,7 @@
 		</for>
 	</item>
 	<item id="933" type="Armor" name="Phoenix Necklace">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="neck" />
 		<set name="crystal_type" val="A" />
@@ -435,6 +445,7 @@
 		</for>
 	</item>
 	<item id="934" type="Armor" name="Cerberus Necklace">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="neck" />
 		<set name="crystal_type" val="A" />
@@ -575,6 +586,7 @@
 		</for>
 	</item>
 	<item id="947" type="EtcItem" name="Scroll: Enchant Weapon (Grade B)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCRL_ENCHANT_WP" />
 		<set name="material" val="PAPER" />
@@ -585,6 +597,7 @@
 		<set name="item_skill" val="2015-1" />
 	</item>
 	<item id="948" type="EtcItem" name="Scroll: Enchant Armor (Grade B)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCRL_ENCHANT_AM" />
 		<set name="material" val="PAPER" />
@@ -611,6 +624,7 @@
 		<set name="handler" val="EnchantScrolls" />
 	</item>
 	<item id="951" type="EtcItem" name="Scroll: Enchant Weapon (Grade C)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCRL_ENCHANT_WP" />
 		<set name="material" val="PAPER" />
@@ -621,6 +635,7 @@
 		<set name="item_skill" val="2017-1" />
 	</item>
 	<item id="952" type="EtcItem" name="Scroll: Enchant Armor (Grade C)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCRL_ENCHANT_AM" />
 		<set name="material" val="PAPER" />
@@ -647,6 +662,7 @@
 		<set name="handler" val="EnchantScrolls" />
 	</item>
 	<item id="955" type="EtcItem" name="Scroll: Enchant Weapon (Grade D)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCRL_ENCHANT_WP" />
 		<set name="material" val="PAPER" />
@@ -657,6 +673,7 @@
 		<set name="item_skill" val="2019-1" />
 	</item>
 	<item id="956" type="EtcItem" name="Scroll: Enchant Armor (Grade D)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCRL_ENCHANT_AM" />
 		<set name="material" val="PAPER" />

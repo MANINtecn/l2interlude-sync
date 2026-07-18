@@ -26,6 +26,7 @@
 		</for>
 	</item>
 	<item id="4801" type="Weapon" name="Arthro Nail - Critical Poison">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -52,6 +53,7 @@
 		</for>
 	</item>
 	<item id="4802" type="Weapon" name="Arthro Nail - Rsk. Evasion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -77,6 +79,7 @@
 		</for>
 	</item>
 	<item id="4803" type="Weapon" name="Arthro Nail - Rsk. Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -102,6 +105,7 @@
 		</for>
 	</item>
 	<item id="4804" type="Weapon" name="Bellion Cestus - Critical Drain">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -128,6 +132,7 @@
 		</for>
 	</item>
 	<item id="4805" type="Weapon" name="Bellion Cestus - Critical Poison">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -154,6 +159,7 @@
 		</for>
 	</item>
 	<item id="4806" type="Weapon" name="Bellion Cestus - Rsk. Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -179,6 +185,7 @@
 		</for>
 	</item>
 	<item id="4807" type="Weapon" name="Blood Tornado - Critical Drain">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -205,6 +212,7 @@
 		</for>
 	</item>
 	<item id="4808" type="Weapon" name="Blood Tornado - Rsk. Evasion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -230,6 +238,7 @@
 		</for>
 	</item>
 	<item id="4809" type="Weapon" name="Blood Tornado - Haste">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -577,6 +586,7 @@
 		</for>
 	</item>
 	<item id="4822" type="Weapon" name="Eminence Bow - Guidance">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -604,6 +614,7 @@
 		</for>
 	</item>
 	<item id="4823" type="Weapon" name="Eminence Bow - Miser">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -631,6 +642,7 @@
 		</for>
 	</item>
 	<item id="4824" type="Weapon" name="Eminence Bow - Cheap Shot">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -658,6 +670,7 @@
 		</for>
 	</item>
 	<item id="4825" type="Weapon" name="Dark Elven Long Bow - Evasion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -685,6 +698,7 @@
 		</for>
 	</item>
 	<item id="4826" type="Weapon" name="Dark Elven Long Bow - Critical Bleed">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -713,6 +727,7 @@
 		</for>
 	</item>
 	<item id="4827" type="Weapon" name="Dark Elven Long Bow - Miser">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -740,6 +755,7 @@
 		</for>
 	</item>
 	<item id="4828" type="Weapon" name="Bow of Peril - Guidance">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -767,6 +783,7 @@
 		</for>
 	</item>
 	<item id="4829" type="Weapon" name="Bow of Peril - Quick Recovery">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -793,6 +810,7 @@
 		</for>
 	</item>
 	<item id="4830" type="Weapon" name="Bow of Peril - Cheap Shot">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -820,6 +838,7 @@
 		</for>
 	</item>
 	<item id="4831" type="Weapon" name="Carnage Bow - Critical Bleed">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -848,6 +867,7 @@
 		</for>
 	</item>
 	<item id="4832" type="Weapon" name="Carnage Bow - Mana Up">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -875,6 +895,7 @@
 		</for>
 	</item>
 	<item id="4833" type="Weapon" name="Carnage Bow - Quick Recovery">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -1370,6 +1391,7 @@
 		</for>
 	</item>
 	<item id="4852" type="Weapon" name="Orcish Poleaxe - Critical Stun">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -1397,6 +1419,7 @@
 		</for>
 	</item>
 	<item id="4853" type="Weapon" name="Orcish Poleaxe - Towering Blow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -1423,6 +1446,7 @@
 		</for>
 	</item>
 	<item id="4854" type="Weapon" name="Orcish Poleaxe - Wide Blow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -1681,6 +1705,7 @@
 		</for>
 	</item>
 	<item id="4864" type="Weapon" name="Heavy Doom Hammer - Magic Regeneration">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -1708,6 +1733,7 @@
 		</for>
 	</item>
 	<item id="4865" type="Weapon" name="Heavy Doom Hammer - Mental Shield">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -1735,6 +1761,7 @@
 		</for>
 	</item>
 	<item id="4866" type="Weapon" name="Heavy Doom Hammer - Magic Hold">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />

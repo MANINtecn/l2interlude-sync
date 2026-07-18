@@ -573,6 +573,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="1341" type="EtcItem" name="Bone Arrow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="ARROW" />
 		<set name="bodypart" val="lhand" />
@@ -583,6 +584,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="1342" type="EtcItem" name="Fine Steel Arrow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="ARROW" />
 		<set name="bodypart" val="lhand" />
@@ -593,6 +595,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="1343" type="EtcItem" name="Silver Arrow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="ARROW" />
 		<set name="bodypart" val="lhand" />
@@ -603,6 +606,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="1344" type="EtcItem" name="Mithril Arrow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="ARROW" />
 		<set name="bodypart" val="lhand" />
@@ -613,6 +617,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="1345" type="EtcItem" name="Shining Arrow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="ARROW" />
 		<set name="bodypart" val="lhand" />

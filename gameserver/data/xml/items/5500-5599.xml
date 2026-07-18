@@ -710,6 +710,7 @@
 		<set name="item_skill" val="2167-3" />
 	</item>
 	<item id="5596" type="Weapon" name="Dasparion's Staff - Mana Up">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -736,6 +737,7 @@
 		</for>
 	</item>
 	<item id="5597" type="Weapon" name="Dasparion's Staff - Conversion">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -762,6 +764,7 @@
 		</for>
 	</item>
 	<item id="5598" type="Weapon" name="Dasparion's Staff - Acumen">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />

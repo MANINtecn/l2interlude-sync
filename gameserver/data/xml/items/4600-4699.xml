@@ -92,6 +92,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4613" type="EtcItem" name="Greater Dye of STR (Str+4 Con-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -99,6 +100,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4614" type="EtcItem" name="Greater Dye of STR (Str+4 Dex-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -106,6 +108,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4615" type="EtcItem" name="Greater Dye of CON (Con+4 Str-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -113,6 +116,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4616" type="EtcItem" name="Greater Dye of CON (Con+4 Dex-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -120,6 +124,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4617" type="EtcItem" name="Greater Dye of DEX (Dex+4 Str-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -127,6 +132,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4618" type="EtcItem" name="Greater Dye of DEX (Dex+4 Con-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -134,6 +140,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4619" type="EtcItem" name="Greater Dye of INT (Int+4 Men-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -141,6 +148,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4620" type="EtcItem" name="Greater Dye of INT (Int+4 Wit-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -148,6 +156,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4621" type="EtcItem" name="Greater Dye of MEN (Men+4 Int-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -155,6 +164,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4622" type="EtcItem" name="Greater Dye of MEN (Men+4 Wit-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -162,6 +172,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4623" type="EtcItem" name="Greater Dye of WIT (Wit+4 Int-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -169,6 +180,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="4624" type="EtcItem" name="Greater Dye of WIT (Wit+4 Men-4)">
+		<set name="is_sellable" val="false" />
 		<set name="etcitem_type" val="DYE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="150" />
@@ -698,6 +710,7 @@
 		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying}}}" />
 	</item>
 	<item id="4681" type="Weapon" name="Stormbringer - Critical Anger">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -724,6 +737,7 @@
 		</for>
 	</item>
 	<item id="4682" type="Weapon" name="Stormbringer - Focus">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -748,6 +762,7 @@
 		</for>
 	</item>
 	<item id="4683" type="Weapon" name="Stormbringer - Light">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -772,6 +787,7 @@
 		</for>
 	</item>
 	<item id="4684" type="Weapon" name="Shamshir - Guidance">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -796,6 +812,7 @@
 		</for>
 	</item>
 	<item id="4685" type="Weapon" name="Shamshir - Back Blow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -820,6 +837,7 @@
 		</for>
 	</item>
 	<item id="4686" type="Weapon" name="Shamshir - Rsk. Evasion">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />

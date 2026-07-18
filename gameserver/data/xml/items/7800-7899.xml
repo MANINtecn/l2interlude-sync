@@ -57,6 +57,7 @@
 		<set name="item_skill" val="2228-9" />
 	</item>
 	<item id="7807" type="EtcItem" name="Green Colored Lure - For Beginners">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -66,6 +67,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="7808" type="EtcItem" name="Purple Colored Lure - For Beginners">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />
@@ -75,6 +77,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="7809" type="EtcItem" name="Yellow Colored Lure - For Beginners">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="bodypart" val="lhand" />

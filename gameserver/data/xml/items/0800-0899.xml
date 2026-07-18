@@ -491,6 +491,7 @@
 		</for>
 	</item>
 	<item id="852" type="Armor" name="Moonstone Earring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="C" />
@@ -504,6 +505,7 @@
 		</for>
 	</item>
 	<item id="853" type="Armor" name="Earring of Protection">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="C" />
@@ -517,6 +519,7 @@
 		</for>
 	</item>
 	<item id="854" type="Armor" name="Earring of Binding">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="C" />
@@ -530,6 +533,7 @@
 		</for>
 	</item>
 	<item id="855" type="Armor" name="Nassen's Earring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="C" />
@@ -543,6 +547,7 @@
 		</for>
 	</item>
 	<item id="856" type="Armor" name="Adamantite Earring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="B" />
@@ -583,6 +588,7 @@
 		</for>
 	</item>
 	<item id="859" type="Armor" name="Earring of Mana">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="B" />
@@ -596,6 +602,7 @@
 		</for>
 	</item>
 	<item id="860" type="Armor" name="Sage's Earring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="B" />
@@ -609,6 +616,7 @@
 		</for>
 	</item>
 	<item id="861" type="Armor" name="Paradia Earring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="B" />
@@ -622,6 +630,7 @@
 		</for>
 	</item>
 	<item id="862" type="Armor" name="Majestic Earring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="A" />
@@ -636,6 +645,7 @@
 		</for>
 	</item>
 	<item id="863" type="Armor" name="Earring of Solar Eclipse">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="B" />
@@ -649,6 +659,7 @@
 		</for>
 	</item>
 	<item id="864" type="Armor" name="Earring of Black Ore">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="B" />
@@ -662,6 +673,7 @@
 		</for>
 	</item>
 	<item id="865" type="Armor" name="Earring of Summoning">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="B" />
@@ -675,6 +687,7 @@
 		</for>
 	</item>
 	<item id="866" type="Armor" name="Otherworldly Earring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="B" />
@@ -688,6 +701,7 @@
 		</for>
 	</item>
 	<item id="867" type="Armor" name="Elemental Earring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="B" />
@@ -701,6 +715,7 @@
 		</for>
 	</item>
 	<item id="868" type="Armor" name="Earring of Phantom">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="A" />
@@ -740,6 +755,7 @@
 		</for>
 	</item>
 	<item id="871" type="Armor" name="Phoenix Earring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="A" />
@@ -754,6 +770,7 @@
 		</for>
 	</item>
 	<item id="872" type="Armor" name="Cerberus Earring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="crystal_type" val="A" />
@@ -872,6 +889,7 @@
 		</for>
 	</item>
 	<item id="882" type="Armor" name="Mithril Ring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="crystal_type" val="D" />
@@ -885,6 +903,7 @@
 		</for>
 	</item>
 	<item id="883" type="Armor" name="Aquastone Ring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="crystal_type" val="C" />
@@ -937,6 +956,7 @@
 		</for>
 	</item>
 	<item id="887" type="Armor" name="Adamantite Ring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="crystal_type" val="B" />
@@ -950,6 +970,7 @@
 		</for>
 	</item>
 	<item id="888" type="Armor" name="Blessed Ring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="crystal_type" val="C" />
@@ -990,6 +1011,7 @@
 		</for>
 	</item>
 	<item id="891" type="Armor" name="Sage's Ring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="crystal_type" val="B" />
@@ -1003,6 +1025,7 @@
 		</for>
 	</item>
 	<item id="892" type="Armor" name="Paradia Ring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="crystal_type" val="B" />
@@ -1016,6 +1039,7 @@
 		</for>
 	</item>
 	<item id="893" type="Armor" name="Majestic Ring">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="crystal_type" val="A" />
@@ -1095,6 +1119,7 @@
 		</for>
 	</item>
 	<item id="899" type="Armor" name="Ring of Phantom">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="crystal_type" val="A" />
