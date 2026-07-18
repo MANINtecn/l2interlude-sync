@@ -19,7 +19,4 @@
 	<item><production id="903" count="2"/><ingredient id="57" count="700000"/><ingredient id="6392" count="25"/></item>
 	<item><production id="934" count="1"/><ingredient id="57" count="500000"/><ingredient id="6392" count="25"/></item>
 	<!-- Especiais -->
-	<item><production id="6661" count="2"/><ingredient id="57" count="900000"/><ingredient id="6392" count="25"/></item>
-	<item><production id="6662" count="2"/><ingredient id="57" count="900000"/><ingredient id="6392" count="25"/></item>
-	<item><production id="8191" count="1"/><ingredient id="57" count="1000000"/><ingredient id="6392" count="25"/></item>
 </list>
