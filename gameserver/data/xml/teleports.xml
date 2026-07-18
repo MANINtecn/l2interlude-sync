@@ -331,6 +331,7 @@
 		<loc desc="Hunters Village" type="STANDARD" priceId="57" priceCount="5900" x="117110" y="76883" z="-2670" />
 		<loc desc="Coliseum" type="STANDARD" priceId="57" priceCount="2000" x="146440" y="46723" z="-3400" />
 		<loc desc="Forsaken Plains" type="STANDARD" priceId="57" priceCount="1900" x="168217" y="37990" z="-4072" />
+		<loc desc="The Cemetery" type="STANDARD" priceId="57" priceCount="1000" x="167047" y="20304" z="-3328" />
 		<loc desc="Seal of Shilen" type="STANDARD" priceId="57" priceCount="3000" x="184742" y="19745" z="-3168" />
 		<loc desc="Forest of Mirrors" type="STANDARD" priceId="57" priceCount="4400" x="142065" y="81300" z="-3000" />
 		<loc desc="Blazing Swamp" type="STANDARD" priceId="57" priceCount="6800" x="155310" y="-16339" z="-3320" />
