@@ -5,3 +5,4 @@ geodata/
 log/
 *.log
 build/classes/
+config/
