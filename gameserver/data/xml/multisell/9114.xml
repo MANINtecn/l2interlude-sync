@@ -24,4 +24,10 @@
 	<item><production id="59" count="1"/><ingredient id="57" count="26000"/></item> <!-- Mithril Gaiters (movida da loja C) -->
 	<item><production id="61" count="1"/><ingredient id="57" count="12000"/></item> <!-- Mithril Gloves (movida da loja C) -->
 	<item><production id="2396" count="1"/><ingredient id="57" count="40000"/></item> <!-- Elven Mithril Tunic (movida da loja C) -->
+
+	<!-- COMPLEMENTO 2026-07-19: botas D (so tinha 1 pra 3 luvas) -->
+	<item><production id="2428" count="1"/><ingredient id="57" count="12000"/></item> <!-- Plate Boots (heavy D) -->
+	<item><production id="2422" count="1"/><ingredient id="57" count="12000"/></item> <!-- Reinforced Leather Boots (light D) -->
+	<item><production id="2426" count="1"/><ingredient id="57" count="12000"/></item> <!-- Elven Mithril Boots (light D) -->
+	<item><production id="2423" count="1"/><ingredient id="57" count="12000"/></item> <!-- Boots of Knowledge (robe D) -->
 </list>

@@ -25,4 +25,18 @@
 	<item><production id="439" count="1"/><ingredient id="57" count="200000"/></item> <!-- Karmian Set chest -->
 	<item><production id="471" count="1"/><ingredient id="57" count="130000"/></item> <!-- Karmian Set legs -->
 	<item><production id="2454" count="1"/><ingredient id="57" count="75000"/></item> <!-- Karmian Set gloves -->
+
+	<!-- COMPLEMENTO 2026-07-19: luvas/botas/pernas C que faltavam pra fechar sets -->
+	<item><production id="2453" count="1"/><ingredient id="57" count="75000"/></item> <!-- Chain Gloves (heavy) -->
+	<item><production id="2429" count="1"/><ingredient id="57" count="75000"/></item> <!-- Chain Boots (heavy) -->
+	<item><production id="2452" count="1"/><ingredient id="57" count="75000"/></item> <!-- Reinforced Mithril Gloves (heavy) -->
+	<item><production id="381" count="1"/><ingredient id="57" count="130000"/></item> <!-- Chain Gaiters (heavy legs) -->
+	<item><production id="2455" count="1"/><ingredient id="57" count="75000"/></item> <!-- Plated Leather Gloves (light) -->
+	<item><production id="2431" count="1"/><ingredient id="57" count="75000"/></item> <!-- Plated Leather Boots (light) -->
+	<item><production id="2460" count="1"/><ingredient id="57" count="75000"/></item> <!-- Theca Leather Gloves (light) -->
+	<item><production id="418" count="1"/><ingredient id="57" count="130000"/></item> <!-- Plated Leather Gaiters (light legs) -->
+	<item><production id="2430" count="1"/><ingredient id="57" count="75000"/></item> <!-- Karmian Boots (robe feet) -->
+	<item><production id="2459" count="1"/><ingredient id="57" count="75000"/></item> <!-- Demon's Gloves (robe) -->
+	<item><production id="472" count="1"/><ingredient id="57" count="130000"/></item> <!-- Demon's Stockings (robe legs) -->
+	<item><production id="603" count="1"/><ingredient id="57" count="75000"/></item> <!-- Divine Boots (robe) -->
 </list>

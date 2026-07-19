@@ -323,6 +323,7 @@
 		</for>
 	</item>
 	<item id="2422" type="Armor" name="Reinforced Leather Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="D" />
@@ -336,6 +337,7 @@
 		</for>
 	</item>
 	<item id="2423" type="Armor" name="Boots of Knowledge">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="D" />
@@ -376,6 +378,7 @@
 		</for>
 	</item>
 	<item id="2426" type="Armor" name="Elven Mithril Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="D" />
@@ -402,6 +405,7 @@
 		</for>
 	</item>
 	<item id="2428" type="Armor" name="Plate Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="D" />
@@ -415,6 +419,7 @@
 		</for>
 	</item>
 	<item id="2429" type="Armor" name="Chain Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="C" />
@@ -428,6 +433,7 @@
 		</for>
 	</item>
 	<item id="2430" type="Armor" name="Karmian Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="C" />
@@ -441,6 +447,7 @@
 		</for>
 	</item>
 	<item id="2431" type="Armor" name="Plated Leather Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="C" />
@@ -719,6 +726,7 @@
 		</for>
 	</item>
 	<item id="2452" type="Armor" name="Reinforced Mithril Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="C" />
@@ -732,6 +740,7 @@
 		</for>
 	</item>
 	<item id="2453" type="Armor" name="Chain Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="C" />
@@ -759,6 +768,7 @@
 		</for>
 	</item>
 	<item id="2455" type="Armor" name="Plated Leather Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="C" />
@@ -811,6 +821,7 @@
 		</for>
 	</item>
 	<item id="2459" type="Armor" name="Demon's Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="C" />
@@ -824,6 +835,7 @@
 		</for>
 	</item>
 	<item id="2460" type="Armor" name="Theca Leather Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="C" />
