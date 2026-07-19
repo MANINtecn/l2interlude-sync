@@ -57385,15 +57385,7 @@
 				<drop itemid="8613" min="1" max="1" chance="33.0"/>
 				<drop itemid="8614" min="1" max="1" chance="34.0"/>
 			</category>
-			<category type="DROP" chance="3.0">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4028" level="3" type="BUFF"/>
 			<skill id="4408" level="11" type="PASSIVE"/>
@@ -57509,15 +57501,7 @@
 				<drop itemid="8613" min="1" max="1" chance="33.0"/>
 				<drop itemid="8614" min="1" max="1" chance="34.0"/>
 			</category>
-			<category type="DROP" chance="3.0">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4039" level="6" type="DD_MAGIC2"/>
 			<skill id="4100" level="6" type="DD_MAGIC1"/>
@@ -57610,15 +57594,7 @@
 				<drop itemid="1867" min="1" max="3" chance="27.2154"/>
 				<drop itemid="8739" min="1" max="1" chance="0.0119"/>
 			</category>
-			<category type="DROP" chance="3.5">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4067" level="6" type="PHYSICAL_SPECIAL"/>
 			<skill id="4085" level="1" type="PASSIVE"/>
@@ -57714,15 +57690,7 @@
 				<drop itemid="1868" min="3" max="9" chance="34.9144"/>
 				<drop itemid="8739" min="1" max="1" chance="0.038"/>
 			</category>
-			<category type="DROP" chance="3.5">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4124" level="6" type="PHYSICAL_SPECIAL"/>
 			<skill id="4408" level="12" type="PASSIVE"/>
@@ -57814,15 +57782,7 @@
 				<drop itemid="1868" min="1" max="3" chance="52.0633"/>
 				<drop itemid="8739" min="1" max="1" chance="0.0523"/>
 			</category>
-			<category type="DROP" chance="4.0">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4074" level="2" type="BUFF"/>
 			<skill id="4408" level="12" type="PASSIVE"/>
@@ -57912,15 +57872,7 @@
 				<drop itemid="8739" min="1" max="1" chance="0.4589"/>
 				<drop itemid="8749" min="1" max="1" chance="0.1265"/>
 			</category>
-			<category type="DROP" chance="4.0">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4073" level="6" type="PHYSICAL_SPECIAL"/>
 			<skill id="4275" level="2" type="PASSIVE"/>
@@ -58015,15 +57967,7 @@
 				<drop itemid="1867" min="1" max="3" chance="33.5453"/>
 				<drop itemid="8740" min="1" max="1" chance="0.0356"/>
 			</category>
-			<category type="DROP" chance="4.5">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4032" level="6" type="PHYSICAL_SPECIAL"/>
 			<skill id="4275" level="2" type="PASSIVE"/>
@@ -58118,15 +58062,7 @@
 				<drop itemid="6670" min="1" max="1" chance="11.782"/>
 				<drop itemid="8740" min="1" max="1" chance="0.0265"/>
 			</category>
-			<category type="DROP" chance="4.5">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4002" level="6" type="DD_MAGIC"/>
 			<skill id="4046" level="6" type="SLEEP_MAGIC"/>
@@ -58216,15 +58152,7 @@
 				<drop itemid="1895" min="1" max="1" chance="78.269"/>
 				<drop itemid="8740" min="1" max="1" chance="0.1916"/>
 			</category>
-			<category type="DROP" chance="5.0">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4002" level="6" type="DD_MAGIC"/>
 			<skill id="4047" level="6" type="HOLD_MAGIC"/>
@@ -58316,15 +58244,7 @@
 				<drop itemid="1868" min="3" max="9" chance="35.5947"/>
 				<drop itemid="5006" min="1" max="1" chance="0.0816"/>
 			</category>
-			<category type="DROP" chance="5.0">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4032" level="7" type="PHYSICAL_SPECIAL"/>
 			<skill id="4072" level="7" type="SELF_RANGE_DD_MAGIC"/>
@@ -67042,15 +66962,7 @@
 				<drop itemid="1868" min="1" max="3" chance="62.1281"/>
 				<drop itemid="5549" min="1" max="1" chance="6.2126"/>
 			</category>
-			<category type="DROP" chance="5.0">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4002" level="6" type="DD_MAGIC"/>
 			<skill id="4278" level="1" type="PASSIVE"/>
@@ -67141,15 +67053,7 @@
 				<drop itemid="1867" min="1" max="3" chance="33.6027"/>
 				<drop itemid="1807" min="1" max="1" chance="0.101"/>
 			</category>
-			<category type="DROP" chance="4.5">
-				<drop itemid="9401" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9406" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9411" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9404" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9409" min="1" max="1" chance="16.6667"/>
-				<drop itemid="9414" min="1" max="1" chance="16.6667"/>
-			</category>
-		</drops>
+			</drops>
 		<skills>
 			<skill id="4097" level="6" type="MAGIC_HEAL"/>
 			<skill id="4275" level="2" type="PASSIVE"/>
@@ -74571,11 +74475,6 @@
 				<drop itemid="8612" min="1" max="1" chance="33.0"/>
 				<drop itemid="8613" min="1" max="1" chance="33.0"/>
 				<drop itemid="8614" min="1" max="1" chance="34.0"/>
-			</category>
-			<category type="DROP" chance="2.0">
-				<drop itemid="9426" min="1" max="1" chance="33.3333"/>
-				<drop itemid="9431" min="1" max="1" chance="33.3333"/>
-				<drop itemid="9436" min="1" max="1" chance="33.3333"/>
 			</category>
 			<category type="DROP" chance="0.7">
 				<drop itemid="9558" min="1" max="1" chance="100.0"/>
