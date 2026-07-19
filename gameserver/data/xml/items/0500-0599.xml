@@ -160,6 +160,7 @@
 		</for>
 	</item>
 	<item id="512" type="Armor" name="Dark Crystal Helmet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="A" />
@@ -225,6 +226,7 @@
 		</for>
 	</item>
 	<item id="517" type="Armor" name="Composite Helmet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="C" />
@@ -615,6 +617,7 @@
 		</for>
 	</item>
 	<item id="547" type="Armor" name="Tallum Helm">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="A" />

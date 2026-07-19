@@ -189,6 +189,7 @@
 		</for>
 	</item>
 	<item id="5714" type="Armor" name="Avadon Gloves - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -202,6 +203,7 @@
 		</for>
 	</item>
 	<item id="5715" type="Armor" name="Avadon Gloves - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -215,6 +217,7 @@
 		</for>
 	</item>
 	<item id="5716" type="Armor" name="Avadon Gloves - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -241,6 +244,7 @@
 		</for>
 	</item>
 	<item id="5718" type="Armor" name="Blue Wolf Gloves - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -254,6 +258,7 @@
 		</for>
 	</item>
 	<item id="5719" type="Armor" name="Blue Wolf Gloves - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -267,6 +272,7 @@
 		</for>
 	</item>
 	<item id="5720" type="Armor" name="Blue Wolf Gloves - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -293,6 +299,7 @@
 		</for>
 	</item>
 	<item id="5722" type="Armor" name="Doom Gloves - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -306,6 +313,7 @@
 		</for>
 	</item>
 	<item id="5723" type="Armor" name="Doom Gloves - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -319,6 +327,7 @@
 		</for>
 	</item>
 	<item id="5724" type="Armor" name="Doom Gloves - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="B" />
@@ -397,6 +406,7 @@
 		</for>
 	</item>
 	<item id="5730" type="Armor" name="Avadon Boots - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="B" />
@@ -410,6 +420,7 @@
 		</for>
 	</item>
 	<item id="5731" type="Armor" name="Avadon Boots - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="B" />
@@ -423,6 +434,7 @@
 		</for>
 	</item>
 	<item id="5732" type="Armor" name="Avadon Boots - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="B" />
@@ -449,6 +461,7 @@
 		</for>
 	</item>
 	<item id="5734" type="Armor" name="Blue Wolf Boots - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="B" />
@@ -462,6 +475,7 @@
 		</for>
 	</item>
 	<item id="5735" type="Armor" name="Blue Wolf Boots - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="B" />
@@ -475,6 +489,7 @@
 		</for>
 	</item>
 	<item id="5736" type="Armor" name="Blue Wolf Boots - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="B" />
@@ -501,6 +516,7 @@
 		</for>
 	</item>
 	<item id="5738" type="Armor" name="Doom Boots - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="B" />
@@ -514,6 +530,7 @@
 		</for>
 	</item>
 	<item id="5739" type="Armor" name="Doom Boots - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="B" />
@@ -527,6 +544,7 @@
 		</for>
 	</item>
 	<item id="5740" type="Armor" name="Doom Boots - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="B" />
@@ -700,6 +718,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="5765" type="Armor" name="Dark Crystal Gloves - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -713,6 +732,7 @@
 		</for>
 	</item>
 	<item id="5766" type="Armor" name="Dark Crystal Gloves - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -726,6 +746,7 @@
 		</for>
 	</item>
 	<item id="5767" type="Armor" name="Dark Crystal Gloves - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -739,6 +760,7 @@
 		</for>
 	</item>
 	<item id="5768" type="Armor" name="Tallum Gloves - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -752,6 +774,7 @@
 		</for>
 	</item>
 	<item id="5769" type="Armor" name="Tallum Gloves - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -765,6 +788,7 @@
 		</for>
 	</item>
 	<item id="5770" type="Armor" name="Tallum Gloves - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -778,6 +802,7 @@
 		</for>
 	</item>
 	<item id="5771" type="Armor" name="Gauntlets of Nightmare - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -791,6 +816,7 @@
 		</for>
 	</item>
 	<item id="5772" type="Armor" name="Gauntlets of Nightmare - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -804,6 +830,7 @@
 		</for>
 	</item>
 	<item id="5773" type="Armor" name="Gauntlets of Nightmare - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -817,6 +844,7 @@
 		</for>
 	</item>
 	<item id="5774" type="Armor" name="Majestic Gauntlets - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -830,6 +858,7 @@
 		</for>
 	</item>
 	<item id="5775" type="Armor" name="Majestic Gauntlets - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -843,6 +872,7 @@
 		</for>
 	</item>
 	<item id="5776" type="Armor" name="Majestic Gauntlets - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="A" />
@@ -856,6 +886,7 @@
 		</for>
 	</item>
 	<item id="5777" type="Armor" name="Dark Crystal Boots - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -869,6 +900,7 @@
 		</for>
 	</item>
 	<item id="5778" type="Armor" name="Dark Crystal Boots - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -882,6 +914,7 @@
 		</for>
 	</item>
 	<item id="5779" type="Armor" name="Dark Crystal Boots - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -895,6 +928,7 @@
 		</for>
 	</item>
 	<item id="5780" type="Armor" name="Tallum Boots - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -908,6 +942,7 @@
 		</for>
 	</item>
 	<item id="5781" type="Armor" name="Tallum Boots - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -921,6 +956,7 @@
 		</for>
 	</item>
 	<item id="5782" type="Armor" name="Tallum Boots - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -934,6 +970,7 @@
 		</for>
 	</item>
 	<item id="5783" type="Armor" name="Boots of Nightmare - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -947,6 +984,7 @@
 		</for>
 	</item>
 	<item id="5784" type="Armor" name="Boots of Nightmare - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -960,6 +998,7 @@
 		</for>
 	</item>
 	<item id="5785" type="Armor" name="Boots of Nightmare - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -973,6 +1012,7 @@
 		</for>
 	</item>
 	<item id="5786" type="Armor" name="Majestic Boots - Heavy Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -986,6 +1026,7 @@
 		</for>
 	</item>
 	<item id="5787" type="Armor" name="Majestic Boots - Light Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />
@@ -999,6 +1040,7 @@
 		</for>
 	</item>
 	<item id="5788" type="Armor" name="Majestic Boots - Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="A" />

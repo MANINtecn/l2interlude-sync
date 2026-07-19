@@ -101,6 +101,7 @@
 		</for>
 	</item>
 	<item id="204" type="Weapon" name="Deadman's Staff">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -126,6 +127,7 @@
 		</for>
 	</item>
 	<item id="205" type="Weapon" name="Ghoul's Staff">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -1397,6 +1399,7 @@
 		</for>
 	</item>
 	<item id="262" type="Weapon" name="Scallop Jamadhr">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -1493,6 +1496,7 @@
 		</for>
 	</item>
 	<item id="266" type="Weapon" name="Great Pata">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />

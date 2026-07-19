@@ -28,4 +28,36 @@
 	<!-- Escudos A -->
 	<item><production id="2498" count="1"/><ingredient id="57" count="1000000"/></item>
 	<item><production id="5292" count="1"/><ingredient id="57" count="1000000"/></item>
+
+	<!-- CHECKUP 2026-07-18: sets completos + tipos/mago faltantes -->
+	<item><production id="388" count="1"/><ingredient id="57" count="1200000"/></item> <!-- Dark Crystal Heavy Set legs -->
+	<item><production id="512" count="1"/><ingredient id="57" count="800000"/></item> <!-- Dark Crystal Heavy Set head -->
+	<item><production id="5765" count="1"/><ingredient id="57" count="800000"/></item> <!-- Dark Crystal Heavy Set gloves -->
+	<item><production id="5777" count="1"/><ingredient id="57" count="800000"/></item> <!-- Dark Crystal Heavy Set feet -->
+	<item><production id="641" count="1"/><ingredient id="57" count="1000000"/></item> <!-- Dark Crystal Heavy Set shield -->
+	<item><production id="5771" count="1"/><ingredient id="57" count="800000"/></item> <!-- Nightmare Heavy Set gloves -->
+	<item><production id="5783" count="1"/><ingredient id="57" count="800000"/></item> <!-- Nightmare Heavy Set feet -->
+	<item><production id="547" count="1"/><ingredient id="57" count="800000"/></item> <!-- Tallum Heavy Set head -->
+	<item><production id="5768" count="1"/><ingredient id="57" count="800000"/></item> <!-- Tallum Heavy Set gloves -->
+	<item><production id="5780" count="1"/><ingredient id="57" count="800000"/></item> <!-- Tallum Heavy Set feet -->
+	<item><production id="5774" count="1"/><ingredient id="57" count="800000"/></item> <!-- Majestic Heavy Set gloves -->
+	<item><production id="5786" count="1"/><ingredient id="57" count="800000"/></item> <!-- Majestic Heavy Set feet -->
+	<item><production id="2389" count="1"/><ingredient id="57" count="1200000"/></item> <!-- Dark Crystal Light Set legs -->
+	<item><production id="5766" count="1"/><ingredient id="57" count="800000"/></item> <!-- Dark Crystal Light Set gloves -->
+	<item><production id="5778" count="1"/><ingredient id="57" count="800000"/></item> <!-- Dark Crystal Light Set feet -->
+	<item><production id="5769" count="1"/><ingredient id="57" count="800000"/></item> <!-- Tallum Light Set gloves -->
+	<item><production id="5781" count="1"/><ingredient id="57" count="800000"/></item> <!-- Tallum Light Set feet -->
+	<item><production id="5772" count="1"/><ingredient id="57" count="800000"/></item> <!-- Nightmare Light Set gloves -->
+	<item><production id="5784" count="1"/><ingredient id="57" count="800000"/></item> <!-- Nightmare Light Set feet -->
+	<item><production id="5775" count="1"/><ingredient id="57" count="800000"/></item> <!-- Majestic Leather Set gloves -->
+	<item><production id="5787" count="1"/><ingredient id="57" count="800000"/></item> <!-- Majestic Leather Set feet -->
+	<item><production id="2405" count="1"/><ingredient id="57" count="1200000"/></item> <!-- Tallum Robe Set legs -->
+	<item><production id="5770" count="1"/><ingredient id="57" count="800000"/></item> <!-- Tallum Robe Set gloves -->
+	<item><production id="5782" count="1"/><ingredient id="57" count="800000"/></item> <!-- Tallum Robe Set feet -->
+	<item><production id="5767" count="1"/><ingredient id="57" count="800000"/></item> <!-- Dark Crystal Robe Set gloves -->
+	<item><production id="5779" count="1"/><ingredient id="57" count="800000"/></item> <!-- Dark Crystal Robe Set feet -->
+	<item><production id="5773" count="1"/><ingredient id="57" count="800000"/></item> <!-- Nightmare Robe Set gloves -->
+	<item><production id="5785" count="1"/><ingredient id="57" count="800000"/></item> <!-- Nightmare Robe Set feet -->
+	<item><production id="5776" count="1"/><ingredient id="57" count="800000"/></item> <!-- Majestic Robe Set gloves -->
+	<item><production id="5788" count="1"/><ingredient id="57" count="800000"/></item> <!-- Majestic Robe Set feet -->
 </list>

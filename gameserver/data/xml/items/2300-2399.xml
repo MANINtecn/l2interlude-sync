@@ -959,6 +959,7 @@
 		</for>
 	</item>
 	<item id="2389" type="Armor" name="Dark Crystal Leggings">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="legs" />

@@ -20,4 +20,11 @@
 	<item><production id="286" count="1"/><ingredient id="57" count="270000"/></item>
 	<!-- Polearm -->
 	<item><production id="299" count="1"/><ingredient id="57" count="240000"/></item>
+
+	<!-- CHECKUP 2026-07-18: sets completos + tipos/mago faltantes -->
+	<item><production id="2503" count="1"/><ingredient id="57" count="250000"/></item> <!-- top BLUNT C (tipo ausente) -->
+	<item><production id="2572" count="1"/><ingredient id="57" count="250000"/></item> <!-- top DUAL C (tipo ausente) -->
+	<item><production id="266" count="1"/><ingredient id="57" count="250000"/></item> <!-- top DUALFIST C (tipo ausente) -->
+	<item><production id="204" count="1"/><ingredient id="57" count="250000"/></item> <!-- MAGO BIGBLUNT C (matk 111) -->
+	<item><production id="205" count="1"/><ingredient id="57" count="250000"/></item> <!-- MAGO BIGBLUNT C (matk 111) -->
 </list>

@@ -4,17 +4,25 @@
 	<npcs><npc>31305</npc></npcs>
 	<!-- === HEAVY === -->
 	<!-- Mithril/Composite -->
-	<item><production id="58" count="1"/><ingredient id="57" count="180000"/></item>
-	<item><production id="59" count="1"/><ingredient id="57" count="120000"/></item>
 	<item><production id="499" count="1"/><ingredient id="57" count="90000"/></item>
-	<item><production id="61" count="1"/><ingredient id="57" count="70000"/></item>
 	<item><production id="62" count="1"/><ingredient id="57" count="70000"/></item>
 	<item><production id="60" count="1"/><ingredient id="57" count="200000"/></item>
 	<item><production id="64" count="1"/><ingredient id="57" count="75000"/></item>
 	<!-- === LIGHT === -->
-	<item><production id="2390" count="1"/><ingredient id="57" count="190000"/></item>
 	<!-- === ROBE === -->
-	<item><production id="2396" count="1"/><ingredient id="57" count="195000"/></item>
-	<!-- === SHIELD C === -->
-	<item><production id="103" count="1"/><ingredient id="57" count="150000"/></item>
+
+	<!-- CHECKUP 2026-07-18: sets completos + tipos/mago faltantes -->
+	<item><production id="47" count="1"/><ingredient id="57" count="90000"/></item> <!-- Mithril Heavy Set head -->
+	<item><production id="628" count="1"/><ingredient id="57" count="90000"/></item> <!-- Mithril Heavy Set shield -->
+	<item><production id="517" count="1"/><ingredient id="57" count="90000"/></item> <!-- Composite Set head -->
+	<item><production id="107" count="1"/><ingredient id="57" count="90000"/></item> <!-- Composite Set shield -->
+	<item><production id="356" count="1"/><ingredient id="57" count="200000"/></item> <!-- Full Plate Set chest -->
+	<item><production id="2414" count="1"/><ingredient id="57" count="90000"/></item> <!-- Full Plate Set head -->
+	<item><production id="2497" count="1"/><ingredient id="57" count="90000"/></item> <!-- Full Plate Set shield -->
+	<item><production id="400" count="1"/><ingredient id="57" count="200000"/></item> <!-- Theca Leather Set chest -->
+	<item><production id="420" count="1"/><ingredient id="57" count="130000"/></item> <!-- Theca Leather Set legs -->
+	<item><production id="2436" count="1"/><ingredient id="57" count="75000"/></item> <!-- Theca Leather Set feet -->
+	<item><production id="439" count="1"/><ingredient id="57" count="200000"/></item> <!-- Karmian Set chest -->
+	<item><production id="471" count="1"/><ingredient id="57" count="130000"/></item> <!-- Karmian Set legs -->
+	<item><production id="2454" count="1"/><ingredient id="57" count="75000"/></item> <!-- Karmian Set gloves -->
 </list>

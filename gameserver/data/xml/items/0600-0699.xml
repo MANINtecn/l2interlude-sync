@@ -368,6 +368,7 @@
 		</for>
 	</item>
 	<item id="628" type="Armor" name="Hoplon">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="D" />
@@ -564,6 +565,7 @@
 		</for>
 	</item>
 	<item id="641" type="Armor" name="Dark Crystal Shield">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="A" />
@@ -1044,6 +1046,7 @@
 		</for>
 	</item>
 	<item id="673" type="Armor" name="Avadon Shield">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="B" />

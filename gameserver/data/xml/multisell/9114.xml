@@ -9,18 +9,19 @@
 	<item><production id="2411" count="1"/><ingredient id="57" count="18000"/></item>
 	<item><production id="2425" count="1"/><ingredient id="57" count="12000"/></item>
 	<item><production id="2449" count="1"/><ingredient id="57" count="12000"/></item>
-	<!-- === LIGHT: Mithril Banded Set (completo) === -->
+	<!-- Mithril Banded Set -->
 	<item><production id="393" count="1"/><ingredient id="57" count="42000"/></item>
 	<item><production id="415" count="1"/><ingredient id="57" count="28000"/></item>
-	<item><production id="2426" count="1"/><ingredient id="57" count="15000"/></item>
-	<item><production id="2450" count="1"/><ingredient id="57" count="12000"/></item>
-	<!-- === MAGIC: Mithril Tunic Set (completo, pecas avulsas Knowledge) === -->
+	<!-- === LIGHT === -->
 	<item><production id="437" count="1"/><ingredient id="57" count="38000"/></item>
 	<item><production id="470" count="1"/><ingredient id="57" count="26000"/></item>
-	<item><production id="2423" count="1"/><ingredient id="57" count="14000"/></item>
-	<item><production id="2447" count="1"/><ingredient id="57" count="11000"/></item>
-	<!-- === ROBE (fullarmor, D real - substitui o Avadon Robe B-grade que estava aqui) === -->
-	<item><production id="438" count="1"/><ingredient id="57" count="52000"/></item>
-	<!-- === SHIELD D === -->
-	<item><production id="626" count="1"/><ingredient id="57" count="22000"/></item>
+	<!-- === ROBE === -->
+
+	<!-- CHECKUP 2026-07-18: sets completos + tipos/mago faltantes -->
+	<item><production id="2493" count="1"/><ingredient id="57" count="15000"/></item> <!-- Brigandine Set shield -->
+	<item><production id="2450" count="1"/><ingredient id="57" count="12000"/></item> <!-- Mithril Robe Set gloves -->
+	<item><production id="58" count="1"/><ingredient id="57" count="40000"/></item> <!-- Mithril Breastplate (movida da loja C) -->
+	<item><production id="59" count="1"/><ingredient id="57" count="26000"/></item> <!-- Mithril Gaiters (movida da loja C) -->
+	<item><production id="61" count="1"/><ingredient id="57" count="12000"/></item> <!-- Mithril Gloves (movida da loja C) -->
+	<item><production id="2396" count="1"/><ingredient id="57" count="40000"/></item> <!-- Elven Mithril Tunic (movida da loja C) -->
 </list>

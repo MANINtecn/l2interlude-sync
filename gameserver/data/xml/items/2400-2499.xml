@@ -79,6 +79,7 @@
 		</for>
 	</item>
 	<item id="2405" type="Armor" name="Tallum Stockings">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="legs" />
@@ -212,6 +213,7 @@
 		</for>
 	</item>
 	<item id="2414" type="Armor" name="Full Plate Helmet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="C" />
@@ -504,6 +506,7 @@
 		</for>
 	</item>
 	<item id="2436" type="Armor" name="Theca Leather Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="C" />
@@ -689,6 +692,7 @@
 		</for>
 	</item>
 	<item id="2450" type="Armor" name="Elven Mithril Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="D" />
@@ -741,6 +745,7 @@
 		</for>
 	</item>
 	<item id="2454" type="Armor" name="Karmian Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="C" />
@@ -1247,6 +1252,7 @@
 		</for>
 	</item>
 	<item id="2493" type="Armor" name="Brigandine Shield">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="D" />
@@ -1307,6 +1313,7 @@
 		</for>
 	</item>
 	<item id="2497" type="Armor" name="Full Plate Shield">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="C" />

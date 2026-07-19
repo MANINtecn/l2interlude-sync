@@ -3,29 +3,51 @@
 <list>
 	<npcs><npc>31305</npc></npcs>
 	<!-- === HEAVY: Avadon === -->
-	<item><production id="2376" count="1"/><ingredient id="57" count="480000"/></item>
-	<item><production id="2379" count="1"/><ingredient id="57" count="330000"/></item>
-	<item><production id="2415" count="1"/><ingredient id="57" count="240000"/></item>
-	<item><production id="2464" count="1"/><ingredient id="57" count="180000"/></item>
+	<item><production id="2376" count="1"/><ingredient id="57" count="800000"/></item>
+	<item><production id="2379" count="1"/><ingredient id="57" count="550000"/></item>
+	<item><production id="2415" count="1"/><ingredient id="57" count="400000"/></item>
+	<item><production id="2464" count="1"/><ingredient id="57" count="300000"/></item>
 	<!-- === HEAVY: Blue Wolf === -->
-	<item><production id="358" count="1"/><ingredient id="57" count="540000"/></item>
-	<item><production id="2380" count="1"/><ingredient id="57" count="360000"/></item>
-	<item><production id="2416" count="1"/><ingredient id="57" count="270000"/></item>
-	<item><production id="2439" count="1"/><ingredient id="57" count="210000"/></item>
-	<item><production id="2487" count="1"/><ingredient id="57" count="210000"/></item>
+	<item><production id="358" count="1"/><ingredient id="57" count="900000"/></item>
+	<item><production id="2380" count="1"/><ingredient id="57" count="600000"/></item>
+	<item><production id="2416" count="1"/><ingredient id="57" count="450000"/></item>
+	<item><production id="2439" count="1"/><ingredient id="57" count="350000"/></item>
+	<item><production id="2487" count="1"/><ingredient id="57" count="350000"/></item>
 	<!-- === HEAVY: Doom === -->
-	<item><production id="2381" count="1"/><ingredient id="57" count="720000"/></item>
-	<item><production id="2417" count="1"/><ingredient id="57" count="300000"/></item>
-	<item><production id="601" count="1"/><ingredient id="57" count="228000"/></item>
-	<item><production id="2475" count="1"/><ingredient id="57" count="228000"/></item>
+	<item><production id="2381" count="1"/><ingredient id="57" count="1200000"/></item>
+	<item><production id="2417" count="1"/><ingredient id="57" count="500000"/></item>
+	<item><production id="601" count="1"/><ingredient id="57" count="380000"/></item>
+	<item><production id="2475" count="1"/><ingredient id="57" count="380000"/></item>
 	<!-- === LIGHT === -->
-	<item><production id="2391" count="1"/><ingredient id="57" count="510000"/></item>
-	<item><production id="2392" count="1"/><ingredient id="57" count="570000"/></item>
+	<item><production id="2391" count="1"/><ingredient id="57" count="850000"/></item>
+	<item><production id="2392" count="1"/><ingredient id="57" count="950000"/></item>
 	<!-- === ROBE === -->
-	<item><production id="2398" count="1"/><ingredient id="57" count="492000"/></item>
-	<item><production id="2399" count="1"/><ingredient id="57" count="540000"/></item>
-	<item><production id="2403" count="1"/><ingredient id="57" count="336000"/></item>
-	<item><production id="2404" count="1"/><ingredient id="57" count="372000"/></item>
-	<!-- === SHIELD B === -->
-	<item><production id="104" count="1"/><ingredient id="57" count="420000"/></item>
+	<item><production id="2398" count="1"/><ingredient id="57" count="820000"/></item>
+	<item><production id="2399" count="1"/><ingredient id="57" count="900000"/></item>
+	<item><production id="2403" count="1"/><ingredient id="57" count="560000"/></item>
+	<item><production id="2404" count="1"/><ingredient id="57" count="620000"/></item>
+
+	<!-- CHECKUP 2026-07-18: sets completos + tipos/mago faltantes -->
+	<item><production id="5714" count="1"/><ingredient id="57" count="350000"/></item> <!-- Avadon Heavy Set gloves -->
+	<item><production id="5730" count="1"/><ingredient id="57" count="350000"/></item> <!-- Avadon Heavy Set feet -->
+	<item><production id="673" count="1"/><ingredient id="57" count="400000"/></item> <!-- Avadon Heavy Set shield -->
+	<item><production id="5718" count="1"/><ingredient id="57" count="350000"/></item> <!-- Blue Wolf Heavy Set gloves -->
+	<item><production id="5734" count="1"/><ingredient id="57" count="350000"/></item> <!-- Blue Wolf Heavy Set feet -->
+	<item><production id="5722" count="1"/><ingredient id="57" count="350000"/></item> <!-- Doom Heavy Set gloves -->
+	<item><production id="5738" count="1"/><ingredient id="57" count="350000"/></item> <!-- Doom Heavy Set feet -->
+	<item><production id="110" count="1"/><ingredient id="57" count="400000"/></item> <!-- Doom Heavy Set shield -->
+	<item><production id="5719" count="1"/><ingredient id="57" count="350000"/></item> <!-- Blue Wolf Light Set gloves -->
+	<item><production id="5735" count="1"/><ingredient id="57" count="350000"/></item> <!-- Blue Wolf Light Set feet -->
+	<item><production id="5723" count="1"/><ingredient id="57" count="350000"/></item> <!-- Doom Light Set gloves -->
+	<item><production id="5739" count="1"/><ingredient id="57" count="350000"/></item> <!-- Doom Light Set feet -->
+	<item><production id="5720" count="1"/><ingredient id="57" count="350000"/></item> <!-- Blue Wolf Robe Set gloves -->
+	<item><production id="5736" count="1"/><ingredient id="57" count="350000"/></item> <!-- Blue Wolf Robe Set feet -->
+	<item><production id="5724" count="1"/><ingredient id="57" count="350000"/></item> <!-- Doom Robe Set gloves -->
+	<item><production id="5740" count="1"/><ingredient id="57" count="350000"/></item> <!-- Doom Robe Set feet -->
+	<item><production id="2406" count="1"/><ingredient id="57" count="950000"/></item> <!-- Avadon Robe (movida da loja D) -->
+	<item><production id="5716" count="1"/><ingredient id="57" count="350000"/></item> <!-- Avadon Robe Set gloves -->
+	<item><production id="5732" count="1"/><ingredient id="57" count="350000"/></item> <!-- Avadon Robe Set feet -->
+	<item><production id="2390" count="1"/><ingredient id="57" count="950000"/></item> <!-- Avadon Leather Armor (movida da loja C) -->
+	<item><production id="5715" count="1"/><ingredient id="57" count="350000"/></item> <!-- Avadon Light Set gloves -->
+	<item><production id="5731" count="1"/><ingredient id="57" count="350000"/></item> <!-- Avadon Light Set feet -->
 </list>
