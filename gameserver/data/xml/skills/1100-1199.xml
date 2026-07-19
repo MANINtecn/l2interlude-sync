@@ -1236,12 +1236,12 @@
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<enchant2 name="mpInitialConsume" val="#ench2MpConsume_Init"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="#stackOrder" stackType="armor_wind">
+			<effect name="Buff" time="10800" val="0" stackOrder="#stackOrder" stackType="armor_wind">
 				<addMul stat="windRes" val="#vuln" />
 			</effect>
 		</for>
 		<enchant1for>
-			<effect name="Buff" time="3600" val="0" stackOrder="3" stackType="armor_wind">
+			<effect name="Buff" time="10800" val="0" stackOrder="3" stackType="armor_wind">
 				<addMul stat="windRes" val="30" />
 			</effect>
 		</enchant1for>
@@ -1274,12 +1274,12 @@
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<enchant2 name="mpInitialConsume" val="#ench2MpConsume_Init"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="#stackOrder" stackType="armor_fire">
+			<effect name="Buff" time="10800" val="0" stackOrder="#stackOrder" stackType="armor_fire">
 				<addMul stat="fireRes" val="#vuln" />
 			</effect>
 		</for>
 		<enchant1for>
-			<effect name="Buff" time="3600" val="0" stackOrder="3" stackType="armor_fire">
+			<effect name="Buff" time="10800" val="0" stackOrder="3" stackType="armor_fire">
 				<addMul stat="fireRes" val="30" />
 			</effect>
 		</enchant1for>

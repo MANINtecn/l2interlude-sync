@@ -125,12 +125,12 @@
 		<enchant2 name="aggroPoints" val="655"/>
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="song_of_vitality">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="song_of_vitality">
 				<mul stat="maxHp" val="1.3"/>
 			</effect>
 		</for>
 		<enchant1for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="song_of_vitality">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="song_of_vitality">
 				<mul stat="maxHp" val="1.3"/>
 			</effect>
 		</enchant1for>
@@ -154,12 +154,12 @@
 		<enchant2 name="magicLvl" val="#enchantMagicLvl"/>
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="song_of_vengeance">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="song_of_vengeance">
 				<add stat="reflectDam" val="20"/>
 			</effect>
 		</for>
 		<enchant1for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="song_of_vengeance">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="song_of_vengeance">
 				<add stat="reflectDam" val="20"/>
 			</effect>
 		</enchant1for>
@@ -185,12 +185,12 @@
 		<enchant2 name="aggroPoints" val="655"/>
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="song_of_flame_guard">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="song_of_flame_guard">
 				<addMul stat="fireRes" val="30" />
 			</effect>
 		</for>
 		<enchant1for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="song_of_flame_guard">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="song_of_flame_guard">
 				<addMul stat="fireRes" val="30" />
 			</effect>
 		</enchant1for>
@@ -248,12 +248,12 @@
 		<enchant2 name="aggroPoints" val="655"/>
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="song_of_storm_guard">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="song_of_storm_guard">
 				<addMul stat="windRes" val="30" />
 			</effect>
 		</for>
 		<enchant1for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="song_of_storm_guard">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="song_of_storm_guard">
 				<addMul stat="windRes" val="30" />
 			</effect>
 		</enchant1for>
@@ -1079,7 +1079,7 @@
 		<set name="operateType" val="ACTIVE"/>
 		<set name="aggroPoints" val="666"/>
 		<for>
-			<effect name="Buff" time="3600" count="1" val="0" stackOrder="1" stackType="song_of_renewal">
+			<effect name="Buff" time="10800" count="1" val="0" stackOrder="1" stackType="song_of_renewal">
 				<mul stat="mReuse" val="0.8" />
 				<mul stat="pReuse" val="0.8" />
 				<mul stat="MagicalMpConsumeRate" val="0.9" />
@@ -1396,7 +1396,7 @@
 		<set name="operateType" val="ACTIVE"/>
 		<set name="aggroPoints" val="666"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="song_of_meditation">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="song_of_meditation">
 				<mul stat="regMp" val="1.2"/>
 				<mul stat="MagicalMpConsumeRate" val="0.90"/>
 			</effect>
@@ -1415,7 +1415,7 @@
 		<set name="operateType" val="ACTIVE"/>
 		<set name="aggroPoints" val="669"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="song_of_champion">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="song_of_champion">
 				<mul stat="pReuse" val="0.7" />
 				<mul stat="PhysicalMpConsumeRate" val="0.8" />
 				<mul stat="DanceMpConsumeRate" val="0.8" />
@@ -1436,7 +1436,7 @@
 		<set name="operateType" val="ACTIVE"/>
 		<set name="aggroPoints" val="669"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="dance_of_siren">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="dance_of_siren">
 				<mul stat="mCritRate" val="3"/>
 			</effect>
 		</for>
