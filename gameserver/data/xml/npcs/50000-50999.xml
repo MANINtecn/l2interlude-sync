@@ -1287,7 +1287,7 @@
 			<skill id="4416" level="24" type="PASSIVE"/>
 		</skills>
 	</npc>
-	<npc id="50013" idTemplate="50000" name="Ikarus" title="Donate" alias="ikarus_donate">
+	<npc id="50013" idTemplate="50004" name="Ikarus" title="Donate" alias="ikarus_donate">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="type" val="NpcDonate"/>
