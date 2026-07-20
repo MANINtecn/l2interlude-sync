@@ -1287,13 +1287,13 @@
 			<skill id="4416" level="24" type="PASSIVE"/>
 		</skills>
 	</npc>
-	<npc id="50013" idTemplate="30363" name="Ikarus" title="Donate" alias="ikarus_donate">
+	<npc id="50013" idTemplate="50000" name="Ikarus" title="Donate" alias="ikarus_donate">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="type" val="NpcDonate"/>
 		<set name="level" val="70"/>
 		<set name="radius" val="8.0"/>
-		<set name="height" val="23.0"/>
+		<set name="height" val="24.0"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
