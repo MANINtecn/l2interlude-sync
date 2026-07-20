@@ -1304,6 +1304,8 @@
 		<set name="hpRegen" val="11.85"/>
 		<set name="mpRegen" val="2.78"/>
 		<set name="baseAttackRange" val="40"/>
+		<set name="baseDamageRange" val="0;0;80;120"/>
+		<set name="baseRandomDamage" val="7"/>
 		<set name="pAtk" val="683.28"/>
 		<set name="pDef" val="296.1"/>
 		<set name="mAtk" val="468.0"/>
@@ -1321,5 +1323,12 @@
 		<set name="undying" val="true"/>
 		<set name="canBeAttacked" val="false"/>
 		<set name="corpseTime" val="7"/>
+		<set name="hitTimeFactor" val="0.6"/>
+		<set name="aggroRange" val="0"/>
+		<set name="canMove" val="false"/>
+		<set name="noSleepMode" val="false"/>
+		<set name="seedable" val="false"/>
+		<set name="ssCount" val="0"/>
+		<set name="spsCount" val="0"/>
 	</npc>
 </list>
