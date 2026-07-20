@@ -1287,4 +1287,39 @@
 			<skill id="4416" level="24" type="PASSIVE"/>
 		</skills>
 	</npc>
+	<npc id="50013" idTemplate="30363" name="Ikarus" title="Donate" alias="ikarus_donate">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="type" val="NpcDonate"/>
+		<set name="level" val="70"/>
+		<set name="radius" val="8.0"/>
+		<set name="height" val="23.0"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="canSeeThrough" val="true"/>
+		<set name="exp" val="0.0"/>
+		<set name="sp" val="0.0"/>
+		<set name="hp" val="2444.0"/>
+		<set name="mp" val="1493.0"/>
+		<set name="hpRegen" val="11.85"/>
+		<set name="mpRegen" val="2.78"/>
+		<set name="baseAttackRange" val="40"/>
+		<set name="pAtk" val="683.28"/>
+		<set name="pDef" val="296.1"/>
+		<set name="mAtk" val="468.0"/>
+		<set name="mDef" val="206.28"/>
+		<set name="crit" val="8.0"/>
+		<set name="atkSpd" val="253.0"/>
+		<set name="walkSpd" val="49.5"/>
+		<set name="runSpd" val="118.8"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="undying" val="true"/>
+		<set name="canBeAttacked" val="false"/>
+		<set name="corpseTime" val="7"/>
+	</npc>
 </list>
