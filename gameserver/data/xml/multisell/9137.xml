@@ -35,4 +35,14 @@
 	<item><production id="4804" count="1"/><ingredient id="268" count="1"/><ingredient id="57" count="475000"/></item>
 	<item><production id="4805" count="1"/><ingredient id="268" count="1"/><ingredient id="57" count="475000"/></item>
 	<item><production id="4806" count="1"/><ingredient id="268" count="1"/><ingredient id="57" count="475000"/></item>
+
+	<!-- 2026-07-20: Sword of Valhalla -->
+	<item><production id="7722" count="1"/><ingredient id="148" count="1"/><ingredient id="57" count="450000"/></item>
+	<item><production id="7723" count="1"/><ingredient id="148" count="1"/><ingredient id="57" count="450000"/></item>
+	<item><production id="7724" count="1"/><ingredient id="148" count="1"/><ingredient id="57" count="450000"/></item>
+
+	<!-- 2026-07-20: Spell Breaker -->
+	<item><production id="8141" count="1"/><ingredient id="7892" count="1"/><ingredient id="57" count="450000"/></item>
+	<item><production id="8142" count="1"/><ingredient id="7892" count="1"/><ingredient id="57" count="450000"/></item>
+	<item><production id="8143" count="1"/><ingredient id="7892" count="1"/><ingredient id="57" count="450000"/></item>
 </list>

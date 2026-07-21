@@ -30,13 +30,7 @@
 	<!-- CHECKUP 2026-07-18: sets completos + tipos/mago faltantes -->
 	<item><production id="97" count="1"/><ingredient id="57" count="1200000"/></item> <!-- top POLE B (tipo ausente) -->
 
-	<!-- 2026-07-20: Sword of Valhalla + Spell Breaker + variantes S.A. -->
+	<!-- 2026-07-20: Sword of Valhalla + Spell Breaker (base; variantes S.A. no Kraug 9137) -->
 	<item><production id="148" count="1"/><ingredient id="57" count="1200000"/></item>
-	<item><production id="7722" count="1"/><ingredient id="57" count="1350000"/></item> <!-- Acumen -->
-	<item><production id="7723" count="1"/><ingredient id="57" count="1350000"/></item> <!-- Magic Weakness -->
-	<item><production id="7724" count="1"/><ingredient id="57" count="1350000"/></item> <!-- Magic Regeneration -->
 	<item><production id="7892" count="1"/><ingredient id="57" count="1200000"/></item>
-	<item><production id="8141" count="1"/><ingredient id="57" count="1350000"/></item> <!-- Acumen -->
-	<item><production id="8142" count="1"/><ingredient id="57" count="1350000"/></item> <!-- Magic Mental Shield -->
-	<item><production id="8143" count="1"/><ingredient id="57" count="1350000"/></item> <!-- Magic Hold -->
 </list>

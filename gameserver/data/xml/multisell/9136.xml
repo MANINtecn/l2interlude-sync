@@ -37,4 +37,9 @@
 	<item><production id="4852" count="1"/><ingredient id="299" count="1"/><ingredient id="57" count="120000"/></item>
 	<item><production id="4853" count="1"/><ingredient id="299" count="1"/><ingredient id="57" count="120000"/></item>
 	<item><production id="4854" count="1"/><ingredient id="299" count="1"/><ingredient id="57" count="120000"/></item>
+
+	<!-- 2026-07-20: Homunkulus's Sword -->
+	<item><production id="6313" count="1"/><ingredient id="84" count="1"/><ingredient id="57" count="100000"/></item>
+	<item><production id="6314" count="1"/><ingredient id="84" count="1"/><ingredient id="57" count="100000"/></item>
+	<item><production id="6315" count="1"/><ingredient id="84" count="1"/><ingredient id="57" count="100000"/></item>
 </list>
