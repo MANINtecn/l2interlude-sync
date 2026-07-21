@@ -1296,6 +1296,7 @@
 		</for>
 	</item>
 	<item id="84" type="Weapon" name="Homunkulus's Sword">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />

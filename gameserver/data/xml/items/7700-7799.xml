@@ -567,6 +567,7 @@
 		</for>
 	</item>
 	<item id="7722" type="Weapon" name="Sword of Valhalla - Acumen">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
@@ -592,6 +593,7 @@
 		</for>
 	</item>
 	<item id="7723" type="Weapon" name="Sword of Valhalla - Magic Weakness">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
@@ -618,6 +620,7 @@
 		</for>
 	</item>
 	<item id="7724" type="Weapon" name="Sword of Valhalla - Magic Regeneration">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />

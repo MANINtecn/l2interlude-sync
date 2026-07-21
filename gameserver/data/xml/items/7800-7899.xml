@@ -1588,6 +1588,7 @@
 		</for>
 	</item>
 	<item id="7892" type="Weapon" name="Spell Breaker">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />

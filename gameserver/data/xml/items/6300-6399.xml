@@ -192,6 +192,7 @@
 		</for>
 	</item>
 	<item id="6313" type="Weapon" name="Homunkulus's Sword - Acumen">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
@@ -217,6 +218,7 @@
 		</for>
 	</item>
 	<item id="6314" type="Weapon" name="Homunkulus's Sword - Conversion">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
@@ -242,6 +244,7 @@
 		</for>
 	</item>
 	<item id="6315" type="Weapon" name="Homunkulus's Sword - Magic Paralyze">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />

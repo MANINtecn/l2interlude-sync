@@ -912,6 +912,7 @@
 		</for>
 	</item>
 	<item id="148" type="Weapon" name="Sword of Valhalla">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
