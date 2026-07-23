@@ -1013,13 +1013,13 @@
 		<set name="canBeAttacked" val="true"/>
 		<set name="corpseTime" val="7"/>
 		<set name="noSleepMode" val="false"/>
-		<set name="aggroRange" val="1000"/>
+		<set name="aggroRange" val="0"/>
 		<set name="canMove" val="true"/>
 		<set name="seedable" val="false"/>
 		<ai>
-			<set name="MoveAroundSocial" val="140"/>
-			<set name="MoveAroundSocial1" val="140"/>
-			<set name="MoveAroundSocial2" val="140"/>
+			<set name="MoveAroundSocial" val="0"/>
+			<set name="MoveAroundSocial1" val="0"/>
+			<set name="MoveAroundSocial2" val="0"/>
 			<set name="SoulShot" val="100"/>
 			<set name="SoulShotRate" val="10"/>
 			<set name="SpiritShot" val="100"/>
@@ -1111,13 +1111,13 @@
 		<set name="canBeAttacked" val="true"/>
 		<set name="corpseTime" val="7"/>
 		<set name="noSleepMode" val="false"/>
-		<set name="aggroRange" val="1000"/>
+		<set name="aggroRange" val="0"/>
 		<set name="canMove" val="true"/>
 		<set name="seedable" val="false"/>
 		<ai>
-			<set name="MoveAroundSocial" val="74"/>
-			<set name="MoveAroundSocial1" val="74"/>
-			<set name="MoveAroundSocial2" val="74"/>
+			<set name="MoveAroundSocial" val="0"/>
+			<set name="MoveAroundSocial1" val="0"/>
+			<set name="MoveAroundSocial2" val="0"/>
 			<set name="SetHateGroup" val="@attacker_group"/>
 			<set name="SetHateGroupRatio" val="35"/>
 			<set name="SoulShot" val="100"/>
@@ -1287,10 +1287,54 @@
 			<skill id="4416" level="24" type="PASSIVE"/>
 		</skills>
 	</npc>
-	<npc id="50013" idTemplate="50004" name="Ikarus" title="Donate" alias="ikarus_donate">
+	<npc id="50013" idTemplate="50004" name="Maeve" title="DONATE" alias="ikarus_donate">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="type" val="NpcDonate"/>
+		<set name="level" val="70"/>
+		<set name="radius" val="8.0"/>
+		<set name="height" val="24.0"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="canSeeThrough" val="true"/>
+		<set name="exp" val="0.0"/>
+		<set name="sp" val="0.0"/>
+		<set name="hp" val="2444.0"/>
+		<set name="mp" val="1493.0"/>
+		<set name="hpRegen" val="11.85"/>
+		<set name="mpRegen" val="2.78"/>
+		<set name="baseAttackRange" val="40"/>
+		<set name="baseDamageRange" val="0;0;80;120"/>
+		<set name="baseRandomDamage" val="7"/>
+		<set name="pAtk" val="683.28"/>
+		<set name="pDef" val="296.1"/>
+		<set name="mAtk" val="468.0"/>
+		<set name="mDef" val="206.28"/>
+		<set name="crit" val="8.0"/>
+		<set name="atkSpd" val="253.0"/>
+		<set name="walkSpd" val="49.5"/>
+		<set name="runSpd" val="118.8"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="undying" val="true"/>
+		<set name="canBeAttacked" val="false"/>
+		<set name="corpseTime" val="7"/>
+		<set name="hitTimeFactor" val="0.6"/>
+		<set name="aggroRange" val="0"/>
+		<set name="canMove" val="false"/>
+		<set name="noSleepMode" val="false"/>
+		<set name="seedable" val="false"/>
+		<set name="ssCount" val="0"/>
+		<set name="spsCount" val="0"/>
+	</npc>
+	<npc id="50014" idTemplate="50004" name="Elric" title="SERVICOS" alias="ikarus_services">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="type" val="NpcServices"/>
 		<set name="level" val="70"/>
 		<set name="radius" val="8.0"/>
 		<set name="height" val="24.0"/>
