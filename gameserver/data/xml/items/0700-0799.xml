@@ -326,7 +326,7 @@
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="POTION" />
 		<set name="material" val="LIQUID" />
-		<set name="weight" val="180" />
+		<set name="weight" val="10" />
 		<set name="price" val="2000" />
 		<set name="is_stackable" val="true" />
 		<set name="is_oly_restricted" val="true" />
@@ -339,7 +339,8 @@
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCRL_ENCHANT_WP" />
 		<set name="material" val="PAPER" />
-		<set name="weight" val="120" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
 		<set name="price" val="1800000" />
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
@@ -350,7 +351,8 @@
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCRL_ENCHANT_AM" />
 		<set name="material" val="PAPER" />
-		<set name="weight" val="120" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
 		<set name="price" val="240000" />
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
@@ -360,7 +362,8 @@
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCROLL" />
 		<set name="material" val="PAPER" />
-		<set name="weight" val="120" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
 		<set name="price" val="240000" />
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
@@ -369,7 +372,8 @@
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="SCROLL" />
 		<set name="material" val="PAPER" />
-		<set name="weight" val="120" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
 		<set name="price" val="240000" />
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
