@@ -14,8 +14,6 @@
 	<item><production id="6571" count="1"/><ingredient id="57" count="220000"/><ingredient id="6392" count="25"/></item>
 	<!-- Blessed Scroll Enchant Weapon A - 5 ouro + 25 prata + adena -->
 	<item><production id="6569" count="1"/><ingredient id="57" count="350000"/><ingredient id="6393" count="5"/><ingredient id="6392" count="25"/></item>
-	<!-- Blessed Scroll Enchant Weapon S - 10 ouro + 50 prata + adena -->
-	<item><production id="6577" count="1"/><ingredient id="57" count="500000"/><ingredient id="6393" count="10"/><ingredient id="6392" count="50"/></item>
 	<!-- Scroll Enchant Armor D/C/B/A - so adena -->
 	<item><production id="956"  count="1"/><ingredient id="57" count="40000"/></item>
 	<item><production id="952"  count="1"/><ingredient id="57" count="65000"/></item>
@@ -28,6 +26,4 @@
 	<item><production id="6572" count="1"/><ingredient id="57" count="180000"/><ingredient id="6392" count="25"/></item>
 	<!-- Blessed Scroll Enchant Armor A - 5 ouro + 25 prata + adena -->
 	<item><production id="6570" count="1"/><ingredient id="57" count="280000"/><ingredient id="6393" count="5"/><ingredient id="6392" count="25"/></item>
-	<!-- Blessed Scroll Enchant Armor S - 10 ouro + 50 prata + adena -->
-	<item><production id="6578" count="1"/><ingredient id="57" count="400000"/><ingredient id="6393" count="10"/><ingredient id="6392" count="50"/></item>
 </list>
