@@ -1008,7 +1008,7 @@
 		<set name="ssCount" val="0"/>
 		<set name="spsCount" val="0"/>
 		<set name="clan" val="bloody_clan"/>
-		<set name="clanRange" val="400"/>
+		<set name="clanRange" val="0"/>
 		<set name="undying" val="false"/>
 		<set name="canBeAttacked" val="true"/>
 		<set name="corpseTime" val="7"/>
@@ -1106,7 +1106,7 @@
 		<set name="ssCount" val="0"/>
 		<set name="spsCount" val="0"/>
 		<set name="clan" val="bloody_clan"/>
-		<set name="clanRange" val="400"/>
+		<set name="clanRange" val="0"/>
 		<set name="undying" val="false"/>
 		<set name="canBeAttacked" val="true"/>
 		<set name="corpseTime" val="7"/>
@@ -1331,7 +1331,7 @@
 		<set name="ssCount" val="0"/>
 		<set name="spsCount" val="0"/>
 	</npc>
-	<npc id="50014" idTemplate="50004" name="Elric" title="SERVICOS" alias="ikarus_services">
+	<npc id="50014" idTemplate="50004" name="Larissa" title="SERVICOS" alias="ikarus_services">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="type" val="NpcServices"/>
