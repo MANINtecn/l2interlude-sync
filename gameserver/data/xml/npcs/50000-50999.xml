@@ -1007,8 +1007,7 @@
 		<set name="men" val="10"/>
 		<set name="ssCount" val="0"/>
 		<set name="spsCount" val="0"/>
-		<set name="clan" val="bloody_clan"/>
-		<set name="clanRange" val="0"/>
+		<!-- IKARUS: sem clan (Taberna 50106/50107 = sem agro total, nao chama nem responde clan) -->
 		<set name="undying" val="false"/>
 		<set name="canBeAttacked" val="true"/>
 		<set name="corpseTime" val="7"/>
@@ -1105,8 +1104,7 @@
 		<set name="men" val="10"/>
 		<set name="ssCount" val="0"/>
 		<set name="spsCount" val="0"/>
-		<set name="clan" val="bloody_clan"/>
-		<set name="clanRange" val="0"/>
+		<!-- IKARUS: sem clan (Taberna 50106/50107 = sem agro total, nao chama nem responde clan) -->
 		<set name="undying" val="false"/>
 		<set name="canBeAttacked" val="true"/>
 		<set name="corpseTime" val="7"/>
