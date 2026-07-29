@@ -1283,15 +1283,30 @@
 		<set name="lvlDepend" val="1"/>
 		<set name="operateType" val="ACTIVE"/>
 		<set name="isDebuff" val="true" />
-		<set name="castRange" val="40"/> 
-		<set name="effectRange" val="400"/> 
-		<set name="reuseDelay" val="30000"/> 
-		<set name="hitTime" val="1000"/> 
+		<!-- IKARUS: alcance de ativacao. TEM que ser IGUAL ao `cast_range` (5o campo)
+		     da linha do skill 358 no `skillgrp.dat` do CLIENTE, senao o cliente corre
+		     por conta propria ate' o alcance DELE antes de castar e o dash sai
+		     dessincronizado. Valor alto de proposito: a skill e' um GAP CLOSER (avanco
+		     rapido pra alcancar archer/mago) - usada de perto ela nao tem proposito e
+		     ainda cai na faixa onde o cliente nao sincroniza (ver EffectDash.java). -->
+		<set name="castRange" val="600"/>
+		<set name="effectRange" val="700"/>
+		<set name="reuseDelay" val="30000"/>
+		<set name="hitTime" val="1000"/>
+		<!-- IKARUS (2026-07-27): ignoreShld pra Bluff nunca ser bloqueada por shield do
+		     alvo (calcShldUse -> ShieldDefense.PERFECT zera TODOS os efeitos, incluindo
+		     o Dash, quando o ataque vem de frente/lado - onde shield bloqueia). E' um
+		     debuff/stun, nao dano - nao faz sentido shield block afetar. -->
+		<set name="ignoreShld" val="true"/>
 		<for>
-			<effect name="Stun" time="9" val="0" stackOrder="1" stackType="stun" effectPower="40" effectType="STUN" />
+			<!-- IKARUS: "val" = MARGEM de folga no pouso, somada aos raios de colisao
+			     do caster e do alvo (o EffectDash calcula os raios sozinho). Margem
+			     pequena = pousa encostado. Aumentar se o char ficar "dentro" do mob. -->
+			<effect name="Dash" noicon="1" val="20"/>
+			<effect name="Stun" time="5" val="0" stackOrder="1" stackType="stun" effectPower="40" effectType="STUN" />
 			<effect name="Bluff" noicon="1" val="0" />
 			<effect name="RemoveTarget" noicon="1" val="0" effectPower="80" effectType="DEBUFF" />
-		</for> 
+		</for>
 	</skill>
 	<skill id="359" levels="1" name="Eye of Hunter" >
 		<set name="magicLvl" val="77" />

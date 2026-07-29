@@ -213,6 +213,51 @@
 		</skills>
 	</npc>
 
+	<!-- IKARUS (2026-07-27): NPC da ARENA 1x1 ("Duelo Ikarus"). Tipo Folk = so' abre
+	     HTML, sem logica Java propria. O menu do evento vem do bypass "_arena", tratado
+	     em RequestBypassToServer -> ArenaManager. HTML: data/html/default/50015.htm
+	     idTemplate 50005 = modelo custom do pack viRUS (aura + banner IKARUS flutuante,
+	     LineageNPCs_Effects.u no cliente). Escolhido pelo dono no expositor 50025.
+	     NAO precisa de patch novo: Maeve/Larissa ja usam esse pack, entao o jogador
+	     ja tem o arquivo. Spawnar com //spawn 50015. -->
+	<npc id="50015" idTemplate="50005" name="Kaelen" title="Arena 1x1" alias="ikarus_arena_npc">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="type" val="Folk"/>
+		<set name="level" val="70"/>
+		<set name="radius" val="8.0"/>
+		<set name="height" val="25.0"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="exp" val="0.0"/>
+		<set name="sp" val="0.0"/>
+		<set name="hp" val="2444.0"/>
+		<set name="mp" val="1493.0"/>
+		<set name="hpRegen" val="11.85"/>
+		<set name="mpRegen" val="2.78"/>
+		<set name="baseAttackRange" val="40"/>
+		<set name="baseDamageRange" val="0;0;80;120"/>
+		<set name="pAtk" val="683.28"/>
+		<set name="pDef" val="296.1"/>
+		<set name="mAtk" val="468.0"/>
+		<set name="mDef" val="206.28"/>
+		<set name="crit" val="12.0"/>
+		<set name="atkSpd" val="247.42"/>
+		<set name="walkSpd" val="49.5"/>
+		<set name="runSpd" val="118.8"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="undying" val="true"/>
+		<set name="canBeAttacked" val="false"/>
+		<set name="aggroRange" val="0"/>
+		<set name="canMove" val="false"/>
+		<set name="seedable" val="false"/>
+	</npc>
+
 	<!-- NPC de TESTE do pack "6 NPCs com efeitos" (viRUS): idTemplate 50000 = modelo custom
 	     com aura + banner de logo flutuante (LineageNPCs_Effects.u no cliente + linhas 50000-
 	     50005 no npcgrp.dat). Trocar idTemplate 50000..50005 para testar cada modelo. -->
@@ -1053,7 +1098,7 @@
 		</drops>
 		<skills>
 			<skill id="4032" level="8" type="PHYSICAL_SPECIAL"/>
-			<skill id="4072" level="8" type="SELF_RANGE_DD_MAGIC"/>
+			<!-- IKARUS: Shock (4072) REMOVIDA = sem stun no farm da Taberna -->
 			<skill id="4085" level="1" type="PASSIVE"/>
 			<skill id="4086" level="1" type="PASSIVE"/>
 			<skill id="4090" level="1" type="SELF_BUFF"/>
@@ -1152,7 +1197,7 @@
 		</drops>
 		<skills>
 			<skill id="4033" level="7" type="SELF_RANGE_DD_MAGIC"/>
-			<skill id="4073" level="7" type="PHYSICAL_SPECIAL"/>
+			<!-- IKARUS: Shock (4073) REMOVIDA = sem stun no farm da Taberna -->
 			<skill id="4085" level="1" type="PASSIVE"/>
 			<skill id="4086" level="1" type="PASSIVE"/>
 			<skill id="4092" level="1" type="SELF_BUFF"/>
