@@ -107,20 +107,20 @@
 		<set name="skillType" val="NOTDONE" />
 		<set name="operateType" val="PASSIVE" />
 	</skill>
+	<!-- IKARUS (2026-07-29): skill do //gmspeed (so' GM usa, nao afeta jogador).
+	     Era 1.25/1.5/1.75/2 e mexia em pAtkSpd/mAtkSpd/pReuse/mReuse tambem — o dono
+	     quer SO' velocidade de corrida, sem tocar em atk speed/cast speed/reuse.
+	     Removidos os muls de atk/cast/reuse e a tabela #reuse; runSpd subiu pra
+	     4x/6x/8x/12x (nivel 4 = atravessar mapa). -->
 	<skill id="7029" levels="4" name="Super Haste" >
-		<table name="#amount"> 1.25 1.5 1.75 2 </table>
-		<table name="#reuse"> 0.75 0.50 0.25 0.01 </table>
+		<table name="#amount"> 4 6 8 12 </table>
 		<set name="magicLvl" val="1"/>
 		<set name="skillType" val="CONT"/>
 		<set name="operateType" val="TOGGLE"/>
 		<set name="target" val="SELF" />
 		<for>
 			<effect count="0x7fffffff" name="ManaDamOverTime" time="10" val="0">
-				<mul stat="pAtkSpd" val="#amount" />
 				<mul stat="runSpd" val="#amount" />
-				<mul stat="mAtkSpd" val="#amount" />
-				<mul stat="pReuse" val="#reuse" />
-				<mul stat="mReuse" val="#reuse" />
 			</effect>
 		</for>
 	</skill>
