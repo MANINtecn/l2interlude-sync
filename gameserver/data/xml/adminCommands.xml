@@ -66,6 +66,9 @@
 	<aCar name="admin_kit_mago" accessLevel="7" params="" desc="IKARUS: da o kit S completo de mago no alvo."/>
 	<aCar name="admin_kit_fight" accessLevel="7" params="" desc="IKARUS: da o kit S completo de fighter no alvo."/>
 	<aCar name="admin_dumpbuilds" accessLevel="7" params="" desc="IKARUS: gera builds-interlude.json p/ o simulador do site."/>
+	<aCar name="admin_dropadd" accessLevel="7" params="" desc="IKARUS: abre o painel de drop custom do mob alvo."/>
+	<aCar name="admin_dropadd_do" accessLevel="7" params="itemId min max chance" desc="IKARUS: adiciona um drop custom (via painel)."/>
+	<aCar name="admin_dropdel" accessLevel="7" params="id" desc="IKARUS: remove um drop custom pelo id."/>
 
 	<!-- GEOENGINE -->
 	<aCar name="admin_geo" accessLevel="7" params="bug|pos|see|move|fly" desc="Run one of the geoengine related checks."/>
