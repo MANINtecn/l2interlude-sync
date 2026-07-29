@@ -268,7 +268,7 @@
 		<set name="isMagic" val="true"/>
 		<set name="operateType" val="ACTIVE"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="multi_buff">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="multi_buff">
 				<mul stat="regMp" val="1.5">
 					<using kind="HEAVY,LIGHT" />
 				</mul>

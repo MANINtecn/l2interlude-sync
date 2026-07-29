@@ -217,12 +217,12 @@
 		<enchant2 name="aggroPoints" val="655"/>
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="dance_of_aqua_guard">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="dance_of_aqua_guard">
 				<addMul stat="waterRes" val="30" />
 			</effect>
 		</for>
 		<enchant1for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="dance_of_aqua_guard">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="dance_of_aqua_guard">
 				<addMul stat="waterRes" val="30" />
 			</effect>
 		</enchant1for>
@@ -280,12 +280,12 @@
 		<enchant2 name="aggroPoints" val="655"/>
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="dance_of_earth_guard">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="dance_of_earth_guard">
 				<addMul stat="earthRes" val="30" />
 			</effect>
 		</for>
 		<enchant1for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="dance_of_earth_guard">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="dance_of_earth_guard">
 				<addMul stat="earthRes" val="30" />
 			</effect>
 		</enchant1for>
@@ -310,12 +310,12 @@
 		<enchant2 name="magicLvl" val="#enchantMagicLvl"/>
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="dance_of_vampire">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="dance_of_vampire">
 				<add stat="absorbDam" val="8"/>
 			</effect>
 		</for>
 		<enchant1for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="dance_of_vampire">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="dance_of_vampire">
 				<add stat="absorbDam" val="8"/>
 			</effect>
 		</enchant1for>
@@ -342,12 +342,12 @@
 		<enchant2 name="aggroPoints" val="655"/>
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="dance_of_protection">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="dance_of_protection">
 				<addMul stat="damageZoneVuln" val="30" />
 			</effect>
 		</for>
 		<enchant1for>
-			<effect name="Buff" time="3600" val="0" stackOrder="1" stackType="dance_of_protection">
+			<effect name="Buff" time="10800" val="0" stackOrder="1" stackType="dance_of_protection">
 				<addMul stat="damageZoneVuln" val="30" />
 			</effect>
 		</enchant1for>
