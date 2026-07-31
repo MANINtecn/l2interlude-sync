@@ -2,26 +2,26 @@
 <list>
 	<npc id="29001" name="Queen Ant" title="" alias="queen_ant">
 		<set name="type" val="GrandBoss"/>
-		<set name="level" val="40"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="45.0"/>
 		<set name="height" val="53.0"/>
 		<set name="hitTimeFactor" val="0.37"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
-		<set name="exp" val="2179535.04"/>
-		<set name="sp" val="140740.0"/>
-		<set name="hp" val="145505.0"/>
+		<set name="exp" val="7200000.0"/>
+		<set name="sp" val="600000.0"/>
+		<set name="hp" val="600000.0"/>
 		<set name="mp" val="667.0"/>
 		<set name="hpRegen" val="495.04"/>
 		<set name="mpRegen" val="2.14"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="96.2325"/>
-		<set name="pDef" val="340.119"/>
-		<set name="mAtk" val="22.55715"/>
-		<set name="mDef" val="206.325"/>
+		<set name="pAtk" val="921.0000"/>
+		<set name="pDef" val="641.4000"/>
+		<set name="mAtk" val="496.2000"/>
+		<set name="mDef" val="670.8000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="116.1"/>
@@ -312,26 +312,26 @@
 	</npc>
 	<npc id="29006" name="Core" title="" alias="core">
 		<set name="type" val="GrandBoss"/>
-		<set name="level" val="50"/>
+		<set name="level" val="73"/>
 		<set name="radius" val="140.0"/>
 		<set name="height" val="75.0"/>
 		<set name="hitTimeFactor" val="0.6"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
-		<set name="exp" val="2041407.0"/>
-		<set name="sp" val="153786.0"/>
-		<set name="hp" val="102887.0"/>
+		<set name="exp" val="8400000.0"/>
+		<set name="sp" val="700000.0"/>
+		<set name="hp" val="700000.0"/>
 		<set name="mp" val="575.0"/>
 		<set name="hpRegen" val="649.74"/>
 		<set name="mpRegen" val="1.53"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="144.45"/>
-		<set name="pDef" val="426.7242"/>
-		<set name="mAtk" val="124.425"/>
-		<set name="mDef" val="264.42"/>
+		<set name="pAtk" val="1074.5000"/>
+		<set name="pDef" val="748.3000"/>
+		<set name="mAtk" val="578.9000"/>
+		<set name="mDef" val="782.6000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="0.0"/>
@@ -795,26 +795,26 @@
 	</npc>
 	<npc id="29014" name="Orfen" title="" alias="orfen">
 		<set name="type" val="GrandBoss"/>
-		<set name="level" val="50"/>
+		<set name="level" val="73"/>
 		<set name="radius" val="35.0"/>
 		<set name="height" val="143.0"/>
 		<set name="hitTimeFactor" val="0.71"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
-		<set name="exp" val="2041407.0"/>
-		<set name="sp" val="153786.0"/>
-		<set name="hp" val="205775.0"/>
+		<set name="exp" val="9000000.0"/>
+		<set name="sp" val="750000.0"/>
+		<set name="hp" val="850000.0"/>
 		<set name="mp" val="1660.0"/>
 		<set name="hpRegen" val="649.74"/>
 		<set name="mpRegen" val="2.14"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="149.31"/>
-		<set name="pDef" val="426.7242"/>
-		<set name="mAtk" val="30.8574"/>
-		<set name="mDef" val="264.42"/>
+		<set name="pAtk" val="1151.2500"/>
+		<set name="pDef" val="801.7500"/>
+		<set name="mAtk" val="620.2500"/>
+		<set name="mDef" val="838.5000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="87.3"/>
@@ -1439,16 +1439,16 @@
 	</npc>
 	<npc id="29022" name="Zaken" title="" alias="zaken">
 		<set name="type" val="GrandBoss"/>
-		<set name="level" val="60"/>
+		<set name="level" val="74"/>
 		<set name="radius" val="16.0"/>
 		<set name="height" val="32.0"/>
 		<set name="hitTimeFactor" val="0.59"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
-		<set name="exp" val="4879744.92"/>
-		<set name="sp" val="423589.0"/>
-		<set name="hp" val="543366.0"/>
+		<set name="exp" val="10800000.0"/>
+		<set name="sp" val="900000.0"/>
+		<set name="hp" val="1200000.0"/>
 		<set name="mp" val="1975.0"/>
 		<set name="hpRegen" val="799.68"/>
 		<set name="mpRegen" val="2.45"/>
@@ -1456,9 +1456,9 @@
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
 		<set name="pAtk" val="1832.796"/>
-		<set name="pDef" val="533.8359"/>
+		<set name="pDef" val="962.1000"/>
 		<set name="mAtk" val="4233.0204"/>
-		<set name="mDef" val="328.5765"/>
+		<set name="mDef" val="1006.2000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="296.37"/>
 		<set name="walkSpd" val="61.2"/>
