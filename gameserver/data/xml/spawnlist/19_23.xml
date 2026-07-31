@@ -4100,7 +4100,14 @@ Gludio Area
 	</territory>
 	<npcmaker name="queenant_room" territory="queenant_room" maximumNpcs="40">
 		<ai type="default_maker"/>
-		<npc id="29001" pos="-21610;181594;-5734;0" total="1" respawn="36hour" respawnRand="17hour" dbName="queen_ant" dbSaving="DEATH_TIME;PARAMETERS;POS">
+		<!-- IKARUS (2026-07-30): a coordenada retail (-21610;181594;-5734) nasce ENTERRADA
+		     no chao da caverna (as pernas dela ficavam dentro do terreno). Como o
+		     canSeeTarget traca a linha a partir da cabeca, o raio nascia dentro da pedra e
+		     dava "Cannot see target" em loop — impossivel ataca-la. Trocado pela coordenada
+		     VERIFICADA in-game (//geo pos reportou geodata valida e da' pra andar la).
+		     ATENCAO: o mesmo Z errado esta hardcoded no QueenAnt.java (onAttacked e
+		     onOutOfTerritory) — os dois foram corrigidos junto, senao ela voltava pro buraco. -->
+		<npc id="29001" pos="-21486;182062;-5720;0" total="1" respawn="36hour" respawnRand="17hour" dbName="queen_ant" dbSaving="DEATH_TIME;PARAMETERS;POS">
 			<privates>
 				<private id="29003" weight="2" respawn="10sec"/>
 				<private id="29003" weight="2" respawn="10sec"/>
