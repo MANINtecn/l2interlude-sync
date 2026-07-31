@@ -4,7 +4,7 @@
 		<set name="type" val="GrandBoss"/>
 		<set name="level" val="72"/>
 		<set name="radius" val="45.0"/>
-		<set name="height" val="53.0"/>
+		<set name="height" val="25.0"/>
 		<set name="hitTimeFactor" val="0.37"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
@@ -110,7 +110,7 @@
 	</npc>
 	<npc id="29002" name="Queen Ant Larva" title="" alias="queen_ant_larva">
 		<set name="type" val="Monster"/>
-		<set name="level" val="38"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="12.0"/>
 		<set name="height" val="8.0"/>
 		<set name="hitTimeFactor" val="0.35"/>
@@ -118,18 +118,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="592.0"/>
+		<set name="sp" val="4.1"/>
+		<set name="hp" val="2441.2"/>
 		<set name="mp" val="349.0"/>
 		<set name="hpRegen" val="5.53"/>
 		<set name="mpRegen" val="1.53"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="52.92"/>
-		<set name="pDef" val="59.5"/>
-		<set name="mAtk" val="43.778"/>
-		<set name="mDef" val="83.6"/>
+		<set name="pAtk" val="460.5000"/>
+		<set name="pDef" val="320.7000"/>
+		<set name="mAtk" val="248.1000"/>
+		<set name="mDef" val="335.4000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="250.98"/>
 		<set name="walkSpd" val="39.6"/>
@@ -158,7 +158,7 @@
 	</npc>
 	<npc id="29003" name="Nurse Ant" title="" alias="nurse_ant">
 		<set name="type" val="Monster"/>
-		<set name="level" val="35"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="26.0"/>
 		<set name="height" val="15.0"/>
 		<set name="hitTimeFactor" val="0.26"/>
@@ -166,18 +166,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="4000.0"/>
+		<set name="sp" val="4.1"/>
+		<set name="hp" val="16494.3"/>
 		<set name="mp" val="446.0"/>
 		<set name="hpRegen" val="170.64"/>
 		<set name="mpRegen" val="1.84"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="397.74"/>
-		<set name="pDef" val="288.15"/>
+		<set name="pAtk" val="460.5000"/>
+		<set name="pDef" val="320.7000"/>
 		<set name="mAtk" val="734.314"/>
-		<set name="mDef" val="209.0"/>
+		<set name="mDef" val="335.4000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="39.6"/>
@@ -206,7 +206,7 @@
 	</npc>
 	<npc id="29004" name="Guard Ant" title="" alias="guard_ant">
 		<set name="type" val="Monster"/>
-		<set name="level" val="37"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="26.0"/>
 		<set name="height" val="15.0"/>
 		<set name="hitTimeFactor" val="0.26"/>
@@ -214,18 +214,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="4342.0"/>
+		<set name="sp" val="4.1"/>
+		<set name="hp" val="17904.5"/>
 		<set name="mp" val="480.0"/>
 		<set name="hpRegen" val="181.7"/>
 		<set name="mpRegen" val="1.84"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="112.98"/>
-		<set name="pDef" val="309.4"/>
-		<set name="mAtk" val="51.212"/>
-		<set name="mDef" val="224.2"/>
+		<set name="pAtk" val="460.5000"/>
+		<set name="pDef" val="320.7000"/>
+		<set name="mAtk" val="248.1000"/>
+		<set name="mDef" val="335.4000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="39.6"/>
@@ -259,7 +259,7 @@
 	</npc>
 	<npc id="29005" name="Royal Guard Ant" title="" alias="royal_guard_ant">
 		<set name="type" val="Monster"/>
-		<set name="level" val="39"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="26.0"/>
 		<set name="height" val="15.0"/>
 		<set name="hitTimeFactor" val="0.26"/>
@@ -267,8 +267,8 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="7051.0"/>
+		<set name="sp" val="4.1"/>
+		<set name="hp" val="29075.3"/>
 		<set name="mp" val="514.0"/>
 		<set name="hpRegen" val="192.76"/>
 		<set name="mpRegen" val="1.84"/>
@@ -276,9 +276,9 @@
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
 		<set name="pAtk" val="767.34"/>
-		<set name="pDef" val="331.5"/>
+		<set name="pDef" val="320.7000"/>
 		<set name="mAtk" val="2127.776"/>
-		<set name="mDef" val="240.16"/>
+		<set name="mDef" val="335.4000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="39.6"/>
@@ -413,7 +413,7 @@
 	</npc>
 	<npc id="29007" name="Death Knight" title="" alias="b02_death_knight">
 		<set name="type" val="Monster"/>
-		<set name="level" val="50"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="12.0"/>
 		<set name="height" val="30.0"/>
 		<set name="hitTimeFactor" val="0.71"/>
@@ -421,18 +421,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="13816.0"/>
+		<set name="sp" val="6.8"/>
+		<set name="hp" val="93998.3"/>
 		<set name="mp" val="830.0"/>
 		<set name="hpRegen" val="262.28"/>
 		<set name="mpRegen" val="2.14"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;40;120"/>
 		<set name="baseRandomDamage" val="30"/>
-		<set name="pAtk" val="245.88"/>
-		<set name="pDef" val="395.115"/>
-		<set name="mAtk" val="107.835"/>
-		<set name="mDef" val="293.8"/>
+		<set name="pAtk" val="537.2500"/>
+		<set name="pDef" val="374.1500"/>
+		<set name="mAtk" val="289.4500"/>
+		<set name="mDef" val="391.3000"/>
 		<set name="crit" val="4.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="26.1"/>
@@ -468,7 +468,7 @@
 	</npc>
 	<npc id="29008" name="Death Wraith" title="" alias="b02_death_blader">
 		<set name="type" val="Monster"/>
-		<set name="level" val="55"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="15.0"/>
 		<set name="height" val="45.0"/>
 		<set name="hitTimeFactor" val="0.45"/>
@@ -476,18 +476,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="16011.0"/>
+		<set name="sp" val="6.8"/>
+		<set name="hp" val="108932.1"/>
 		<set name="mp" val="987.0"/>
 		<set name="hpRegen" val="292.3"/>
 		<set name="mpRegen" val="2.45"/>
 		<set name="baseAttackRange" val="80"/>
 		<set name="baseDamageRange" val="0;0;66;120"/>
 		<set name="baseRandomDamage" val="30"/>
-		<set name="pAtk" val="292.32"/>
-		<set name="pDef" val="457.24"/>
+		<set name="pAtk" val="537.2500"/>
+		<set name="pDef" val="374.1500"/>
 		<set name="mAtk" val="1200.01"/>
-		<set name="mDef" val="339.3"/>
+		<set name="mDef" val="391.3000"/>
 		<set name="crit" val="4.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="99.0"/>
@@ -524,7 +524,7 @@
 	</npc>
 	<npc id="29009" name="Dicor" title="" alias="b02_dicor">
 		<set name="type" val="Monster"/>
-		<set name="level" val="47"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="12.0"/>
 		<set name="height" val="25.5"/>
 		<set name="hitTimeFactor" val="0.13"/>
@@ -532,18 +532,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="12544.0"/>
+		<set name="sp" val="6.8"/>
+		<set name="hp" val="85344.1"/>
 		<set name="mp" val="738.0"/>
 		<set name="hpRegen" val="243.32"/>
 		<set name="mpRegen" val="2.14"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="225.03"/>
-		<set name="pDef" val="395.85"/>
-		<set name="mAtk" val="105.462"/>
-		<set name="mDef" val="288.4"/>
+		<set name="pAtk" val="537.2500"/>
+		<set name="pDef" val="374.1500"/>
+		<set name="mAtk" val="289.4500"/>
+		<set name="mDef" val="391.3000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="79.2"/>
@@ -578,7 +578,7 @@
 	</npc>
 	<npc id="29010" name="Validus" title="" alias="b02_validus">
 		<set name="type" val="Monster"/>
-		<set name="level" val="46"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="15.0"/>
 		<set name="height" val="29.0"/>
 		<set name="hitTimeFactor" val="0.3"/>
@@ -586,18 +586,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="12130.0"/>
+		<set name="sp" val="6.8"/>
+		<set name="hp" val="82527.4"/>
 		<set name="mp" val="707.0"/>
 		<set name="hpRegen" val="237.0"/>
 		<set name="mpRegen" val="2.14"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="212.55"/>
-		<set name="pDef" val="383.76"/>
-		<set name="mAtk" val="100.254"/>
-		<set name="mDef" val="280.0"/>
+		<set name="pAtk" val="537.2500"/>
+		<set name="pDef" val="374.1500"/>
+		<set name="mAtk" val="289.4500"/>
+		<set name="mDef" val="391.3000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="69.3"/>
@@ -631,7 +631,7 @@
 	</npc>
 	<npc id="29011" name="Susceptor" title="" alias="b02_susceptor">
 		<set name="type" val="Monster"/>
-		<set name="level" val="49"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="20.0"/>
 		<set name="height" val="35.0"/>
 		<set name="hitTimeFactor" val="0.43"/>
@@ -639,18 +639,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="13389.0"/>
+		<set name="sp" val="6.8"/>
+		<set name="hp" val="91093.1"/>
 		<set name="mp" val="799.0"/>
 		<set name="hpRegen" val="255.96"/>
 		<set name="mpRegen" val="2.14"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="252.33"/>
-		<set name="pDef" val="421.2"/>
-		<set name="mAtk" val="119.784"/>
-		<set name="mDef" val="306.6"/>
+		<set name="pAtk" val="537.2500"/>
+		<set name="pDef" val="374.1500"/>
+		<set name="mAtk" val="289.4500"/>
+		<set name="mDef" val="391.3000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="26.1"/>
@@ -685,7 +685,7 @@
 	</npc>
 	<npc id="29012" name="Perum" title="" alias="b02_perum">
 		<set name="type" val="Monster"/>
-		<set name="level" val="48"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="18.0"/>
 		<set name="height" val="34.0"/>
 		<set name="hitTimeFactor" val="0.41"/>
@@ -693,18 +693,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="12964.0"/>
+		<set name="sp" val="6.8"/>
+		<set name="hp" val="88201.6"/>
 		<set name="mp" val="768.0"/>
 		<set name="hpRegen" val="249.64"/>
 		<set name="mpRegen" val="2.14"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="238.29"/>
-		<set name="pDef" val="408.72"/>
-		<set name="mAtk" val="112.623"/>
-		<set name="mDef" val="297.5"/>
+		<set name="pAtk" val="537.2500"/>
+		<set name="pDef" val="374.1500"/>
+		<set name="mAtk" val="289.4500"/>
+		<set name="mDef" val="391.3000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="19.8"/>
@@ -742,7 +742,7 @@
 	</npc>
 	<npc id="29013" name="Premo" title="" alias="b02_premo">
 		<set name="type" val="Monster"/>
-		<set name="level" val="45"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="21.0"/>
 		<set name="height" val="35.0"/>
 		<set name="hitTimeFactor" val="0.61"/>
@@ -750,18 +750,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="11721.0"/>
+		<set name="sp" val="6.8"/>
+		<set name="hp" val="79744.8"/>
 		<set name="mp" val="677.0"/>
 		<set name="hpRegen" val="230.68"/>
 		<set name="mpRegen" val="2.14"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="200.46"/>
-		<set name="pDef" val="371.28"/>
-		<set name="mAtk" val="93.744"/>
-		<set name="mDef" val="270.2"/>
+		<set name="pAtk" val="537.2500"/>
+		<set name="pDef" val="374.1500"/>
+		<set name="mAtk" val="289.4500"/>
+		<set name="mDef" val="391.3000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="54.0"/>
@@ -902,7 +902,7 @@
 	</npc>
 	<npc id="29015" name="Raikel" title="" alias="raikel">
 		<set name="type" val="Monster"/>
-		<set name="level" val="48"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="37.0"/>
 		<set name="height" val="64.0"/>
 		<set name="hitTimeFactor" val="0.54"/>
@@ -910,18 +910,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="6482.0"/>
+		<set name="sp" val="4.1"/>
+		<set name="hp" val="26775.4"/>
 		<set name="mp" val="768.0"/>
 		<set name="hpRegen" val="249.64"/>
 		<set name="mpRegen" val="2.14"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="190.71"/>
-		<set name="pDef" val="408.72"/>
-		<set name="mAtk" val="70.959"/>
-		<set name="mDef" val="297.5"/>
+		<set name="pAtk" val="575.6250"/>
+		<set name="pDef" val="400.8750"/>
+		<set name="mAtk" val="310.1250"/>
+		<set name="mDef" val="419.2500"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="59.4"/>
@@ -955,7 +955,7 @@
 	</npc>
 	<npc id="29016" name="Raikel Leos" title="" alias="raikel_leos">
 		<set name="type" val="Monster"/>
-		<set name="level" val="49"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="37.0"/>
 		<set name="height" val="64.0"/>
 		<set name="hitTimeFactor" val="0.54"/>
@@ -963,8 +963,8 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="6694.0"/>
+		<set name="sp" val="4.1"/>
+		<set name="hp" val="27651.1"/>
 		<set name="mp" val="799.0"/>
 		<set name="hpRegen" val="255.96"/>
 		<set name="mpRegen" val="2.14"/>
@@ -972,9 +972,9 @@
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
 		<set name="pAtk" val="683.28"/>
-		<set name="pDef" val="421.2"/>
+		<set name="pDef" val="400.8750"/>
 		<set name="mAtk" val="2837.058"/>
-		<set name="mDef" val="306.6"/>
+		<set name="mDef" val="419.2500"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="59.4"/>
@@ -1008,7 +1008,7 @@
 	</npc>
 	<npc id="29017" name="Riba" title="" alias="riba">
 		<set name="type" val="Monster"/>
-		<set name="level" val="48"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="25.0"/>
 		<set name="height" val="72.0"/>
 		<set name="hitTimeFactor" val="0.45"/>
@@ -1016,18 +1016,18 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="6482.0"/>
+		<set name="sp" val="4.1"/>
+		<set name="hp" val="26775.4"/>
 		<set name="mp" val="768.0"/>
 		<set name="hpRegen" val="249.64"/>
 		<set name="mpRegen" val="2.14"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="190.71"/>
-		<set name="pDef" val="408.72"/>
-		<set name="mAtk" val="70.959"/>
-		<set name="mDef" val="297.5"/>
+		<set name="pAtk" val="575.6250"/>
+		<set name="pDef" val="400.8750"/>
+		<set name="mAtk" val="310.1250"/>
+		<set name="mDef" val="419.2500"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="59.4"/>
@@ -1061,7 +1061,7 @@
 	</npc>
 	<npc id="29018" name="Riba Iren" title="" alias="riba_iren">
 		<set name="type" val="Monster"/>
-		<set name="level" val="49"/>
+		<set name="level" val="72"/>
 		<set name="radius" val="25.0"/>
 		<set name="height" val="72.0"/>
 		<set name="hitTimeFactor" val="0.45"/>
@@ -1069,8 +1069,8 @@
 		<set name="lHand" val="0"/>
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
-		<set name="sp" val="1.0"/>
-		<set name="hp" val="13389.0"/>
+		<set name="sp" val="4.1"/>
+		<set name="hp" val="55306.3"/>
 		<set name="mp" val="799.0"/>
 		<set name="hpRegen" val="255.96"/>
 		<set name="mpRegen" val="2.14"/>
@@ -1078,9 +1078,9 @@
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
 		<set name="pAtk" val="683.28"/>
-		<set name="pDef" val="421.2"/>
+		<set name="pDef" val="400.8750"/>
 		<set name="mAtk" val="2837.058"/>
-		<set name="mDef" val="306.6"/>
+		<set name="mDef" val="419.2500"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="59.4"/>
@@ -1556,7 +1556,7 @@
 	</npc>
 	<npc id="29023" name="Doll Blader" title="" alias="doll_blader_b">
 		<set name="type" val="Monster"/>
-		<set name="level" val="58"/>
+		<set name="level" val="73"/>
 		<set name="radius" val="6.0"/>
 		<set name="height" val="12.0"/>
 		<set name="hitTimeFactor" val="0.5"/>
@@ -1565,17 +1565,17 @@
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
 		<set name="sp" val="0.0"/>
-		<set name="hp" val="1828.0"/>
+		<set name="hp" val="4037.1"/>
 		<set name="mp" val="1065.0"/>
 		<set name="hpRegen" val="10.27"/>
 		<set name="mpRegen" val="2.45"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;44;120"/>
 		<set name="baseRandomDamage" val="10"/>
-		<set name="pAtk" val="280.44"/>
-		<set name="pDef" val="135.965"/>
-		<set name="mAtk" val="236.684"/>
-		<set name="mDef" val="233.35"/>
+		<set name="pAtk" val="916.3980"/>
+		<set name="pDef" val="481.0500"/>
+		<set name="mAtk" val="2116.5102"/>
+		<set name="mDef" val="503.1000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="21.6"/>
@@ -1617,7 +1617,7 @@
 	</npc>
 	<npc id="29024" name="Vale master" title="" alias="vale_master_b">
 		<set name="type" val="Monster"/>
-		<set name="level" val="59"/>
+		<set name="level" val="73"/>
 		<set name="radius" val="12.0"/>
 		<set name="height" val="40.0"/>
 		<set name="hitTimeFactor" val="0.74"/>
@@ -1626,17 +1626,17 @@
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
 		<set name="sp" val="0.0"/>
-		<set name="hp" val="1880.0"/>
+		<set name="hp" val="4151.9"/>
 		<set name="mp" val="1102.0"/>
 		<set name="hpRegen" val="10.27"/>
 		<set name="mpRegen" val="2.45"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="294.48"/>
-		<set name="pDef" val="140.225"/>
-		<set name="mAtk" val="249.956"/>
-		<set name="mDef" val="239.85"/>
+		<set name="pAtk" val="916.3980"/>
+		<set name="pDef" val="481.0500"/>
+		<set name="mAtk" val="2116.5102"/>
+		<set name="mDef" val="503.1000"/>
 		<set name="crit" val="8.0"/>
 		<set name="atkSpd" val="247.42"/>
 		<set name="walkSpd" val="69.3"/>
@@ -1723,7 +1723,7 @@
 	</npc>
 	<npc id="29026" name="Pirate Zombie Captain" title="" alias="pirates_zombie_captain_b">
 		<set name="type" val="Monster"/>
-		<set name="level" val="60"/>
+		<set name="level" val="73"/>
 		<set name="radius" val="17.0"/>
 		<set name="height" val="28.0"/>
 		<set name="hitTimeFactor" val="0.76"/>
@@ -1732,17 +1732,17 @@
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
 		<set name="sp" val="0.0"/>
-		<set name="hp" val="1933.0"/>
+		<set name="hp" val="4268.9"/>
 		<set name="mp" val="1029.0"/>
 		<set name="hpRegen" val="10.27"/>
 		<set name="mpRegen" val="2.45"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;40;120"/>
 		<set name="baseRandomDamage" val="5"/>
-		<set name="pAtk" val="252.0"/>
-		<set name="pDef" val="135.675"/>
-		<set name="mAtk" val="227.052"/>
-		<set name="mDef" val="231.19"/>
+		<set name="pAtk" val="916.3980"/>
+		<set name="pDef" val="481.0500"/>
+		<set name="mAtk" val="2116.5102"/>
+		<set name="mDef" val="503.1000"/>
 		<set name="crit" val="12.0"/>
 		<set name="atkSpd" val="282.13"/>
 		<set name="walkSpd" val="13.5"/>
@@ -1781,7 +1781,7 @@
 	</npc>
 	<npc id="29027" name="Pirate Zombie" title="" alias="pirates_zombie_b">
 		<set name="type" val="Monster"/>
-		<set name="level" val="57"/>
+		<set name="level" val="73"/>
 		<set name="radius" val="10.0"/>
 		<set name="height" val="23.0"/>
 		<set name="hitTimeFactor" val="0.74"/>
@@ -1790,17 +1790,17 @@
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="0.0"/>
 		<set name="sp" val="0.0"/>
-		<set name="hp" val="1776.0"/>
+		<set name="hp" val="3922.2"/>
 		<set name="mp" val="747.0"/>
 		<set name="hpRegen" val="10.27"/>
 		<set name="mpRegen" val="2.14"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;40;120"/>
 		<set name="baseRandomDamage" val="5"/>
-		<set name="pAtk" val="233.64"/>
-		<set name="pDef" val="132.415"/>
-		<set name="mAtk" val="223.412"/>
-		<set name="mDef" val="226.85"/>
+		<set name="pAtk" val="916.3980"/>
+		<set name="pDef" val="481.0500"/>
+		<set name="mAtk" val="2116.5102"/>
+		<set name="mDef" val="503.1000"/>
 		<set name="crit" val="12.0"/>
 		<set name="atkSpd" val="282.13"/>
 		<set name="walkSpd" val="10.8"/>
