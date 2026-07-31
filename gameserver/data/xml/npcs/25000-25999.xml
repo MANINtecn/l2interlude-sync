@@ -32418,7 +32418,7 @@
 	</npc>
 	<npc id="25512" name="Gigantic Chaos Golem" title="Raid Boss" alias="dr_chaos_gigantic_golem">
 		<set name="type" val="GrandBoss"/>
-		<set name="level" val="52"/>
+		<set name="level" val="75"/>
 		<set name="radius" val="31.0"/>
 		<set name="height" val="51.8"/>
 		<set name="hitTimeFactor" val="0.43"/>
@@ -32427,17 +32427,17 @@
 		<set name="canSeeThrough" val="true"/>
 		<set name="exp" val="2313339.771584264"/>
 		<set name="sp" val="287521.0"/>
-		<set name="hp" val="338083.307894979"/>
+		<set name="hp" val="400000.0"/>
 		<set name="mp" val="804.0"/>
 		<set name="hpRegen" val="145.221991187936"/>
 		<set name="mpRegen" val="2.4"/>
 		<set name="baseAttackRange" val="40"/>
 		<set name="baseDamageRange" val="0;0;80;120"/>
 		<set name="baseRandomDamage" val="30"/>
-		<set name="pAtk" val="1032.30240396227"/>
-		<set name="pDef" val="628.50318"/>
-		<set name="mAtk" val="293.0909536533"/>
-		<set name="mDef" val="306.6"/>
+		<set name="pAtk" val="2100.0"/>
+		<set name="pDef" val="720.0"/>
+		<set name="mAtk" val="880.0"/>
+		<set name="mDef" val="420.0"/>
 		<set name="crit" val="4.0"/>
 		<set name="atkSpd" val="253.0"/>
 		<set name="walkSpd" val="18.0"/>
