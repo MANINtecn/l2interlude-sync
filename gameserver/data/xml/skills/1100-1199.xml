@@ -680,20 +680,44 @@
 		<set name="mpConsume" val="#mpConsume"/>
 		<set name="magicLvl" val="#magicLvl" />
 		<set name="power" val="#power"/>
-		<set name="target" val="AREA_CORPSE_MOB"/>
-		<set name="skillRadius" val="200"/>
+		<!-- IKARUS (2026-07-30) — CAVEIRA-BOMBA DO NECROMANCER.
+		     Era AREA_CORPSE_MOB (precisava mirar um cadaver). Agora a skill SACRIFICA a
+		     caveira invocada e explode NA POSICAO DELA, sem precisar de alvo (modo AUTO).
+		     "A caveira do Necromancer nao luta. Ela e entregue."
+		     - SERVITOR_AREA = target handler custom: pega os inimigos em volta do SERVITOR,
+		       nao do caster (o motor mira sempre a partir do caster, por isso precisou).
+		     - So funciona porque a invocacao ficou livre (target SELF nas summons): antes,
+		       sacrificar a caveira deixava o Necro sem pet ate achar um cadaver.
+		     - castRange subiu de 400 pra 900: a caveira e mandada pra frente, e o alcance
+		       agora e medido ate ELA. Com 400 nao alcancaria. -->
+		<set name="target" val="SERVITOR_AREA"/>
+		<set name="skillRadius" val="250"/>
 		<set name="reuseDelay" val="20000"/>
 		<set name="hitTime" val="1500"/>
 		<set name="skillType" val="MDAM"/>
 		<set name="isMagic" val="true"/>
 		<set name="operateType" val="ACTIVE"/>
-		<set name="castRange" val="400"/>
-		<set name="effectRange" val="900"/>
+		<set name="castRange" val="900"/>
+		<set name="effectRange" val="1100"/>
 		<enchant1 name="power" val="#ench1Power"/>
 		<enchant1 name="magicLvl" val="#enchantMagicLvl"/>
 		<enchant2 name="magicLvl" val="#enchantMagicLvl"/>		
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<enchant2 name="mpInitialConsume" val="#ench2MpConsume_Init"/>
+		<for>
+			<!-- Dano CONTINUO (nao burst) — o dono pediu pra nao ficar apelao: quem toma
+			     ve a barra caindo e tem chance de reagir. 5 tiques de 3s = 15 segundos. -->
+			<effect count="5" name="DamOverTime" time="3" val="120" stackOrder="8" stackType="ikarus_burst" abnormal="poison" effectPower="100" effectType="POISON"/>
+			<!-- M.Def -30% por 20s: e o que ABRE o alvo pras magias do Necro. Conserta um
+			     problema historico da classe (as maldicoes dele erram demais em nivel alto). -->
+			<effect count="1" name="Buff" time="20" val="0" stackOrder="1" stackType="ikarus_mdefdown" effectPower="100" effectType="DEBUFF">
+				<mul stat="mDef" val="0.7"/>
+			</effect>
+			<!-- self="1" = aplica no CASTER (DocumentBase ~217 -> attachSelf). E quem
+			     consome a caveira. Feito como efeito e nao dentro do target handler porque
+			     o handler e chamado mais de uma vez por cast e sacrificaria duas vezes. -->
+			<effect name="SacrificeServitor" self="1" noicon="1" val="0"/>
+		</for>
 	</skill>
 	<skill id="1156" levels="13" name="Forget" >
 		<table name="#mpInitialConsume"> 8 9 10 11 11 11 12 12 13 13 13 14 14 </table>
