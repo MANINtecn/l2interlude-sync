@@ -319,7 +319,13 @@
 		<set name="summonTotalLifeTime" val="1200000"/>
 		<set name="summonTimeLostIdle" val="500"/>
 		<set name="summonTimeLostActive" val="1000"/>
-		<set name="target" val="CORPSE_MOB"/>
+		<!-- IKARUS (2026-07-30): era CORPSE_MOB. O Necromancer era o UNICO summoner do
+		     jogo que precisava de um cadaver pra invocar — todas as summons de Warlock,
+		     Elemental e Phantom Summoner ja sao SELF. Isso o deixava sem pet no inicio da
+		     luta, em siege e depois de ressuscitar. Nao existe item retail que dispense o
+		     corpo; a correcao e trocar o target. Tambem e o que viabiliza a caveira-bomba
+		     (Corpse Burst 1155): sacrificar so faz sentido se der pra invocar outra na hora. -->
+		<set name="target" val="SELF"/>
 		<set name="reuseDelay" val="20000"/>
 		<set name="hitTime" val="1500"/>
 		<set name="skillType" val="SUMMON"/>
@@ -642,7 +648,13 @@
 		<set name="summonTotalLifeTime" val="1200000"/>
 		<set name="summonTimeLostIdle" val="500"/>
 		<set name="summonTimeLostActive" val="1000"/>
-		<set name="target" val="CORPSE_MOB"/>
+		<!-- IKARUS (2026-07-30): era CORPSE_MOB. O Necromancer era o UNICO summoner do
+		     jogo que precisava de um cadaver pra invocar — todas as summons de Warlock,
+		     Elemental e Phantom Summoner ja sao SELF. Isso o deixava sem pet no inicio da
+		     luta, em siege e depois de ressuscitar. Nao existe item retail que dispense o
+		     corpo; a correcao e trocar o target. Tambem e o que viabiliza a caveira-bomba
+		     (Corpse Burst 1155): sacrificar so faz sentido se der pra invocar outra na hora. -->
+		<set name="target" val="SELF"/>
 		<set name="reuseDelay" val="20000"/>
 		<set name="hitTime" val="1500"/>
 		<set name="skillType" val="SUMMON"/>
