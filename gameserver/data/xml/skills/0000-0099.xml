@@ -1373,7 +1373,9 @@
 		<set name="mpConsume" val="#mpConsume"/>
 		<set name="target" val="SELF"/>
 		<set name="reuseDelay" val="60000"/>
-		<set name="hitTime" val="4000"/>
+		<!-- IKARUS: era 4000 (4s de cast). Skill defensiva de janela curta com cast
+		     longo e inutil: quando terminava de castar, o perigo ja tinha passado. -->
+		<set name="hitTime" val="500"/>
 		<set name="skillType" val="REFLECT"/>
 		<set name="isMagic" val="true"/>
 		<set name="operateType" val="ACTIVE"/>
