@@ -1372,7 +1372,7 @@
 		<set name="mpInitialConsume" val="#mpInitialConsume"/>
 		<set name="mpConsume" val="#mpConsume"/>
 		<set name="target" val="SELF"/>
-		<set name="reuseDelay" val="6000"/>
+		<set name="reuseDelay" val="60000"/>
 		<set name="hitTime" val="4000"/>
 		<set name="skillType" val="REFLECT"/>
 		<set name="isMagic" val="true"/>
@@ -1382,14 +1382,26 @@
 		<enchant2 name="magicLvl" val="#enchantMagicLvl"/>
 		<enchant2 name="mpConsume" val="#ench2MpConsume"/>
 		<enchant2 name="mpInitialConsume" val="#ench2MpConsume_Init"/>
+		<!-- IKARUS (2026-07-30) — HELL KNIGHT: reflect de VERDADE, em janela curta.
+		     ANTES: 10/15/20% por 20 MINUTOS, e o stat `reflectDam` so' era lido no
+		     CreatureAttack — ou seja, refletia SO' auto-ataque corpo a corpo. Arco nao,
+		     magia nao, skill nao (a propria descricao retail admite isso).
+		     AGORA: 200% por 10 SEGUNDOS, e o reflect passou a valer tambem pra dano
+		     MAGICO e pra dano de SKILL FISICA (helper Formulas.applyDamageReflection,
+		     chamado no Mdam e no Pdam).
+		     - reuseDelay subiu de 6s pra 60s: com 10s de duracao e 6s de reuso a janela
+		       seria PERMANENTE, e 200% permanente quebra o jogo.
+		     - abnormal="magiccircle": o cliente Interlude tem uma lista FIXA de 24 efeitos
+		       visuais e NAO existe aura verde nela. O circulo magico e o mais proximo de
+		       uma aura. Aura verde de verdade so' com patch de cliente (mexer nos .u). -->
 		<for>
-			<effect name="Buff" time="1200" val="0" stackOrder="#stackOrder" stackType="dmg_shield">
-				<add stat="reflectDam" val="#reflectDam" />
+			<effect name="Buff" time="10" val="0" stackOrder="#stackOrder" stackType="dmg_shield" abnormal="magiccircle">
+				<add stat="reflectDam" val="200" />
 			</effect>
 		</for>
 		<enchant1for>
-			<effect name="Buff" time="#ench1time" val="0" stackOrder="3" stackType="dmg_shield">
-				<add stat="reflectDam" val="20"/>
+			<effect name="Buff" time="15" val="0" stackOrder="3" stackType="dmg_shield" abnormal="magiccircle">
+				<add stat="reflectDam" val="200"/>
 			</effect>
 		</enchant1for>
 	</skill>
