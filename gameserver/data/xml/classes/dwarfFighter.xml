@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <list>
 	<class><!-- Dwarven Fighter -->
 		<set id="53" baseLvl="1" fists="247"/>
@@ -63,8 +63,13 @@
 			<skill id="1322" lvl="1" cost="0" minLvl="1"/>
 		</skills>
 		<spawns>
-        <spawn x="-84690" y="242515" z="-3728"/>
-    </spawns>
+			<spawn x="108644" y="-173947" z="-400"/>
+			<spawn x="108678" y="-174002" z="-400"/>
+			<spawn x="108505" y="-173964" z="-400"/>
+			<spawn x="108512" y="-174026" z="-400"/>
+			<spawn x="108549" y="-174075" z="-400"/>
+			<spawn x="108576" y="-174122" z="-400"/>
+		</spawns>
 	</class>
 	<class><!-- Artisan -->
 		<set id="56" baseLvl="20" fists="247"/>
