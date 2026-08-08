@@ -1306,6 +1306,7 @@
 		</for>
 	</item>
 	<item id="165" type="Weapon" name="Yablonski's Hammer">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />

@@ -817,6 +817,7 @@
 		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6364" type="Weapon" name="Forgotten Blade">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -840,6 +841,7 @@
 		</for>
 	</item>
 	<item id="6365" type="Weapon" name="Basalt Battlehammer">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -864,6 +866,7 @@
 		</for>
 	</item>
 	<item id="6366" type="Weapon" name="Imperial Staff">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -889,6 +892,7 @@
 		</for>
 	</item>
 	<item id="6367" type="Weapon" name="Angel Slayer">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -913,6 +917,7 @@
 		</for>
 	</item>
 	<item id="6368" type="Weapon" name="Shining Bow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -939,6 +944,7 @@
 		</for>
 	</item>
 	<item id="6369" type="Weapon" name="Dragon Hunter Axe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
 		<set name="bodypart" val="lrhand" />
@@ -963,6 +969,7 @@
 		</for>
 	</item>
 	<item id="6370" type="Weapon" name="Saint Spear">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -988,6 +995,7 @@
 		</for>
 	</item>
 	<item id="6371" type="Weapon" name="Demon Splinter">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -1012,6 +1020,7 @@
 		</for>
 	</item>
 	<item id="6372" type="Weapon" name="Heaven's Divider">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -1035,6 +1044,7 @@
 		</for>
 	</item>
 	<item id="6373" type="Armor" name="Imperial Crusader Breastplate">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="chest" />
@@ -1049,6 +1059,7 @@
 		</for>
 	</item>
 	<item id="6374" type="Armor" name="Imperial Crusader Gaiters">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="legs" />
@@ -1063,6 +1074,7 @@
 		</for>
 	</item>
 	<item id="6375" type="Armor" name="Imperial Crusader Gauntlets">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="S" />
@@ -1076,6 +1088,7 @@
 		</for>
 	</item>
 	<item id="6376" type="Armor" name="Imperial Crusader Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="S" />
@@ -1089,6 +1102,7 @@
 		</for>
 	</item>
 	<item id="6377" type="Armor" name="Imperial Crusader Shield">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -1104,6 +1118,7 @@
 		</for>
 	</item>
 	<item id="6378" type="Armor" name="Imperial Crusader Helmet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="S" />
@@ -1117,6 +1132,7 @@
 		</for>
 	</item>
 	<item id="6379" type="Armor" name="Draconic Leather Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="fullarmor" />
@@ -1131,6 +1147,7 @@
 		</for>
 	</item>
 	<item id="6380" type="Armor" name="Draconic Leather Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="S" />
@@ -1144,6 +1161,7 @@
 		</for>
 	</item>
 	<item id="6381" type="Armor" name="Draconic Leather Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="S" />
@@ -1157,6 +1175,7 @@
 		</for>
 	</item>
 	<item id="6382" type="Armor" name="Draconic Leather Helmet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="S" />
@@ -1170,6 +1189,7 @@
 		</for>
 	</item>
 	<item id="6383" type="Armor" name="Major Arcana Robe">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="fullarmor" />
@@ -1185,6 +1205,7 @@
 		</for>
 	</item>
 	<item id="6384" type="Armor" name="Major Arcana Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="S" />
@@ -1198,6 +1219,7 @@
 		</for>
 	</item>
 	<item id="6385" type="Armor" name="Major Arcana Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="S" />
@@ -1211,6 +1233,7 @@
 		</for>
 	</item>
 	<item id="6386" type="Armor" name="Major Arcana Circlet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="S" />

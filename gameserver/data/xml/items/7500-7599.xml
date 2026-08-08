@@ -705,6 +705,7 @@
 		<set name="etcitem_type" val="QUEST" />
 	</item>
 	<item id="7575" type="Weapon" name="Draconic Bow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />

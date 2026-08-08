@@ -2,6 +2,7 @@
 <!-- Armas Icarus (pack williamfs) - craft 60% no Kraug; recipe items 9541-9550 -->
 <list>
 	<item id="9501" type="Weapon" name="Icarus Heavy Arms">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -25,6 +26,7 @@
 		</for>
 	</item>
 	<item id="9505" type="Weapon" name="Icarus Spitter">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -49,6 +51,7 @@
 		</for>
 	</item>
 	<item id="9509" type="Weapon" name="Icarus Hammer">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -72,6 +75,7 @@
 		</for>
 	</item>
 	<item id="9513" type="Weapon" name="Icarus Disperser">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -95,6 +99,7 @@
 		</for>
 	</item>
 	<item id="9517" type="Weapon" name="Icarus Hand">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -118,6 +123,7 @@
 		</for>
 	</item>
 	<item id="9521" type="Weapon" name="Icarus Sawsword">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -141,6 +147,7 @@
 		</for>
 	</item>
 	<item id="9525" type="Weapon" name="Icarus Spirit">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -164,6 +171,7 @@
 		</for>
 	</item>
 	<item id="9529" type="Weapon" name="Icarus Trident">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -187,6 +195,7 @@
 		</for>
 	</item>
 	<item id="9533" type="Weapon" name="Icarus Hall">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -210,6 +219,7 @@
 		</for>
 	</item>
 	<item id="9537" type="Weapon" name="Icarus Dual Sword">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUAL" />
 		<set name="bodypart" val="lrhand" />

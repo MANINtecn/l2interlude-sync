@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>
 	<item id="9400" type="Armor" name="Dynasty BreastPlate">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="chest" />
@@ -19,6 +20,7 @@
 		</for>
 	</item>
 	<item id="9401" type="Armor" name="Dynasty Gaiter">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="legs" />
@@ -32,6 +34,7 @@
 		</for>
 	</item>
 	<item id="9402" type="Armor" name="Dynasty Helmet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="S" />
@@ -44,6 +47,7 @@
 		</for>
 	</item>
 	<item id="9403" type="Armor" name="Dynasty Gauntlet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="S" />
@@ -56,6 +60,7 @@
 		</for>
 	</item>
 	<item id="9404" type="Armor" name="Dynasty Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="S" />
@@ -69,6 +74,7 @@
 	</item>
 
 	<item id="9405" type="Armor" name="Dynasty Leather Armor">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="chest" />
@@ -87,6 +93,7 @@
 		</for>
 	</item>
 	<item id="9406" type="Armor" name="Dynasty Leather Leggings">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
 		<set name="bodypart" val="legs" />
@@ -100,6 +107,7 @@
 		</for>
 	</item>
 	<item id="9407" type="Armor" name="Dynasty Leather Helmet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="S" />
@@ -112,6 +120,7 @@
 		</for>
 	</item>
 	<item id="9408" type="Armor" name="Dynasty Leather Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="S" />
@@ -124,6 +133,7 @@
 		</for>
 	</item>
 	<item id="9409" type="Armor" name="Dynasty Leather Boots">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="S" />
@@ -137,6 +147,7 @@
 	</item>
 
 	<item id="9410" type="Armor" name="Dynasty Tunic">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="chest" />
@@ -155,6 +166,7 @@
 		</for>
 	</item>
 	<item id="9411" type="Armor" name="Dynasty Stockings">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
 		<set name="bodypart" val="legs" />
@@ -169,6 +181,7 @@
 		</for>
 	</item>
 	<item id="9412" type="Armor" name="Dynasty Circlet">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="S" />
@@ -181,6 +194,7 @@
 		</for>
 	</item>
 	<item id="9413" type="Armor" name="Dynasty Gloves">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
 		<set name="crystal_type" val="S" />
@@ -193,6 +207,7 @@
 		</for>
 	</item>
 	<item id="9414" type="Armor" name="Dynasty Shoes">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
 		<set name="crystal_type" val="S" />

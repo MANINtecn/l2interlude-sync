@@ -255,6 +255,7 @@
 		</for>
 	</item>
 	<item id="920" type="Armor" name="Tateossian Necklace">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="neck" />
 		<set name="crystal_type" val="S" />
@@ -734,6 +735,7 @@
 		<set name="item_skill" val="2022-1" />
 	</item>
 	<item id="961" type="EtcItem" name="Crystal Scroll: Enchant Weapon (Grade S)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="material" val="PAPER" />
 		<set name="weight" val="10" />
@@ -743,6 +745,7 @@
 		<set name="handler" val="EnchantScrolls" />
 	</item>
 	<item id="962" type="EtcItem" name="Crystal Scroll: Enchant Armor (Grade S)">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="material" val="PAPER" />
 		<set name="weight" val="10" />

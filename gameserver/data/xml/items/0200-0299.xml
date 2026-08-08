@@ -355,6 +355,7 @@
 		</for>
 	</item>
 	<item id="214" type="Weapon" name="The Staff">
+		<set name="is_sellable" val="false" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -895,6 +896,7 @@
 		</for>
 	</item>
 	<item id="237" type="Weapon" name="Dragon's Tooth">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -2108,6 +2110,7 @@
 		</for>
 	</item>
 	<item id="290" type="Weapon" name="The Bow">
+		<set name="is_sellable" val="false" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
