@@ -470,7 +470,7 @@
 				<drop itemid="57" min="7500" max="15000" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="100.0">
-				<drop itemid="9456" min="5" max="40" chance="100.0"/>
+				<drop itemid="9456" min="2" max="13" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="80.0">
 				<drop itemid="6392" min="8" max="25" chance="100.0"/>
@@ -574,7 +574,7 @@
 				<drop itemid="57" min="7500" max="15000" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="100.0">
-				<drop itemid="9456" min="5" max="40" chance="100.0"/>
+				<drop itemid="9456" min="2" max="13" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="80.0">
 				<drop itemid="6392" min="8" max="25" chance="100.0"/>
@@ -673,7 +673,7 @@
 				<drop itemid="57" min="7500" max="15000" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="100.0">
-				<drop itemid="9456" min="5" max="40" chance="100.0"/>
+				<drop itemid="9456" min="2" max="13" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="80.0">
 				<drop itemid="6392" min="8" max="25" chance="100.0"/>
@@ -767,7 +767,7 @@
 				<drop itemid="57" min="7500" max="15000" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="100.0">
-				<drop itemid="9456" min="5" max="40" chance="100.0"/>
+				<drop itemid="9456" min="2" max="13" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="80.0">
 				<drop itemid="6392" min="8" max="25" chance="100.0"/>
@@ -871,7 +871,7 @@
 				<drop itemid="57" min="7500" max="15000" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="100.0">
-				<drop itemid="9456" min="8" max="60" chance="100.0"/>
+				<drop itemid="9456" min="3" max="20" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="80.0">
 				<drop itemid="6392" min="15" max="40" chance="100.0"/>
@@ -972,7 +972,7 @@
 				<drop itemid="57" min="7500" max="15000" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="100.0">
-				<drop itemid="9456" min="8" max="60" chance="100.0"/>
+				<drop itemid="9456" min="3" max="20" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="80.0">
 				<drop itemid="6392" min="15" max="40" chance="100.0"/>
@@ -1071,7 +1071,7 @@
 		</ai>
 		<drops>
 			<category type="DROP" chance="100.0">
-				<drop itemid="9456" min="5" max="40" chance="100.0"/>
+				<drop itemid="9456" min="2" max="13" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="80.0">
 				<drop itemid="6392" min="8" max="25" chance="100.0"/>
@@ -1170,7 +1170,7 @@
 		</ai>
 		<drops>
 			<category type="DROP" chance="100.0">
-				<drop itemid="9456" min="5" max="40" chance="100.0"/>
+				<drop itemid="9456" min="2" max="13" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="80.0">
 				<drop itemid="6392" min="8" max="25" chance="100.0"/>
